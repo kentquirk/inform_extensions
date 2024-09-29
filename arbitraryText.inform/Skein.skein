@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-2681">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-2681">
+        <command xml:space="preserve">arbitraryText</command>
+        <result xml:space="preserve">
+
+
+arbitraryText
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210312 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Example Location
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2696"></child>
+            <child nodeId="node-2682"></child>
+        </children>
+    </item>
+    <item nodeId="node-2682">
+        <command xml:space="preserve">whazza matta you?</command>
+        <result xml:space="preserve">matta is nuttin!.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2683"></child>
+        </children>
+    </item>
+    <item nodeId="node-2683">
+        <command xml:space="preserve">whazza bug?</command>
+        <result xml:space="preserve">bug is that thing you do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2684"></child>
+        </children>
+    </item>
+    <item nodeId="node-2684">
+        <command xml:space="preserve">whazza coffee</command>
+        <result xml:space="preserve">Sadly, "coffee" is a subject about which I know nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2685"></child>
+        </children>
+    </item>
+    <item nodeId="node-2685">
+        <command xml:space="preserve">whazza hammer for</command>
+        <result xml:space="preserve">hammer is for pounding in nails.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2686"></child>
+        </children>
+    </item>
+    <item nodeId="node-2686">
+        <command xml:space="preserve">whazza hammer bug</command>
+        <result xml:space="preserve">bug is that thing you do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2687"></child>
+        </children>
+    </item>
+    <item nodeId="node-2687">
+        <command xml:space="preserve">whazza bug hammer</command>
+        <result xml:space="preserve">bug hammer is for squashing bugs.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2688"></child>
+        </children>
+    </item>
+    <item nodeId="node-2688">
+        <command xml:space="preserve">whazza bughammer</command>
+        <result xml:space="preserve">bughammer is for squashing bugs.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2689"></child>
+        </children>
+    </item>
+    <item nodeId="node-2689">
+        <command xml:space="preserve">what about naomi?</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2690"></child>
+        </children>
+    </item>
+    <item nodeId="node-2690">
+        <command xml:space="preserve">what is life</command>
+        <result xml:space="preserve">default is I got nothin'.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2691"></child>
+        </children>
+    </item>
+    <item nodeId="node-2691">
+        <command xml:space="preserve">what is bug</command>
+        <result xml:space="preserve">bug is that thing you do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2692"></child>
+        </children>
+    </item>
+    <item nodeId="node-2692">
+        <command xml:space="preserve">what is a bug</command>
+        <result xml:space="preserve">bug is that thing you do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2693"></child>
+        </children>
+    </item>
+    <item nodeId="node-2693">
+        <command xml:space="preserve">what is a hammer for?</command>
+        <result xml:space="preserve">hammer is for pounding in nails.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2696">
+        <command xml:space="preserve">what is bug</command>
+        <result xml:space="preserve">A bug is that thing you do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2697"></child>
+        </children>
+    </item>
+    <item nodeId="node-2697">
+        <command xml:space="preserve">what is default</command>
+        <result xml:space="preserve">A default is something I don't know.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2698"></child>
+        </children>
+    </item>
+    <item nodeId="node-2698">
+        <command xml:space="preserve">what is hello</command>
+        <result xml:space="preserve">Ah, that is something I don't know.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2726"></child>
+        </children>
+    </item>
+    <item nodeId="node-2726">
+        <command xml:space="preserve">what is bughammer</command>
+        <result xml:space="preserve">A bughammer is for squashing bugs.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2772"></child>
+        </children>
+    </item>
+    <item nodeId="node-2772">
+        <command xml:space="preserve">what is entity</command>
+        <result xml:space="preserve">A entity is mysterious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2783"></child>
+        </children>
+    </item>
+    <item nodeId="node-2783">
+        <command xml:space="preserve">lookup north</command>
+        <result xml:space="preserve">direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2784"></child>
+        </children>
+    </item>
+    <item nodeId="node-2784">
+        <command xml:space="preserve">lookup foo</command>
+        <result xml:space="preserve">jargon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2785"></child>
+        </children>
+    </item>
+    <item nodeId="node-2785">
+        <command xml:space="preserve">lookup shiner</command>
+        <result xml:space="preserve">doggo.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2786"></child>
+        </children>
+    </item>
+    <item nodeId="node-2786">
+        <command xml:space="preserve">lookup nothing</command>
+        <result xml:space="preserve">shrug.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2796"></child>
+        </children>
+    </item>
+    <item nodeId="node-2796">
+        <command xml:space="preserve">lookup kitty</command>
+        <result xml:space="preserve">cat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2847"></child>
+        </children>
+    </item>
+    <item nodeId="node-2847">
+        <command xml:space="preserve">lookup my cat</command>
+        <result xml:space="preserve">shrug.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2936"></child>
+        </children>
+    </item>
+    <item nodeId="node-2936">
+        <command xml:space="preserve">lookup and shiner</command>
+        <result xml:space="preserve">doggo.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2937"></child>
+        </children>
+    </item>
+    <item nodeId="node-2937">
+        <command xml:space="preserve">lookup foo shiner</command>
+        <result xml:space="preserve">jargon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

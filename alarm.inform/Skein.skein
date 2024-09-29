@@ -1,0 +1,2584 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1244">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">alarm</command>
+        <result xml:space="preserve">
+
+
+This door is alarmed!
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210305 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1407"></child>
+            <child nodeId="node-1377"></child>
+            <child nodeId="node-1373"></child>
+            <child nodeId="node-1371"></child>
+            <child nodeId="node-1370"></child>
+            <child nodeId="node-1355"></child>
+            <child nodeId="node-1250"></child>
+            <child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">It's a blue door with a number next to it, heading in to the west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1246"></child>
+        </children>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">An ominous voice says "5".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+            <child nodeId="node-1251"></child>
+        </children>
+    </item>
+    <item nodeId="node-1251">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">You see nothing special about the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1252"></child>
+        </children>
+    </item>
+    <item nodeId="node-1252">
+        <command xml:space="preserve">x number</command>
+        <result xml:space="preserve">It's a bit of rough slate, hanging from a nail, with a painting of an anchor and "1789" in big numbers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1253"></child>
+        </children>
+    </item>
+    <item nodeId="node-1253">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening the blue door)
+An ominous voice says "5".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1254"></child>
+        </children>
+    </item>
+    <item nodeId="node-1254">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+An ominous voice says "4".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1255"></child>
+        </children>
+    </item>
+    <item nodeId="node-1255">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1256"></child>
+        </children>
+    </item>
+    <item nodeId="node-1256">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+An ominous voice says "3".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1257"></child>
+        </children>
+    </item>
+    <item nodeId="node-1257">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+You see nothing special about the brass key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1258"></child>
+        </children>
+    </item>
+    <item nodeId="node-1258">
+        <command xml:space="preserve">x number</command>
+        <result xml:space="preserve">It's a bit of rough slate, hanging from a nail, with a painting of an anchor and "1789" in big numbers.
+
+An ominous voice says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1259"></child>
+        </children>
+    </item>
+    <item nodeId="node-1259">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">An ominous voice says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1260"></child>
+        </children>
+    </item>
+    <item nodeId="node-1260">
+        <command xml:space="preserve">enter 1789</command>
+        <result xml:space="preserve">The alarm goes silent and dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1261"></child>
+        </children>
+    </item>
+    <item nodeId="node-1261">
+        <command xml:space="preserve">type 1789</command>
+        <result xml:space="preserve">You have re-armed the alarm system!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1262"></child>
+        </children>
+    </item>
+    <item nodeId="node-1262">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1263"></child>
+        </children>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">An ominous voice says "5".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+        </children>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">enter 1789</command>
+        <result xml:space="preserve">The alarm goes silent and dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+        </children>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is not lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">enter 1789</command>
+        <result xml:space="preserve">You have re-armed the alarm system!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">quit</command>
+        <result xml:space="preserve">Are you sure you want to quit? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">no</command>
+        <result xml:space="preserve">
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1347"></child>
+            <child nodeId="node-1313"></child>
+            <child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">A tinny voice says "INTRUSION ALERT -- 5".
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door. The side door leads out to the east.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1297"></child>
+            <child nodeId="node-1293"></child>
+            <child nodeId="node-1289"></child>
+            <child nodeId="node-1282"></child>
+            <child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1275"></child>
+        </children>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a brass key
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">x alrm</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The house number is displayed in brass digits on the door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">The alarm is ticking!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a brass key
+
+The alarm goes off with an earsplitting wail.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">type 78</command>
+        <result xml:space="preserve">You may not name an object.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">type 7888</command>
+        <result xml:space="preserve">You may not name an object.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">type 78-88</command>
+        <result xml:space="preserve">You may not name an object.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1285"></child>
+        </children>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">type 99-99</command>
+        <result xml:space="preserve">You may not name an object.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1286"></child>
+        </children>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">type 99-99 on alarm</command>
+        <result xml:space="preserve">You may not name an object.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1287"></child>
+        </children>
+    </item>
+    <item nodeId="node-1287">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1288"></child>
+        </children>
+    </item>
+    <item nodeId="node-1288">
+        <command xml:space="preserve">type 1234</command>
+        <result xml:space="preserve">You may not name an object.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1289">
+        <command xml:space="preserve">type 7 on alarm</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1290"></child>
+        </children>
+    </item>
+    <item nodeId="node-1290">
+        <command xml:space="preserve">type 8</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1291"></child>
+        </children>
+    </item>
+    <item nodeId="node-1291">
+        <command xml:space="preserve">type 8 on door</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1292"></child>
+        </children>
+    </item>
+    <item nodeId="node-1292">
+        <command xml:space="preserve">type</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1293">
+        <command xml:space="preserve">type 18-99</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1294"></child>
+        </children>
+    </item>
+    <item nodeId="node-1294">
+        <command xml:space="preserve">type 1999 on alarm</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1295"></child>
+        </children>
+    </item>
+    <item nodeId="node-1295">
+        <command xml:space="preserve">type</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1296"></child>
+        </children>
+    </item>
+    <item nodeId="node-1296">
+        <command xml:space="preserve">type 19-99 on keypad</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1297">
+        <command xml:space="preserve">type 1234 on keypad</command>
+        <result xml:space="preserve">The alarm emits a brief chirp after the first 4 digits but that's all.
+
+An ominous voice from the alarm box says "4".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1298"></child>
+        </children>
+    </item>
+    <item nodeId="node-1298">
+        <command xml:space="preserve">type 1234 on alarm box</command>
+        <result xml:space="preserve">The keypad emits a sad chirp but nothing else happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1299"></child>
+        </children>
+    </item>
+    <item nodeId="node-1299">
+        <command xml:space="preserve">type 123</command>
+        <result xml:space="preserve">Nothing happens.
+
+An ominous voice from the alarm box says "3".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1300"></child>
+        </children>
+    </item>
+    <item nodeId="node-1300">
+        <command xml:space="preserve">type 123</command>
+        <result xml:space="preserve">Nothing happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1301"></child>
+        </children>
+    </item>
+    <item nodeId="node-1301">
+        <command xml:space="preserve">type 12345</command>
+        <result xml:space="preserve">The alarm emits a brief chirp after the first 4 digits but that's all.
+
+An ominous voice from the alarm box says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1302"></child>
+        </children>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">type 1789</command>
+        <result xml:space="preserve">The alarm goes silent and dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1303"></child>
+        </children>
+    </item>
+    <item nodeId="node-1303">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1304"></child>
+        </children>
+    </item>
+    <item nodeId="node-1304">
+        <command xml:space="preserve">type 1688</command>
+        <result xml:space="preserve">The keypad emits a sad chirp but nothing else happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1305"></child>
+        </children>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">type 1688 on alarm box</command>
+        <result xml:space="preserve">The keypad emits a sad chirp but nothing else happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1306"></child>
+        </children>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">type foo</command>
+        <result xml:space="preserve">[keypad-typing "foo"]
+Nothing happens.
+
+[keypad-typing "foo" - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1308"></child>
+        </children>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">type foo on alarm</command>
+        <result xml:space="preserve">[keypad-typing "foo"]
+Nothing happens.
+
+[keypad-typing "foo" - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1309"></child>
+        </children>
+    </item>
+    <item nodeId="node-1309">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">[examining the alarm box]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+[examining the alarm box - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">take box</command>
+        <result xml:space="preserve">[taking the alarm box]
+That's hardly portable.
+[taking the alarm box - failed the can't take scenery rule]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1311"></child>
+        </children>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">[taking inventory]
+You are carrying:
+  a brass key
+
+[taking inventory - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1312"></child>
+        </children>
+    </item>
+    <item nodeId="node-1312">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">[looking]
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+[looking - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1313">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">A tinny voice says "INTRUSION ALERT -- 5".
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door. The side door leads out to the east.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1325"></child>
+            <child nodeId="node-1314"></child>
+        </children>
+    </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+You see nothing special about the brass key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+        </children>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">x box</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The house number is displayed in brass digits on the door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1318"></child>
+        </children>
+    </item>
+    <item nodeId="node-1318">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+        </children>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">[going inside]
+[going inside - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1321"></child>
+        </children>
+    </item>
+    <item nodeId="node-1321">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1322"></child>
+        </children>
+    </item>
+    <item nodeId="node-1322">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1323"></child>
+        </children>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door. The side door leads out to the east.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+A tinny voice says "INTRUSION ALERT -- 4".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1339"></child>
+            <child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a small speaker, a numeric keypad, a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display that says "Enter Code to Disarm".
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">enter code 1789</command>
+        <result xml:space="preserve">The alarm goes silent and dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a small speaker, a numeric keypad, a red LED labeled "ARMED" which is not lit, and a green LED labeled "ALERT" which is dark. There is also a display that says "Enter Code to Arm".
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">enter code 1789</command>
+        <result xml:space="preserve">You have re-armed the alarm system!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+        </children>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">A tinny voice says "INTRUSION ALERT -- 5".
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door. The side door leads out to the east.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">It's a door heading east to the outside.
+
+A tinny voice says "INTRUSION ALERT -- 4".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">It's a blue door with a number next to it, heading in to the west.
+
+A tinny voice says "INTRUSION ALERT -- 3".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">x number</command>
+        <result xml:space="preserve">It's a bit of rough slate, hanging from a nail, with a painting of an anchor and "1789" in big numbers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">A tinny voice says "INTRUSION ALERT -- 3".
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door. The side door leads out to the east.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">enter code</command>
+        <result xml:space="preserve">You need to enter a numeric code.
+
+A tinny voice says "INTRUSION ALERT -- 2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">enter code 1789</command>
+        <result xml:space="preserve">The alarm goes silent and dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1339">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1340"></child>
+        </children>
+    </item>
+    <item nodeId="node-1340">
+        <command xml:space="preserve">go out</command>
+        <result xml:space="preserve">An ominous voice says "3".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1341"></child>
+        </children>
+    </item>
+    <item nodeId="node-1341">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1342"></child>
+        </children>
+    </item>
+    <item nodeId="node-1342">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1343"></child>
+        </children>
+    </item>
+    <item nodeId="node-1343">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">[exiting]
+[exiting - failed]
+
+An ominous voice says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1344"></child>
+        </children>
+    </item>
+    <item nodeId="node-1344">
+        <command xml:space="preserve">go out</command>
+        <result xml:space="preserve">[going outside]
+[going outside - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1345"></child>
+        </children>
+    </item>
+    <item nodeId="node-1345">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">[going inside]
+[(1) going west]
+An ominous voice says "2".[(1) going west - succeeded]
+
+[going inside - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1346"></child>
+        </children>
+    </item>
+    <item nodeId="node-1346">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">[exiting]
+[(1) going east]
+
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+[(1) going east - succeeded]
+
+[exiting - failed]
+
+An ominous voice says "1".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1347">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1348"></child>
+        </children>
+    </item>
+    <item nodeId="node-1348">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1349"></child>
+        </children>
+    </item>
+    <item nodeId="node-1349">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1350"></child>
+        </children>
+    </item>
+    <item nodeId="node-1350">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">The alarm box is beeping once a second. There is a display on the box that is showing a countdown. It currently reads 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1351"></child>
+        </children>
+    </item>
+    <item nodeId="node-1351">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+That's unlocked at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1352"></child>
+        </children>
+    </item>
+    <item nodeId="node-1352">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The house number is displayed in brass digits on the door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1353"></child>
+        </children>
+    </item>
+    <item nodeId="node-1353">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1354"></child>
+        </children>
+    </item>
+    <item nodeId="node-1354">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">[going west]
+
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+[going west - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1355">
+        <command xml:space="preserve">type 123</command>
+        <result xml:space="preserve">You need to be near a keypad to type on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1356"></child>
+        </children>
+    </item>
+    <item nodeId="node-1356">
+        <command xml:space="preserve">enter 123</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1357"></child>
+        </children>
+    </item>
+    <item nodeId="node-1357">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1358"></child>
+        </children>
+    </item>
+    <item nodeId="node-1358">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1359"></child>
+        </children>
+    </item>
+    <item nodeId="node-1359">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">An ominous voice says "5".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1360"></child>
+        </children>
+    </item>
+    <item nodeId="node-1360">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">An ominous voice says "4".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1361"></child>
+        </children>
+    </item>
+    <item nodeId="node-1361">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1362"></child>
+        </children>
+    </item>
+    <item nodeId="node-1362">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+An ominous voice says "3".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1363"></child>
+        </children>
+    </item>
+    <item nodeId="node-1363">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1364"></child>
+        </children>
+    </item>
+    <item nodeId="node-1364">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+An ominous voice says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1365"></child>
+        </children>
+    </item>
+    <item nodeId="node-1365">
+        <command xml:space="preserve">go in</command>
+        <result xml:space="preserve">An ominous voice says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1366"></child>
+        </children>
+    </item>
+    <item nodeId="node-1366">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1367"></child>
+        </children>
+    </item>
+    <item nodeId="node-1367">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">[going inside]
+[going inside - failed]
+
+An ominous voice says "1".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1368"></child>
+        </children>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">[going east]
+
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door. The door leads west.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+[going east - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1369"></child>
+        </children>
+    </item>
+    <item nodeId="node-1369">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">[going west]
+An ominous voice says "1".[going west - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1370">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] unlock door
+(with the brass key)
+You unlock the blue door.
+
+&gt;[2] open door
+You open the blue door.
+
+&gt;[3] w
+An ominous voice from the alarm box says "5".
+&gt;[4] look at alarm
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 5.
+
+An ominous voice from the alarm box says "4".
+&gt;[5] type 123 on keyboard
+The alarm emits a brief chirp after the first 4 digits but that's all.
+
+&gt;[6] type 12345
+The alarm emits a brief chirp after the first 4 digits but that's all.
+
+An ominous voice from the alarm box says "3".
+&gt;[7] type 9999
+The keypad emits a sad chirp but nothing else happens.
+
+&gt;[8] x key
+You see nothing special about the brass key.
+
+An ominous voice from the alarm box says "2".
+&gt;[9] x alarm
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 2.
+
+&gt;[10] read key
+You see nothing special about the brass key.
+
+An ominous voice from the alarm box says "1".
+&gt;[11] x alarm
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 1.
+
+&gt;[12] type 1789
+The alarm goes silent and dark.
+
+&gt;[13] x alarm
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is not lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] unlock door
+[2] open door
+[3] w
+[4] look at alarm
+[5] type 123 on keyboard
+[6] type 12345
+[7] type 9999
+[8] x key
+[9] x alarm
+[10] read key
+[11] x alarm
+[12] type 1789
+[13] x alarm
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+(Testing.)
+
+&gt;[1] unlock door
+(with the brass key)
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't unlock without a lock rule" applies.]
+[Rule "can't unlock what's already unlocked rule" applies.]
+[Rule "can't unlock without the correct key rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard unlocking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report unlocking rule" applies.]
+You unlock the blue door.
+[Rule "last specific action-processing rule" applies.]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[2] open door
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't open unless openable rule" applies.]
+[Rule "can't open what's locked rule" applies.]
+[Rule "can't open what's already open rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard opening rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "reveal any newly visible interior rule" applies.]
+[Rule "standard report opening rule" applies.]
+You open the blue door.
+[Rule "last specific action-processing rule" applies.]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[3] w
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "standard set going variables rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't travel in what's not a vehicle rule" applies.]
+[Rule "can't go through undescribed doors rule" applies.]
+[Rule "can't go through closed doors rule" applies.]
+[Rule "determine map connection rule" applies.]
+[Rule "can't go that way rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "move player and vehicle rule" applies.]
+[Rule "move floating objects rule" applies.]
+[Rule "check light in new location rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "After going to Mud Room" applies.]
+An ominous voice from the alarm box says "5".
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[4] look at alarm
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 5.
+
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "alarm ticks" applies.]
+An ominous voice from the alarm box says "4".
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[5] type 123 on keyboard
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "Rule for supplying a missing second noun while keypad-typing" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check keypad-typing" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "Carry out keypad-typing the topic understood" applies.]
+The alarm emits a brief chirp after the first 4 digits but that's all.
+[Rule "after stage rule" applies.]
+
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[6] type 12345
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "Rule for supplying a missing second noun while keypad-typing" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check keypad-typing" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "Carry out keypad-typing the topic understood" applies.]
+The alarm emits a brief chirp after the first 4 digits but that's all.
+[Rule "after stage rule" applies.]
+
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "alarm ticks" applies.]
+An ominous voice from the alarm box says "3".
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[7] type 9999
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "Rule for supplying a missing second noun while keypad-typing" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check keypad-typing" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "Carry out keypad-typing the topic understood" applies.]
+The keypad emits a sad chirp but nothing else happens.
+[Rule "after stage rule" applies.]
+
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[8] x key
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+You see nothing special about the brass key.
+[Rule "after stage rule" applies.]
+
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "alarm ticks" applies.]
+An ominous voice from the alarm box says "2".
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[9] x alarm
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 2.
+
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[10] read key
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+You see nothing special about the brass key.
+[Rule "after stage rule" applies.]
+
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "alarm ticks" applies.]
+An ominous voice from the alarm box says "1".
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[11] x alarm
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 1.
+
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[12] type 1789
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "Rule for supplying a missing second noun while keypad-typing" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check keypad-typing" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "Carry out keypad-typing the topic understood" applies.]
+The alarm goes silent and dark.
+[Rule "after stage rule" applies.]
+
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "alarm ticks" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;[13] x alarm
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is not lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve">[1] unlock door
+[2] open door
+[3] w
+[4] look at alarm
+[5] type 123 on keyboard
+[6] type 12345
+[7] type 9999
+[8] x key
+[9] x alarm
+[10] read key
+[11] x alarm
+[12] type 1789
+[13] x alarm
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+        </children>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1375"></child>
+        </children>
+    </item>
+    <item nodeId="node-1375">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1376"></child>
+        </children>
+    </item>
+    <item nodeId="node-1376">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1377">
+        <command xml:space="preserve">open</command>
+        <result xml:space="preserve">(the brass key)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1378"></child>
+        </children>
+    </item>
+    <item nodeId="node-1378">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">look around</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+        </children>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+You see nothing special about the brass key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1382"></child>
+        </children>
+    </item>
+    <item nodeId="node-1382">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">It's a blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1383"></child>
+        </children>
+    </item>
+    <item nodeId="node-1383">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a brass key
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1384"></child>
+        </children>
+    </item>
+    <item nodeId="node-1384">
+        <command xml:space="preserve">unlock door with key</command>
+        <result xml:space="preserve">You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1385"></child>
+        </children>
+    </item>
+    <item nodeId="node-1385">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1386"></child>
+        </children>
+    </item>
+    <item nodeId="node-1386">
+        <command xml:space="preserve">enter house</command>
+        <result xml:space="preserve">You need to be near a keypad to type on it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1387"></child>
+        </children>
+    </item>
+    <item nodeId="node-1387">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">An ominous voice says "5".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1388"></child>
+        </children>
+    </item>
+    <item nodeId="node-1388">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+An ominous voice says "4".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1389"></child>
+        </children>
+    </item>
+    <item nodeId="node-1389">
+        <command xml:space="preserve">x alarm</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a numeric keypad, a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1390"></child>
+        </children>
+    </item>
+    <item nodeId="node-1390">
+        <command xml:space="preserve">turn</command>
+        <result xml:space="preserve">(the brass key)
+Nothing obvious happens.
+
+An ominous voice says "3".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1391"></child>
+        </children>
+    </item>
+    <item nodeId="node-1391">
+        <command xml:space="preserve">turn off alarm</command>
+        <result xml:space="preserve">It isn't something you can switch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1392"></child>
+        </children>
+    </item>
+    <item nodeId="node-1392">
+        <command xml:space="preserve">go</command>
+        <result xml:space="preserve">You'll have to say which compass direction to go in.
+
+An ominous voice says "2".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1393"></child>
+        </children>
+    </item>
+    <item nodeId="node-1393">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1394"></child>
+        </children>
+    </item>
+    <item nodeId="node-1394">
+        <command xml:space="preserve">x slate panel</command>
+        <result xml:space="preserve">It's a bit of rough slate, hanging from a nail, with a painting of an anchor and "1789" in big numbers.
+
+An ominous voice says "1".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1395"></child>
+        </children>
+    </item>
+    <item nodeId="node-1395">
+        <command xml:space="preserve">run away</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1396"></child>
+        </children>
+    </item>
+    <item nodeId="node-1396">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1397"></child>
+        </children>
+    </item>
+    <item nodeId="node-1397">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+An ominous voice says "0".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1398"></child>
+        </children>
+    </item>
+    <item nodeId="node-1398">
+        <command xml:space="preserve">disarm</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1399"></child>
+        </children>
+    </item>
+    <item nodeId="node-1399">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1400"></child>
+        </children>
+    </item>
+    <item nodeId="node-1400">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">An ominous voice says "0".
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1401"></child>
+        </children>
+    </item>
+    <item nodeId="node-1401">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+This is a navy blue door that has been faded and peeled by a western exposure.
+
+The alarm triggers with an earsplitting wail.  The neighbors will certainly call the cops.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1402"></child>
+        </children>
+    </item>
+    <item nodeId="node-1402">
+        <command xml:space="preserve">enter code</command>
+        <result xml:space="preserve">You need to enter a numeric code.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1403"></child>
+        </children>
+    </item>
+    <item nodeId="node-1403">
+        <command xml:space="preserve">enter code 1789</command>
+        <result xml:space="preserve">The alarm goes silent and dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1404"></child>
+        </children>
+    </item>
+    <item nodeId="node-1404">
+        <command xml:space="preserve">whew</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1405"></child>
+        </children>
+    </item>
+    <item nodeId="node-1405">
+        <command xml:space="preserve">disarm alarm</command>
+        <result xml:space="preserve">You need to enter a numeric code.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1406"></child>
+        </children>
+    </item>
+    <item nodeId="node-1406">
+        <command xml:space="preserve">disarm alarm with 1787</command>
+        <result xml:space="preserve">The keypad emits a sad chirp but nothing else happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1407">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1428"></child>
+            <child nodeId="node-1408"></child>
+        </children>
+    </item>
+    <item nodeId="node-1408">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] unlock door
+(with the brass key)
+[unlocking the blue door with the brass key]
+You unlock the blue door.
+[unlocking the blue door with the brass key - succeeded]
+
+&gt;[2] open door
+[opening the blue door]
+You open the blue door.
+[opening the blue door - succeeded]
+
+&gt;[3] w
+[going west]
+You can't go that way.
+[going west - failed the can't go that way rule]
+
+&gt;[4] look at alarm
+[examining the alarm box]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+[examining the alarm box - succeeded]
+
+&gt;[5] type 123 on keyboard
+[keypad-typing "123 on keyboard"]
+The alarm emits a brief chirp after the first 4 digits but that's all.
+
+[keypad-typing "123 on keyboard" - succeeded]
+
+&gt;[6] east
+[going east]
+
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+You can see a blue door here.
+
+[going east - succeeded]
+
+&gt;[7] look
+[looking]
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+You can see a blue door here.
+
+[looking - succeeded]
+
+&gt;[8] west
+[going west]
+An ominous voice says "5".[going west - succeeded]
+
+&gt;[9] type 12345
+[keypad-typing "12345"]
+The alarm emits a brief chirp after the first 4 digits but that's all.
+
+[keypad-typing "12345" - succeeded]
+
+An ominous voice says "4".
+&gt;[10] type 9999
+[keypad-typing "9999"]
+The keypad emits a sad chirp but nothing else happens.
+
+[keypad-typing "9999" - succeeded]
+
+&gt;[11] x key
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+An ominous voice says "3".
+&gt;[12] x alarm
+[examining the alarm box]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 3.
+
+[examining the alarm box - succeeded]
+
+&gt;[13] read key
+[examining the brass key]
+You see nothing special about the brass key.
+
+[examining the brass key - succeeded]
+
+An ominous voice says "2".
+&gt;[14] x alarm
+[examining the alarm box]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is flashing. There is also a display which is currently 2.
+
+[examining the alarm box - succeeded]
+
+&gt;[15] type 1789
+[keypad-typing "1789"]
+The alarm goes silent and dark.
+
+[keypad-typing "1789" - succeeded]
+
+&gt;[16] x alarm
+[examining the alarm box]
+It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is not lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+[examining the alarm box - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] unlock door
+[2] open door
+[3] w
+[4] look at alarm
+[5] type 123 on keyboard
+[6] east
+[7] look
+[8] west
+[9] type 12345
+[10] type 9999
+[11] x key
+[12] x alarm
+[13] read key
+[14] x alarm
+[15] type 1789
+[16] x alarm
+</commentary>
+        <children><child nodeId="node-1409"></child>
+        </children>
+    </item>
+    <item nodeId="node-1409">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">[restarting the game]
+Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1410"></child>
+        </children>
+    </item>
+    <item nodeId="node-1410">
+        <command xml:space="preserve">yest</command>
+        <result xml:space="preserve">Please answer yes or no.&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1411"></child>
+        </children>
+    </item>
+    <item nodeId="node-1411">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">
+
+
+This door is alarmed!
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210305 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1412"></child>
+        </children>
+    </item>
+    <item nodeId="node-1412">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1413"></child>
+        </children>
+    </item>
+    <item nodeId="node-1413">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1414"></child>
+        </children>
+    </item>
+    <item nodeId="node-1414">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1415"></child>
+        </children>
+    </item>
+    <item nodeId="node-1415">
+        <command xml:space="preserve">x box</command>
+        <result xml:space="preserve">It's the control panel for a burglar alarm. It has a red LED labeled "ARMED" which is lit, and a green LED labeled "ALERT" which is dark. There is also a display which is currently blank.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1416"></child>
+        </children>
+    </item>
+    <item nodeId="node-1416">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1417"></child>
+        </children>
+    </item>
+    <item nodeId="node-1417">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1418"></child>
+        </children>
+    </item>
+    <item nodeId="node-1418">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Side Porch
+You're on the side porch. The number is painted on a slate panel next to the door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1419"></child>
+        </children>
+    </item>
+    <item nodeId="node-1419">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the brass key)
+You see nothing special about the brass key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1420"></child>
+        </children>
+    </item>
+    <item nodeId="node-1420">
+        <command xml:space="preserve">x number</command>
+        <result xml:space="preserve">It's a bit of rough slate, hanging from a nail, with a painting of an anchor and "1789" in big numbers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1421"></child>
+        </children>
+    </item>
+    <item nodeId="node-1421">
+        <command xml:space="preserve">read number</command>
+        <result xml:space="preserve">It's a bit of rough slate, hanging from a nail, with a painting of an anchor and "1789" in big numbers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1422"></child>
+        </children>
+    </item>
+    <item nodeId="node-1422">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1423"></child>
+        </children>
+    </item>
+    <item nodeId="node-1423">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">
+
+
+This door is alarmed!
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210305 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1424"></child>
+        </children>
+    </item>
+    <item nodeId="node-1424">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1425"></child>
+        </children>
+    </item>
+    <item nodeId="node-1425">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+You unlock the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1426"></child>
+        </children>
+    </item>
+    <item nodeId="node-1426">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">You see nothing special about the blue door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1427"></child>
+        </children>
+    </item>
+    <item nodeId="node-1427">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Mud Room
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+You can see a blue door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1428">
+        <command xml:space="preserve">rulees</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1429"></child>
+        </children>
+    </item>
+    <item nodeId="node-1429">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1430"></child>
+        </children>
+    </item>
+    <item nodeId="node-1430">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with the brass key)
+[Rule "declare everything initially unmentioned rule" applies.]
+[unlocking the blue door with the brass key]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't unlock without a lock rule" applies.]
+[Rule "can't unlock what's already unlocked rule" applies.]
+[Rule "can't unlock without the correct key rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard unlocking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report unlocking rule" applies.]
+You unlock the blue door.
+[Rule "last specific action-processing rule" applies.]
+[unlocking the blue door with the brass key - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1431"></child>
+        </children>
+    </item>
+    <item nodeId="node-1431">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[opening the blue door]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't open unless openable rule" applies.]
+[Rule "can't open what's locked rule" applies.]
+[Rule "can't open what's already open rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard opening rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "reveal any newly visible interior rule" applies.]
+[Rule "standard report opening rule" applies.]
+You open the blue door.
+[Rule "last specific action-processing rule" applies.]
+[opening the blue door - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1432"></child>
+        </children>
+    </item>
+    <item nodeId="node-1432">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "standard set going variables rule" applies.]
+[going west]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't travel in what's not a vehicle rule" applies.]
+[Rule "can't go through undescribed doors rule" applies.]
+[Rule "can't go through closed doors rule" applies.]
+[Rule "determine map connection rule" applies.]
+[Rule "can't go that way rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "move player and vehicle rule" applies.]
+[Rule "move floating objects rule" applies.]
+[Rule "check light in new location rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "describe room gone into rule" applies.]
+
+[Rule "determine visibility ceiling rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "declare everything unmentioned rule" applies.]
+[Rule "room description heading rule" applies.]
+Mud Room
+[Rule "room description body text rule" applies.]
+This is an entrance hallway with a tiled floor. There is an alarm box on the wall next to the side door.
+
+[Rule "room description paragraphs about objects rule" applies.]
+[Rule "initialise locale description rule" applies.]
+[Rule "find notable locale objects rule" applies.]
+[Rule "standard notable locale objects rule" applies.]
+[Rule "interesting locale paragraphs rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "you-can-also-see rule" applies.]
+You can see a blue door here.
+
+[Rule "check new arrival rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "other people looking rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[going west - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

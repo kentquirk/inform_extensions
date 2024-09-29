@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-3167">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-3167">
+        <command xml:space="preserve">CubeTwo</command>
+        <result xml:space="preserve">
+
+
+CubeTwo
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210312 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Cubicle
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3170"></child>
+        </children>
+    </item>
+    <item nodeId="node-3170">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] what is a bug
+Hmm... "bug" is that thing you do.
+
+&gt;[2] what is a hammer
+Hmm... "hammer" is for pounding in nails.
+
+&gt;[3] what is a bughammer
+Hmm... "bughammer" is for squashing bugs.
+
+&gt;[4] what is a software engineer?
+Hmm... "software engineer" is a machine for turning coffee into bugs.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] what is a bug
+[2] what is a hammer
+[3] what is a bughammer
+[4] what is a software engineer?
+</commentary>
+        <children></children>
+    </item>
+</Skein>

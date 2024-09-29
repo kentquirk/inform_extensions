@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1319">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">keychain</command>
+        <result xml:space="preserve">
+
+
+keychain
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210308 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+hallway
+You can see a crate (closed) and a brass key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+            <child nodeId="node-1321"></child>
+            <child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">x keychain</command>
+        <result xml:space="preserve">On the keychain is a brass key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1321">
+        <command xml:space="preserve">open crate</command>
+        <result xml:space="preserve">(first unlocking the crate)
+You lack a key that fits the crate.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1322"></child>
+        </children>
+    </item>
+    <item nodeId="node-1322">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">(the brass key)
+You put the brass key on the keyring.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1323"></child>
+        </children>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a keyring
+    a brass key
+    a shiny key
+  a totebag
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">open crate</command>
+        <result xml:space="preserve">(first unlocking the crate)
+(with the brass key)
+You open the crate, revealing gold coins.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">x brass key</command>
+        <result xml:space="preserve">You see nothing special about the brass key.
+
+The brass key unlocks the crate.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">take coins</command>
+        <result xml:space="preserve">you ain't got it, kid.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">drop coins</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">take coins</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[taking gold coins]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "keychain-aware carrying requirements rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "After taking gold coins" applies.]
+you ain't got it, kid.
+[taking gold coins - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a keyring
+    a brass key
+    a shiny key
+  a totebag
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">unlock crate</command>
+        <result xml:space="preserve">You lack a key that fits the crate.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">key</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a keyring
+    a brass key
+    a shiny key
+  a totebag
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">x keychain</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">open crate</command>
+        <result xml:space="preserve">(first unlocking the crate)
+You lack a key that fits the crate.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">take coins</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a keyring
+    a brass key
+    a shiny key
+  a totebag
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

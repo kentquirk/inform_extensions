@@ -1,0 +1,1600 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-20848">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-20848">
+        <command xml:space="preserve">bike</command>
+        <result xml:space="preserve">
+
+
+bike
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210323 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Garage
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job.
+
+On the old bike is the rear wheel (on which is the inflated black tire).
+
+You can also see a front wheel, a flat red tire, a floor pump and an oil can here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21961"></child>
+            <child nodeId="node-20894"></child>
+            <child nodeId="node-21864"></child>
+            <child nodeId="node-20851"></child>
+            <child nodeId="node-21074"></child>
+            <child nodeId="node-20891"></child>
+            <child nodeId="node-21963"></child>
+            <child nodeId="node-20945"></child>
+            <child nodeId="node-21070"></child>
+            <child nodeId="node-20943"></child>
+            <child nodeId="node-21189"></child>
+        </children>
+    </item>
+    <item nodeId="node-21189">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is missing, the chain is frozen with rust and it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21190"></child>
+        </children>
+    </item>
+    <item nodeId="node-21190">
+        <command xml:space="preserve">x chain</command>
+        <result xml:space="preserve">A rusty  chain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21195"></child>
+        </children>
+    </item>
+    <item nodeId="node-21195">
+        <command xml:space="preserve">take chain</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21199"></child>
+        </children>
+    </item>
+    <item nodeId="node-21199">
+        <command xml:space="preserve">take old chain</command>
+        <result xml:space="preserve">I only understood you as far as wanting to take the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21200"></child>
+        </children>
+    </item>
+    <item nodeId="node-21200">
+        <command xml:space="preserve">x old chain</command>
+        <result xml:space="preserve">I only understood you as far as wanting to examine the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21226"></child>
+        </children>
+    </item>
+    <item nodeId="node-21226">
+        <command xml:space="preserve">put front wheel on bikee</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21227"></child>
+        </children>
+    </item>
+    <item nodeId="node-21227">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21228"></child>
+        </children>
+    </item>
+    <item nodeId="node-21228">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is without a tire, the chain is frozen with rust and it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21229"></child>
+        </children>
+    </item>
+    <item nodeId="node-21229">
+        <command xml:space="preserve">put red tire on front wheele</command>
+        <result xml:space="preserve">I only understood you as far as wanting to put the flat red tire on the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21230"></child>
+        </children>
+    </item>
+    <item nodeId="node-21230">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">You can't install a tire while the wheel is on the bike!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21241"></child>
+        </children>
+    </item>
+    <item nodeId="node-21241">
+        <command xml:space="preserve">remove front wheele</command>
+        <result xml:space="preserve">I only understood you as far as wanting to remove the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21242"></child>
+        </children>
+    </item>
+    <item nodeId="node-21242">
+        <command xml:space="preserve">remove front wheel</command>
+        <result xml:space="preserve">You aren't wearing the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21243"></child>
+        </children>
+    </item>
+    <item nodeId="node-21243">
+        <command xml:space="preserve">remove front wheel from bike</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21244"></child>
+        </children>
+    </item>
+    <item nodeId="node-21244">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">(first taking the flat red tire)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+You put the flat red tire on the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21245"></child>
+        </children>
+    </item>
+    <item nodeId="node-21245">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21246"></child>
+        </children>
+    </item>
+    <item nodeId="node-21246">
+        <command xml:space="preserve">inflate red tiree</command>
+        <result xml:space="preserve">I only understood you as far as wanting to inflate the flat red tire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21247"></child>
+        </children>
+    </item>
+    <item nodeId="node-21247">
+        <command xml:space="preserve">inflate red tire</command>
+        <result xml:space="preserve">You apply the hose to the tire stem, pump for a bit, and the inflated red tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21248"></child>
+        </children>
+    </item>
+    <item nodeId="node-21248">
+        <command xml:space="preserve">pump red tire with pump</command>
+        <result xml:space="preserve">A tire has to be mounted on a wheel before you can pump it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21285"></child>
+        </children>
+    </item>
+    <item nodeId="node-21285">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">You use quite a few wet wipes to get all the dust, mud, and grease off the frame, seat, and handlebars. However, the chain is frozen with rust.
+
+You rub the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21305"></child>
+        </children>
+    </item>
+    <item nodeId="node-21305">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21306"></child>
+        </children>
+    </item>
+    <item nodeId="node-21306">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">[rubbing the old bike]
+It's looking good already!
+[rubbing the old bike - failed the Check rubbing a bicycle ( called the bike )]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21370"></child>
+        </children>
+    </item>
+    <item nodeId="node-21370">
+        <command xml:space="preserve">actions off</command>
+        <result xml:space="preserve">Actions listing off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21371"></child>
+        </children>
+    </item>
+    <item nodeId="node-21371">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the chain is frozen with rust.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21418"></child>
+        </children>
+    </item>
+    <item nodeId="node-21418">
+        <command xml:space="preserve">oil chain</command>
+        <result xml:space="preserve">What do you want to oil the chain with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21443"></child>
+        </children>
+    </item>
+    <item nodeId="node-21443">
+        <command xml:space="preserve">oil chain with oil can</command>
+        <result xml:space="preserve">You carefully apply a drop of oil to each joint. The chain is now operating smoothly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21444"></child>
+        </children>
+    </item>
+    <item nodeId="node-21444">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle that's been fixed up and is ready to ride.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21445"></child>
+        </children>
+    </item>
+    <item nodeId="node-21445">
+        <command xml:space="preserve">lube chain</command>
+        <result xml:space="preserve">What do you want to lube the chain with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21446"></child>
+        </children>
+    </item>
+    <item nodeId="node-21446">
+        <command xml:space="preserve">lubricate chain</command>
+        <result xml:space="preserve">What do you want to lubricate the chain with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21447"></child>
+        </children>
+    </item>
+    <item nodeId="node-21447">
+        <command xml:space="preserve">lubricate chain with bike</command>
+        <result xml:space="preserve">No matter how hard you squeeze, you won't get oil from that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21448"></child>
+        </children>
+    </item>
+    <item nodeId="node-21448">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle that's been fixed up and is ready to ride.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21449"></child>
+        </children>
+    </item>
+    <item nodeId="node-21449">
+        <command xml:space="preserve">deflate rear wheel</command>
+        <result xml:space="preserve">You press the stem and let the air out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21641"></child>
+        </children>
+    </item>
+    <item nodeId="node-21641">
+        <command xml:space="preserve">x rear wheel</command>
+        <result xml:space="preserve">On the rear wheel is the flat black tire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21770"></child>
+        </children>
+    </item>
+    <item nodeId="node-21770">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the rear wheel is flat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21771"></child>
+        </children>
+    </item>
+    <item nodeId="node-21771">
+        <command xml:space="preserve">pump up rear wheel</command>
+        <result xml:space="preserve">You pump for a bit, and the inflated black tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21772"></child>
+        </children>
+    </item>
+    <item nodeId="node-21772">
+        <command xml:space="preserve">pump up black tire</command>
+        <result xml:space="preserve">A tire has to be mounted on a wheel before you can pump it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21773"></child>
+        </children>
+    </item>
+    <item nodeId="node-21773">
+        <command xml:space="preserve">x black tire</command>
+        <result xml:space="preserve">You see nothing special about the inflated black tire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21774"></child>
+        </children>
+    </item>
+    <item nodeId="node-21774">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21775"></child>
+        </children>
+    </item>
+    <item nodeId="node-21775">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle that's been fixed up and is ready to ride.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21776"></child>
+        </children>
+    </item>
+    <item nodeId="node-21776">
+        <command xml:space="preserve">showme bike</command>
+        <result xml:space="preserve">old bike - bicycle
+    chain (part of old bike) - bikechain
+    front wheel - bikewheel
+        inflated red tire - tire
+    rear wheel - bikewheel
+        inflated black tire - tire
+location: in the Garage
+singular-named, improper-named; unlit, inedible, fixed in place; enterable; clean
+list grouping key: none
+printed name: "old bike"
+printed plural name: "bicycles"
+indefinite article: none
+description: none
+initial appearance: "You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job."
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-20943">
+        <command xml:space="preserve">take rear wheel</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20944"></child>
+        </children>
+    </item>
+    <item nodeId="node-20944">
+        <command xml:space="preserve">remove rear tire from rear wheel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21070">
+        <command xml:space="preserve">showme wheel</command>
+        <result xml:space="preserve">(the front wheel)
+front wheel - bikewheel
+location: in the Garage
+singular-named, improper-named; unlit, inedible, portable; list grouping key: none
+printed name: "front wheel"
+printed plural name: "bikewheels"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21071"></child>
+        </children>
+    </item>
+    <item nodeId="node-21071">
+        <command xml:space="preserve">put front tire on wheel</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21072"></child>
+        </children>
+    </item>
+    <item nodeId="node-21072">
+        <command xml:space="preserve">put red tire on wheel</command>
+        <result xml:space="preserve">(the front wheel)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21073"></child>
+        </children>
+    </item>
+    <item nodeId="node-21073">
+        <command xml:space="preserve">showme wheel</command>
+        <result xml:space="preserve">(the front wheel)
+front wheel - bikewheel
+location: in the Garage
+singular-named, improper-named; unlit, inedible, portable; list grouping key: none
+printed name: "front wheel"
+printed plural name: "bikewheels"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-20945">
+        <command xml:space="preserve">showme black tire</command>
+        <result xml:space="preserve">inflated black tire - tire
+location: on the rear wheel on the old bike in the Garage
+singular-named, improper-named; unlit, inedible, portable; inflated
+list grouping key: none
+printed name: "inflated black tire"
+printed plural name: "tires"
+indefinite article: "the"
+description: none
+initial appearance: none
+color: "black"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20947"></child>
+        </children>
+    </item>
+    <item nodeId="node-20947">
+        <command xml:space="preserve">x red tire</command>
+        <result xml:space="preserve">You see nothing special about the flat red tire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20948"></child>
+        </children>
+    </item>
+    <item nodeId="node-20948">
+        <command xml:space="preserve">pump red tire with pump</command>
+        <result xml:space="preserve">check: the flat red tire the floor pump A tire has to be mounted on a wheel before you can pump it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20949"></child>
+        </children>
+    </item>
+    <item nodeId="node-20949">
+        <command xml:space="preserve">put red tire on wheel</command>
+        <result xml:space="preserve">(the front wheel)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20950"></child>
+        </children>
+    </item>
+    <item nodeId="node-20950">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is missing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20951"></child>
+        </children>
+    </item>
+    <item nodeId="node-20951">
+        <command xml:space="preserve"> put front wheel on bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20952"></child>
+        </children>
+    </item>
+    <item nodeId="node-20952">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is missing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20953"></child>
+        </children>
+    </item>
+    <item nodeId="node-20953">
+        <command xml:space="preserve">pump front wheel</command>
+        <result xml:space="preserve">What do you want to pump the front wheel with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20954"></child>
+        </children>
+    </item>
+    <item nodeId="node-20954">
+        <command xml:space="preserve">pump front wheel with pump</command>
+        <result xml:space="preserve">check: the front wheel the floor pump is wheel
+the front wheel the floor pump 
+*** Run-time problem P10: Since the front wheel is not allowed the property "inflated", it is against the rules to try to use it.
+
+You apply the hose to the tire stem, pump for a bit, and the front wheel inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20955"></child>
+        </children>
+    </item>
+    <item nodeId="node-20955">
+        <command xml:space="preserve">showme red tire</command>
+        <result xml:space="preserve">flat red tire - tire
+location: in the Garage
+singular-named, improper-named; unlit, inedible, portable; flat, pumpable
+list grouping key: none
+printed name: "flat red tire"
+printed plural name: "tires"
+indefinite article: none
+description: none
+initial appearance: none
+color: "red"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21016"></child>
+        </children>
+    </item>
+    <item nodeId="node-21016">
+        <command xml:space="preserve">showme front wheel</command>
+        <result xml:space="preserve">front wheel - bikewheel
+location: on the old bike in the Garage
+singular-named, improper-named; unlit, inedible, portable, handled; list grouping key: none
+printed name: "front wheel"
+printed plural name: "bikewheels"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21039"></child>
+        </children>
+    </item>
+    <item nodeId="node-21039">
+        <command xml:space="preserve">look at front wheel</command>
+        <result xml:space="preserve">You see nothing special about the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21040"></child>
+        </children>
+    </item>
+    <item nodeId="node-21040">
+        <command xml:space="preserve">x front wheel</command>
+        <result xml:space="preserve">You see nothing special about the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21041"></child>
+        </children>
+    </item>
+    <item nodeId="node-21041">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is missing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21963">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21964"></child>
+        </children>
+    </item>
+    <item nodeId="node-21964">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check rubbing a bicycle ( called the bike )" applies.]
+[Rule "can't rub another person rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "Carry out rubbing a bicycle ( called the ride )" applies.]
+You use quite a few wet wipes to get all the dust, mud, and grease off the frame, seat, and handlebars. However, the front wheel is missing and the chain is frozen with rust.
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21967"></child>
+        </children>
+    </item>
+    <item nodeId="node-21967">
+        <command xml:space="preserve">ride bike</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't mount when mounted on an animal rule" applies.]
+[Rule "can't mount when mounted on a vehicle rule" applies.]
+[Rule "can't mount something unrideable rule" applies.]
+[Rule "can't mount something carried rule" applies.]
+[Rule "can't enter something carried rule" applies.]
+[Rule "can't mount something unreachable rule" applies.]
+[Rule "implicitly pass through other barriers rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard mounting rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report mounting rule" applies.]
+You mount the old bike.
+[Rule "initialise locale description rule" applies.]
+[Rule "find notable locale objects rule" applies.]
+[Rule "standard notable locale objects rule" applies.]
+[Rule "interesting locale paragraphs rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "initial appearance on supporters rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "you-can-also-see rule" applies.]
+On the old bike you can see the rear wheel (on which is the inflated black tire).
+
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21968"></child>
+        </children>
+    </item>
+    <item nodeId="node-21968">
+        <command xml:space="preserve">rules off</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+Rules tracing now switched off. Type "rules" to switch it on again.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21969"></child>
+        </children>
+    </item>
+    <item nodeId="node-21969">
+        <command xml:space="preserve">get on bike</command>
+        <result xml:space="preserve">You are already riding the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21970"></child>
+        </children>
+    </item>
+    <item nodeId="node-21970">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21971"></child>
+        </children>
+    </item>
+    <item nodeId="node-21971">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount the old bike.
+
+Garage
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job.
+
+On the old bike is the rear wheel (on which is the inflated black tire).
+
+You can also see a front wheel, a flat red tire, a floor pump and an oil can here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21972"></child>
+        </children>
+    </item>
+    <item nodeId="node-21972">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">You mount the old bike.
+
+On the old bike you can see the rear wheel (on which is the inflated black tire).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21973"></child>
+        </children>
+    </item>
+    <item nodeId="node-21973">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount the old bike.
+
+Garage
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job.
+
+On the old bike is the rear wheel (on which is the inflated black tire).
+
+You can also see a front wheel, a flat red tire, a floor pump and an oil can here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21974"></child>
+        </children>
+    </item>
+    <item nodeId="node-21974">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21975"></child>
+        </children>
+    </item>
+    <item nodeId="node-21975">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">[entering the old bike]
+[(1) mounting the old bike]
+You mount the old bike.
+
+On the old bike you can see the rear wheel (on which is the inflated black tire).
+
+[(1) mounting the old bike - succeeded]
+
+[entering the old bike - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-20891">
+        <command xml:space="preserve">put the flat tire on the front wheel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20892"></child>
+        </children>
+    </item>
+    <item nodeId="node-20892">
+        <command xml:space="preserve">x front wheel</command>
+        <result xml:space="preserve">You see nothing special about the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20893"></child>
+        </children>
+    </item>
+    <item nodeId="node-20893">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">On the old bike are the bad chain and the rear wheel (on which is an inflated tire).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21074">
+        <command xml:space="preserve">put red tire on the wheel</command>
+        <result xml:space="preserve">(the front wheel)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21075"></child>
+        </children>
+    </item>
+    <item nodeId="node-21075">
+        <command xml:space="preserve">showme wheel</command>
+        <result xml:space="preserve">(the front wheel)
+front wheel - bikewheel
+    flat red tire - tire
+location: in the Garage
+singular-named, improper-named; unlit, inedible, portable; list grouping key: none
+printed name: "front wheel"
+printed plural name: "bikewheels"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21076"></child>
+        </children>
+    </item>
+    <item nodeId="node-21076">
+        <command xml:space="preserve">pump wheel with pump</command>
+        <result xml:space="preserve">(the front wheel with the floor pump)
+the flat red tire the floor pump You apply the hose to the tire stem, pump for a bit, and the inflated red tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21083"></child>
+        </children>
+    </item>
+    <item nodeId="node-21083">
+        <command xml:space="preserve">take red tire</command>
+        <result xml:space="preserve">You can't get an inflated tire off a wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21084"></child>
+        </children>
+    </item>
+    <item nodeId="node-21084">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Garage
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21085"></child>
+        </children>
+    </item>
+    <item nodeId="node-21085">
+        <command xml:space="preserve">take red tire off the wheel</command>
+        <result xml:space="preserve">(the front wheel)
+You can't get an inflated tire off a wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21104"></child>
+        </children>
+    </item>
+    <item nodeId="node-21104">
+        <command xml:space="preserve">put front wheel on the bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21105"></child>
+        </children>
+    </item>
+    <item nodeId="node-21105">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the chain is frozen with rust.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21138"></child>
+        </children>
+    </item>
+    <item nodeId="node-21138">
+        <command xml:space="preserve">take rusty chain</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21139"></child>
+        </children>
+    </item>
+    <item nodeId="node-21139">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the chain is frozen with rust.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21140"></child>
+        </children>
+    </item>
+    <item nodeId="node-21140">
+        <command xml:space="preserve">take chain</command>
+        <result xml:space="preserve">(the new chain)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21141"></child>
+        </children>
+    </item>
+    <item nodeId="node-21141">
+        <command xml:space="preserve">take chain</command>
+        <result xml:space="preserve">(the old chain)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21142"></child>
+        </children>
+    </item>
+    <item nodeId="node-21142">
+        <command xml:space="preserve">x bikee</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21143"></child>
+        </children>
+    </item>
+    <item nodeId="node-21143">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the chain is missing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21144"></child>
+        </children>
+    </item>
+    <item nodeId="node-21144">
+        <command xml:space="preserve">put good chain on bikee</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21145"></child>
+        </children>
+    </item>
+    <item nodeId="node-21145">
+        <command xml:space="preserve">put good chain on bike</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21146"></child>
+        </children>
+    </item>
+    <item nodeId="node-21146">
+        <command xml:space="preserve">x bikee</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21147"></child>
+        </children>
+    </item>
+    <item nodeId="node-21147">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the chain is missing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21166"></child>
+        </children>
+    </item>
+    <item nodeId="node-21166">
+        <command xml:space="preserve">x bad chain</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21186"></child>
+        </children>
+    </item>
+    <item nodeId="node-21186">
+        <command xml:space="preserve">x chain</command>
+        <result xml:space="preserve">Which do you mean, the old chain or the new chain?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21187"></child>
+        </children>
+    </item>
+    <item nodeId="node-21187">
+        <command xml:space="preserve">x old chain</command>
+        <result xml:space="preserve">rusty old chain
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21188"></child>
+        </children>
+    </item>
+    <item nodeId="node-21188">
+        <command xml:space="preserve">x new chain</command>
+        <result xml:space="preserve"> new chain
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-20851">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21890"></child>
+            <child nodeId="node-20852"></child>
+        </children>
+    </item>
+    <item nodeId="node-20852">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">On the old bike are a rim, a rusty chain and a rear wheel (on which is an inflated tire).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20853"></child>
+        </children>
+    </item>
+    <item nodeId="node-20853">
+        <command xml:space="preserve">take rusty chain off bike</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20854"></child>
+        </children>
+    </item>
+    <item nodeId="node-20854">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a rusty chain
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20875"></child>
+        </children>
+    </item>
+    <item nodeId="node-20875">
+        <command xml:space="preserve">take rim</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20876"></child>
+        </children>
+    </item>
+    <item nodeId="node-20876">
+        <command xml:space="preserve">take wheel</command>
+        <result xml:space="preserve">Which do you mean, the rim or the rear wheel?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20877"></child>
+        </children>
+    </item>
+    <item nodeId="node-20877">
+        <command xml:space="preserve">take front wheel</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20878"></child>
+        </children>
+    </item>
+    <item nodeId="node-20878">
+        <command xml:space="preserve">put front tire on front wheel</command>
+        <result xml:space="preserve">(first taking the flat tire)
+You put the flat tire on the rim.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20879"></child>
+        </children>
+    </item>
+    <item nodeId="node-20879">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Garage
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It's missing the front wheel, the chain is rusted, and it probably needs some tender loving care.
+
+You're just right for the job.
+
+On the old bike is a rear wheel (on which is an inflated tire).
+
+You can also see a floor pump here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20880"></child>
+        </children>
+    </item>
+    <item nodeId="node-20880">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a rim
+    a flat tire
+  a rusty chain
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21890">
+        <command xml:space="preserve">put red tire on rear wheel</command>
+        <result xml:space="preserve">You can't install a tire while the wheel is on the bike!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21891"></child>
+        </children>
+    </item>
+    <item nodeId="node-21891">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">You can't install a tire while the wheel is on the bike!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21892"></child>
+        </children>
+    </item>
+    <item nodeId="node-21892">
+        <command xml:space="preserve">take rear wheel</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21893"></child>
+        </children>
+    </item>
+    <item nodeId="node-21893">
+        <command xml:space="preserve">put red tire on rear wheel</command>
+        <result xml:space="preserve">You can't put a second tire on the rear wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21894"></child>
+        </children>
+    </item>
+    <item nodeId="node-21894">
+        <command xml:space="preserve">put rear wheel on bike</command>
+        <result xml:space="preserve">You put the rear wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21895"></child>
+        </children>
+    </item>
+    <item nodeId="node-21895">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21896"></child>
+        </children>
+    </item>
+    <item nodeId="node-21896">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is without a tire, the chain is frozen with rust and it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21897"></child>
+        </children>
+    </item>
+    <item nodeId="node-21897">
+        <command xml:space="preserve">take front wheel</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21898"></child>
+        </children>
+    </item>
+    <item nodeId="node-21898">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">(first taking the flat red tire)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+You put the flat red tire on the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21899"></child>
+        </children>
+    </item>
+    <item nodeId="node-21899">
+        <command xml:space="preserve">inflate red tire</command>
+        <result xml:space="preserve">You apply the hose to the tire stem, pump for a bit, and the flat red tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21900"></child>
+        </children>
+    </item>
+    <item nodeId="node-21900">
+        <command xml:space="preserve">put wheel on bike</command>
+        <result xml:space="preserve">(the front wheel on the old bike)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21901"></child>
+        </children>
+    </item>
+    <item nodeId="node-21901">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the chain is frozen with rust and it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21902"></child>
+        </children>
+    </item>
+    <item nodeId="node-21902">
+        <command xml:space="preserve">lubricate chain</command>
+        <result xml:space="preserve">What do you want to lubricate the chain with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21903"></child>
+        </children>
+    </item>
+    <item nodeId="node-21903">
+        <command xml:space="preserve">lubricate chain with oil can</command>
+        <result xml:space="preserve">You carefully apply a drop of oil to each joint. The chain is now operating smoothly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21904"></child>
+        </children>
+    </item>
+    <item nodeId="node-21904">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21905"></child>
+        </children>
+    </item>
+    <item nodeId="node-21905">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">You use quite a few wet wipes to get all the dust, mud, and grease off the frame, seat, and handlebars. It looks amazing now.
+
+You rub the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21906"></child>
+        </children>
+    </item>
+    <item nodeId="node-21906">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">It's looking good already!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21864">
+        <command xml:space="preserve">pump black tire</command>
+        <result xml:space="preserve">You can't pump up the inflated black tire because it already inflated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21868"></child>
+        </children>
+    </item>
+    <item nodeId="node-21868">
+        <command xml:space="preserve">pump black tire with the red tire</command>
+        <result xml:space="preserve">You can't pump up the inflated black tire because it already inflated.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21869"></child>
+        </children>
+    </item>
+    <item nodeId="node-21869">
+        <command xml:space="preserve">pump red tire with the black tire</command>
+        <result xml:space="preserve">You can't pump up the flat red tire because it not on a wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21870"></child>
+        </children>
+    </item>
+    <item nodeId="node-21870">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">(first taking the flat red tire)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+You put the flat red tire on the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21871"></child>
+        </children>
+    </item>
+    <item nodeId="node-21871">
+        <command xml:space="preserve">pump red tire with the black tire</command>
+        <result xml:space="preserve">The inflated black tire doesn't look much like an air pump.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21872"></child>
+        </children>
+    </item>
+    <item nodeId="node-21872">
+        <command xml:space="preserve">pump red tire</command>
+        <result xml:space="preserve">You apply the hose to the tire stem, pump for a bit, and the flat red tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21873"></child>
+        </children>
+    </item>
+    <item nodeId="node-21873">
+        <command xml:space="preserve">deflate red tire</command>
+        <result xml:space="preserve">You press the stem and let the air out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21874"></child>
+        </children>
+    </item>
+    <item nodeId="node-21874">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Garage
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job.
+
+On the old bike is the rear wheel (on which is the inflated black tire).
+
+You can also see a front wheel (on which is a flat red tire), a floor pump and an oil can here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21875"></child>
+        </children>
+    </item>
+    <item nodeId="node-21875">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21876"></child>
+        </children>
+    </item>
+    <item nodeId="node-21876">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is flat, the chain is frozen with rust and it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21877"></child>
+        </children>
+    </item>
+    <item nodeId="node-21877">
+        <command xml:space="preserve">pump front wheel</command>
+        <result xml:space="preserve">You pump for a bit, and the flat red tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-20894">
+        <command xml:space="preserve">look at bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but the front wheel is missing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20899"></child>
+        </children>
+    </item>
+    <item nodeId="node-20899">
+        <command xml:space="preserve">pump up tire</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20900"></child>
+        </children>
+    </item>
+    <item nodeId="node-20900">
+        <command xml:space="preserve">pump tire</command>
+        <result xml:space="preserve">What do you want to pump the flat tire with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20901"></child>
+        </children>
+    </item>
+    <item nodeId="node-20901">
+        <command xml:space="preserve">pump tire with pump</command>
+        <result xml:space="preserve">(the flat tire with the floor pump)
+A tire has to be mounted on a wheel before you can pump it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20906"></child>
+        </children>
+    </item>
+    <item nodeId="node-20906">
+        <command xml:space="preserve">put tire on front wheel</command>
+        <result xml:space="preserve">(the flat tire on the front wheel)
+You have to wrestle with it, but you manage to get the flat tire all the way onto the rim of the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20907"></child>
+        </children>
+    </item>
+    <item nodeId="node-20907">
+        <command xml:space="preserve">x wheel</command>
+        <result xml:space="preserve">(the front wheel)
+You see nothing special about the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20908"></child>
+        </children>
+    </item>
+    <item nodeId="node-20908">
+        <command xml:space="preserve">pump tire with pump</command>
+        <result xml:space="preserve">(the flat tire with the floor pump)
+You apply the hose to the tire stem, pump for a bit, and the tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20909"></child>
+        </children>
+    </item>
+    <item nodeId="node-20909">
+        <command xml:space="preserve">pump flat tire with pump</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20918"></child>
+        </children>
+    </item>
+    <item nodeId="node-20918">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20919"></child>
+        </children>
+    </item>
+    <item nodeId="node-20919">
+        <command xml:space="preserve">take tire off front wheel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-20920"></child>
+        </children>
+    </item>
+    <item nodeId="node-20920">
+        <command xml:space="preserve">put flat tire on front wheel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21961">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21962"></child>
+            <child nodeId="node-21988"></child>
+        </children>
+    </item>
+    <item nodeId="node-21988">
+        <command xml:space="preserve">get on bike</command>
+        <result xml:space="preserve">[entering the old bike]
+[(1) mounting the old bike]
+It's not in riding condition yet.
+[(1) mounting the old bike - failed the Check mounting a bicycle ( called the ride )]
+
+[entering the old bike - failed the Check mounting a bicycle ( called the ride )]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21993"></child>
+        </children>
+    </item>
+    <item nodeId="node-21993">
+        <command xml:space="preserve">get off bike</command>
+        <result xml:space="preserve">[getting off the old bike]
+[(1) dismounting]
+You are not riding anything.
+[(1) dismounting - failed the can't dismount when not mounted rule]
+
+[getting off the old bike - failed the can't dismount when not mounted rule]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21994"></child>
+        </children>
+    </item>
+    <item nodeId="node-21994">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">[putting the front wheel on the old bike]
+(first taking the front wheel)
+[(1) taking the front wheel - silently]
+[(1) taking the front wheel - silently - succeeded]
+
+You put the front wheel on the old bike.
+[putting the front wheel on the old bike - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-21995"></child>
+        </children>
+    </item>
+    <item nodeId="node-21995">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">[putting the flat red tire on the front wheel]
+You can't install a tire while the wheel is on the bike!
+[putting the flat red tire on the front wheel - failed the Check putting a tire ( called the rubber ) on a bikewheel ( called the wheel )]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-21962">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">[rubbing the old bike]
+You use quite a few wet wipes to get all the dust, mud, and grease off the frame, seat, and handlebars. However, the front wheel is missing and the chain is frozen with rust.
+
+You rub the old bike.
+[rubbing the old bike - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

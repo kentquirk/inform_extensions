@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-3183">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-3183">
+        <command xml:space="preserve">notepad</command>
+        <result xml:space="preserve">
+
+
+notepad
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 220525 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+office
+You can see a desk (on which are a pencil and a stack of paper) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3217"></child>
+            <child nodeId="node-3205"></child>
+            <child nodeId="node-3221"></child>
+            <child nodeId="node-3184"></child>
+        </children>
+    </item>
+    <item nodeId="node-3184">
+        <command xml:space="preserve">write hello bob</command>
+        <result xml:space="preserve">You write "Note:  hello bob" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3185"></child>
+        </children>
+    </item>
+    <item nodeId="node-3185">
+        <command xml:space="preserve">read notebook</command>
+        <result xml:space="preserve">You read: 
+
+Things I Wish I Didn't Have To Know
+
+Note:  hello bob
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3186"></child>
+        </children>
+    </item>
+    <item nodeId="node-3186">
+        <command xml:space="preserve">write it's ugly in here</command>
+        <result xml:space="preserve">You write "Note:  it's ugly in here" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3187"></child>
+        </children>
+    </item>
+    <item nodeId="node-3187">
+        <command xml:space="preserve">read notebook</command>
+        <result xml:space="preserve">You read: 
+
+Things I Wish I Didn't Have To Know
+
+Note:  hello bob
+Note:  it's ugly in here
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3188"></child>
+        </children>
+    </item>
+    <item nodeId="node-3188">
+        <command xml:space="preserve">drop notebook</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3189"></child>
+        </children>
+    </item>
+    <item nodeId="node-3189">
+        <command xml:space="preserve">write does it work?</command>
+        <result xml:space="preserve">You will have to specify what to write that in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3190"></child>
+        </children>
+    </item>
+    <item nodeId="node-3190">
+        <command xml:space="preserve">write does it work?</command>
+        <result xml:space="preserve">You will have to specify what to write that in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3191"></child>
+        </children>
+    </item>
+    <item nodeId="node-3191">
+        <command xml:space="preserve">write does it work? in notebook</command>
+        <result xml:space="preserve">You write "Note:  does it work?" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3192"></child>
+        </children>
+    </item>
+    <item nodeId="node-3192">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3193"></child>
+        </children>
+    </item>
+    <item nodeId="node-3193">
+        <command xml:space="preserve">read notebook</command>
+        <result xml:space="preserve">You read: 
+
+Things I Wish I Didn't Have To Know
+
+Note:  hello bob
+Note:  it's ugly in here
+Note:  does it work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3194"></child>
+        </children>
+    </item>
+    <item nodeId="node-3194">
+        <command xml:space="preserve">remember the alamo</command>
+        <result xml:space="preserve">(you should probably write it down.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3195"></child>
+        </children>
+    </item>
+    <item nodeId="node-3195">
+        <command xml:space="preserve">remember something</command>
+        <result xml:space="preserve">(you should probably write it down.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3196"></child>
+        </children>
+    </item>
+    <item nodeId="node-3196">
+        <command xml:space="preserve">write down the alamo</command>
+        <result xml:space="preserve">You will have to specify what to write that in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3197"></child>
+        </children>
+    </item>
+    <item nodeId="node-3197">
+        <command xml:space="preserve">get notebook</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3198"></child>
+        </children>
+    </item>
+    <item nodeId="node-3198">
+        <command xml:space="preserve">write down the deduction</command>
+        <result xml:space="preserve">You write "Note:  the deduction" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3199"></child>
+        </children>
+    </item>
+    <item nodeId="node-3199">
+        <command xml:space="preserve">erase</command>
+        <result xml:space="preserve">(your notebook)
+You scrub out all the entries in your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3200"></child>
+        </children>
+    </item>
+    <item nodeId="node-3200">
+        <command xml:space="preserve">read notebook</command>
+        <result xml:space="preserve">There is nothing of note in your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3201"></child>
+        </children>
+    </item>
+    <item nodeId="node-3201">
+        <command xml:space="preserve">write 1 - something</command>
+        <result xml:space="preserve">You write "1: something" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3202"></child>
+        </children>
+    </item>
+    <item nodeId="node-3202">
+        <command xml:space="preserve">write 123 - something else</command>
+        <result xml:space="preserve">You write "123: something else" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3203"></child>
+        </children>
+    </item>
+    <item nodeId="node-3203">
+        <command xml:space="preserve">write hello there</command>
+        <result xml:space="preserve">You write "Note:  hello there" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3204"></child>
+        </children>
+    </item>
+    <item nodeId="node-3204">
+        <command xml:space="preserve">read notebook</command>
+        <result xml:space="preserve">You read: 
+
+Things I Wish I Didn't Have To Know
+
+1: something
+123: something else
+Note:  hello there
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3221">
+        <command xml:space="preserve">take pencil</command>
+        <result xml:space="preserve">You write "Note:  whatever" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3205">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3208"></child>
+            <child nodeId="node-3206"></child>
+        </children>
+    </item>
+    <item nodeId="node-3206">
+        <command xml:space="preserve">yoink pencil</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3207"></child>
+        </children>
+    </item>
+    <item nodeId="node-3207">
+        <command xml:space="preserve">showme pencil</command>
+        <result xml:space="preserve">pencil - thing
+location: on the desk in the office
+singular-named, improper-named; unlit, inedible, portable
+list grouping key: none
+printed name: "pencil"
+printed plural name: none
+indefinite article: none
+description: none
+initial appearance: none
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3208">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+office
+You can see a desk (on which are a pencil and a stack of paper) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3209"></child>
+        </children>
+    </item>
+    <item nodeId="node-3209">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3210"></child>
+        </children>
+    </item>
+    <item nodeId="node-3210">
+        <command xml:space="preserve">get pencil</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3211"></child>
+        </children>
+    </item>
+    <item nodeId="node-3211">
+        <command xml:space="preserve">yoink pencil</command>
+        <result xml:space="preserve">looking...
+
+office...
+
+hallway...
+
+done.
+
+You can't reach into the office.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3212"></child>
+        </children>
+    </item>
+    <item nodeId="node-3212">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+office
+You can see a desk (on which are a pencil and a stack of paper) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3213"></child>
+        </children>
+    </item>
+    <item nodeId="node-3213">
+        <command xml:space="preserve">yoink pencil</command>
+        <result xml:space="preserve">looking...
+
+office...
+
+hallway...
+
+done.
+
+it's in deskYou yoink the pencil into your hands.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3214"></child>
+        </children>
+    </item>
+    <item nodeId="node-3214">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pencil
+  your notebook
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3217">
+        <command xml:space="preserve">get pencil</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3218"></child>
+        </children>
+    </item>
+    <item nodeId="node-3218">
+        <command xml:space="preserve">write foo in the notebook</command>
+        <result xml:space="preserve">You write "Note:  foo" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3219"></child>
+        </children>
+    </item>
+    <item nodeId="node-3219">
+        <command xml:space="preserve">write foo on the paper</command>
+        <result xml:space="preserve">You write "Note:  foo on the paper" into your notebook.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3220"></child>
+        </children>
+    </item>
+    <item nodeId="node-3220">
+        <command xml:space="preserve">read notebook</command>
+        <result xml:space="preserve">You read: 
+
+Things I Wish I Didn't Have To Know
+
+Note:  foo
+Note:  foo on the paper
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

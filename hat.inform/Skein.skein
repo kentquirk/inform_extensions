@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1043">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">hat</command>
+        <result xml:space="preserve">
+
+
+Here's your hat.
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 220526 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Hallway
+You can see a baseball cap, a Rubik's Cube and a pocketknife here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+            <child nodeId="node-1068"></child>
+            <child nodeId="node-1045"></child>
+            <child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">x cap</command>
+        <result xml:space="preserve">It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+You feel a strange urge to put on a hat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">wear cap</command>
+        <result xml:space="preserve">(first taking the baseball cap)
+It feels comfortable. It's almost like Rob is here with you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+I was pretty good at that thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+That's a good cube.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">x pocketknife</command>
+        <result xml:space="preserve">You see nothing special about the pocketknife.
+
+
+Careful. It's sharp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">read cap</command>
+        <result xml:space="preserve">You read: Old sailors never die -- they just get a little dinghy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">take off cap</command>
+        <result xml:space="preserve">You feel really uncomfortable without a hat on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a baseball cap
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+Rob would probably be happy for you to be wearing his hat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+Your head feels a bit chilly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+Rob would probably be happy for you to be wearing his hat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+Your head feels a bit chilly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the baseball cap)
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] l
+Hallway
+You can see a baseball cap, a Rubik's Cube and a pocketknife here.
+
+&gt;[2] x cap
+It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;[3] x cube
+It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+Your head feels a bit chilly.
+
+&gt;[4] x cube
+It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+That baseball cap looks pretty comfy.
+
+&gt;[5] wear cap
+(first taking the baseball cap)
+It feels comfortable. It's almost like Rob is here with you.
+
+&gt;[6] x cube
+It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+(I was pretty good at that thing.)
+
+&gt;[7] x cube
+It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+(That's a good cube.)
+
+&gt;[8] remove cap
+It feels weird without a hat on.
+
+&gt;[9] x cube
+It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;[10] x cube
+It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;[11] wear cap
+You feel a surprising sense of relief to have it back on your head.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] l
+[2] x cap
+[3] x cube
+[4] x cube
+[5] wear cap
+[6] x cube
+[7] x cube
+[8] remove cap
+[9] x cube
+[10] x cube
+[11] wear cap
+</commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">remove cap</command>
+        <result xml:space="preserve">The sun is too bright today to go without some eyeshade.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">wear cap</command>
+        <result xml:space="preserve">Phew, that feels better.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">remove cap</command>
+        <result xml:space="preserve">It feels weird without a hat on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">wear cap</command>
+        <result xml:space="preserve">Aaaah.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">get cube</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+            <child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">wear hat</command>
+        <result xml:space="preserve">(first taking the baseball cap)
+It feels comfortable. It's almost like Rob is here with you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+(I was pretty good at that thing.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">get knife</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">x cap</command>
+        <result xml:space="preserve">It is a tattered baseball cap with a funny saying. It must have belonged to Uncle Rob, and he must have loved it, because it's pretty beat up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">read cap</command>
+        <result xml:space="preserve">You read: Old sailors never die -- they just get a little dinghy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">wear cap</command>
+        <result xml:space="preserve">(first taking the baseball cap)
+It feels comfortable. It's almost like Rob is here with you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+(I was pretty good at that thing.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+(That's a good cube.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">x cube</command>
+        <result xml:space="preserve">It's a scrambled Rubik's Cube. You twist it back and forth and notice that it turns very easily. It must be a speed cube.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">x pocketknife</command>
+        <result xml:space="preserve">You see nothing special about the pocketknife.
+
+
+(Careful. It's sharp.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">read pocketknife</command>
+        <result xml:space="preserve">Nothing is written on the pocketknife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

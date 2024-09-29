@@ -1,0 +1,2342 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1671">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1671">
+        <command xml:space="preserve">oyster</command>
+        <result xml:space="preserve">
+
+
+The Beach
+An Interactive Fiction
+Release 1 / Serial number 210310 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see several oysters and a funny tool here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1833"></child>
+            <child nodeId="node-1802"></child>
+            <child nodeId="node-1785"></child>
+            <child nodeId="node-1754"></child>
+            <child nodeId="node-1749"></child>
+            <child nodeId="node-1984"></child>
+            <child nodeId="node-1746"></child>
+            <child nodeId="node-1745"></child>
+            <child nodeId="node-1735"></child>
+            <child nodeId="node-1672"></child>
+        </children>
+    </item>
+    <item nodeId="node-1672">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] take tool
+Taken.
+
+&gt;[2] take oyster
+You dig in the mud and come up with an oyster.
+
+[Your score has just gone up by one point.]
+
+&gt;[3] x tool
+The tool has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+&gt;[4] open oyster
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+&gt;[5] eat oyster
+You slurp down the contents of the oyster, and toss the shell away.
+
+[Your score has just gone up by one point.]
+
+&gt;[6] take oyster
+You dig in the mud and come up with an oyster.
+
+Taken.
+
+&gt;[7] open oyster
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+&gt;[8] eat oyster
+You slurp down the contents of the oyster, and toss the shell away.
+
+You eat the oyster. Not bad.
+
+&gt;[9] take oyster
+You dig in the mud and come up with an oyster.
+
+Taken.
+
+&gt;[10] open oyster
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+The oyster shell is full of mud! You toss it away in disgust. 
+
+It's probably worth another try.
+
+&gt;[11] take oyster
+You dig in the mud and come up with an oyster.
+
+Taken.
+
+&gt;[12] open oyster
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+I'm rich!
+
+
+To your surprise, there is a pearl glistening on top of the oyster meat. You carefully pick it out. 
+[Your score has just gone up by two points.]
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] take tool
+[2] take oyster
+[3] x tool
+[4] open oyster
+[5] eat oyster
+[6] take oyster
+[7] open oyster
+[8] eat oyster
+[9] take oyster
+[10] open oyster
+[11] take oyster
+[12] open oyster
+</commentary>
+        <children><child nodeId="node-1688"></child>
+            <child nodeId="node-1676"></child>
+            <child nodeId="node-1674"></child>
+            <child nodeId="node-1673"></child>
+        </children>
+    </item>
+    <item nodeId="node-1673">
+        <command xml:space="preserve">x knife</command>
+        <result xml:space="preserve">It's an oyster knife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1674">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You already have one!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1933"></child>
+            <child nodeId="node-1675"></child>
+        </children>
+    </item>
+    <item nodeId="node-1675">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1933">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pearl
+  an oyster (open)
+    meat
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1934"></child>
+        </children>
+    </item>
+    <item nodeId="node-1934">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1935"></child>
+        </children>
+    </item>
+    <item nodeId="node-1935">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1936"></child>
+        </children>
+    </item>
+    <item nodeId="node-1936">
+        <command xml:space="preserve">drop oyster</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1937"></child>
+        </children>
+    </item>
+    <item nodeId="node-1937">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pearl
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1938"></child>
+        </children>
+    </item>
+    <item nodeId="node-1938">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see an oyster (closed) and several oysters here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1939"></child>
+        </children>
+    </item>
+    <item nodeId="node-1939">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1676">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pearl
+  an oyster (open)
+    meat
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1687"></child>
+            <child nodeId="node-1677"></child>
+        </children>
+    </item>
+    <item nodeId="node-1677">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1678"></child>
+        </children>
+    </item>
+    <item nodeId="node-1678">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a funny tool
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1679"></child>
+        </children>
+    </item>
+    <item nodeId="node-1679">
+        <command xml:space="preserve">dig oyster</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1680"></child>
+        </children>
+    </item>
+    <item nodeId="node-1680">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a funny tool
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1681"></child>
+        </children>
+    </item>
+    <item nodeId="node-1681">
+        <command xml:space="preserve">dig several</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1682"></child>
+        </children>
+    </item>
+    <item nodeId="node-1682">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a funny tool
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1683"></child>
+        </children>
+    </item>
+    <item nodeId="node-1683">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see several oysters here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1684"></child>
+        </children>
+    </item>
+    <item nodeId="node-1684">
+        <command xml:space="preserve">get oysters</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1685"></child>
+        </children>
+    </item>
+    <item nodeId="node-1685">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see several oysters here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1686"></child>
+        </children>
+    </item>
+    <item nodeId="node-1686">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a funny tool
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1687">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1688">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1721"></child>
+            <child nodeId="node-1711"></child>
+            <child nodeId="node-1689"></child>
+        </children>
+    </item>
+    <item nodeId="node-1689">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1690"></child>
+        </children>
+    </item>
+    <item nodeId="node-1690">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1691"></child>
+        </children>
+    </item>
+    <item nodeId="node-1691">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+In the oyster are some meat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1692"></child>
+        </children>
+    </item>
+    <item nodeId="node-1692">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1693"></child>
+        </children>
+    </item>
+    <item nodeId="node-1693">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1694"></child>
+        </children>
+    </item>
+    <item nodeId="node-1694">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1695"></child>
+        </children>
+    </item>
+    <item nodeId="node-1695">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You need to open the oyster first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1696"></child>
+        </children>
+    </item>
+    <item nodeId="node-1696">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+To your surprise, there is a pearl glistening on top of the oyster body. You carefully pick it out. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1697"></child>
+        </children>
+    </item>
+    <item nodeId="node-1697">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1698"></child>
+        </children>
+    </item>
+    <item nodeId="node-1698">
+        <command xml:space="preserve">get oyster; open oyster</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1699"></child>
+        </children>
+    </item>
+    <item nodeId="node-1699">
+        <command xml:space="preserve">get oyster / open oyster</command>
+        <result xml:space="preserve">I only understood you as far as wanting to get several oysters.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1700"></child>
+        </children>
+    </item>
+    <item nodeId="node-1700">
+        <command xml:space="preserve">get oyster / open oyster</command>
+        <result xml:space="preserve">I only understood you as far as wanting to get several oysters.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1701"></child>
+        </children>
+    </item>
+    <item nodeId="node-1701">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You're not holding an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1702"></child>
+        </children>
+    </item>
+    <item nodeId="node-1702">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1703"></child>
+        </children>
+    </item>
+    <item nodeId="node-1703">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1704"></child>
+        </children>
+    </item>
+    <item nodeId="node-1704">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1705"></child>
+        </children>
+    </item>
+    <item nodeId="node-1705">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">It's already open!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1706"></child>
+        </children>
+    </item>
+    <item nodeId="node-1706">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1707"></child>
+        </children>
+    </item>
+    <item nodeId="node-1707">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (open)
+    some meat
+  a pearl
+  a knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1708"></child>
+        </children>
+    </item>
+    <item nodeId="node-1708">
+        <command xml:space="preserve">eat meat</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1709"></child>
+        </children>
+    </item>
+    <item nodeId="node-1709">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pearl
+  a knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1710"></child>
+        </children>
+    </item>
+    <item nodeId="node-1710">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You're not holding an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1711">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1712"></child>
+        </children>
+    </item>
+    <item nodeId="node-1712">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1713"></child>
+        </children>
+    </item>
+    <item nodeId="node-1713">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig up an oyster from the mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1714"></child>
+        </children>
+    </item>
+    <item nodeId="node-1714">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+The oyster is full of mud! You toss it away in disgust.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1715"></child>
+        </children>
+    </item>
+    <item nodeId="node-1715">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1716"></child>
+        </children>
+    </item>
+    <item nodeId="node-1716">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig up an oyster from the mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1717"></child>
+        </children>
+    </item>
+    <item nodeId="node-1717">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+The oyster is full of mud! You toss it away in disgust.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1718"></child>
+        </children>
+    </item>
+    <item nodeId="node-1718">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig up an oyster from the mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1719"></child>
+        </children>
+    </item>
+    <item nodeId="node-1719">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1720"></child>
+        </children>
+    </item>
+    <item nodeId="node-1720">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1721">
+        <command xml:space="preserve">eat me</command>
+        <result xml:space="preserve">You're plainly inedible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1722"></child>
+        </children>
+    </item>
+    <item nodeId="node-1722">
+        <command xml:space="preserve">eat meat</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1723"></child>
+        </children>
+    </item>
+    <item nodeId="node-1723">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">It's closed tightly. You need to find something you can use to to open it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1724"></child>
+        </children>
+    </item>
+    <item nodeId="node-1724">
+        <command xml:space="preserve">eat meat</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1725"></child>
+        </children>
+    </item>
+    <item nodeId="node-1725">
+        <command xml:space="preserve">get tool</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1726"></child>
+        </children>
+    </item>
+    <item nodeId="node-1726">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">It has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1727"></child>
+        </children>
+    </item>
+    <item nodeId="node-1727">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1728"></child>
+        </children>
+    </item>
+    <item nodeId="node-1728">
+        <command xml:space="preserve">y</command>
+        <result xml:space="preserve">
+
+
+Oysters
+An Interactive Fiction
+Release 1 / Serial number 210304 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see several oysters and a funny tool here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1729"></child>
+        </children>
+    </item>
+    <item nodeId="node-1729">
+        <command xml:space="preserve">get tool</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1730"></child>
+        </children>
+    </item>
+    <item nodeId="node-1730">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">It has a rubber handle and a wide, flat, rounded blade.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1731"></child>
+        </children>
+    </item>
+    <item nodeId="node-1731">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1732"></child>
+        </children>
+    </item>
+    <item nodeId="node-1732">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1733"></child>
+        </children>
+    </item>
+    <item nodeId="node-1733">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">It has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1734"></child>
+        </children>
+    </item>
+    <item nodeId="node-1734">
+        <command xml:space="preserve">open oyster with knife</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1735">
+        <command xml:space="preserve">take oysters</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1742"></child>
+            <child nodeId="node-1736"></child>
+        </children>
+    </item>
+    <item nodeId="node-1736">
+        <command xml:space="preserve">x oystere</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1737"></child>
+        </children>
+    </item>
+    <item nodeId="node-1737">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">The tool has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1738"></child>
+        </children>
+    </item>
+    <item nodeId="node-1738">
+        <command xml:space="preserve">get knife</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1739"></child>
+        </children>
+    </item>
+    <item nodeId="node-1739">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1740"></child>
+        </children>
+    </item>
+    <item nodeId="node-1740">
+        <command xml:space="preserve">get oyster knife</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1741"></child>
+        </children>
+    </item>
+    <item nodeId="node-1741">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster knife
+  an oyster (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1742">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1743"></child>
+        </children>
+    </item>
+    <item nodeId="node-1743">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1744"></child>
+        </children>
+    </item>
+    <item nodeId="node-1744">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1745">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1941"></child>
+        </children>
+    </item>
+    <item nodeId="node-1941">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1944"></child>
+        </children>
+    </item>
+    <item nodeId="node-1944">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You need to open the oyster first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1945"></child>
+        </children>
+    </item>
+    <item nodeId="node-1945">
+        <command xml:space="preserve">open oyster with tool</command>
+        <result xml:space="preserve">(first taking the funny tool)
+The tool has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1946"></child>
+        </children>
+    </item>
+    <item nodeId="node-1946">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away.
+
+You eat the oyster. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1952"></child>
+        </children>
+    </item>
+    <item nodeId="node-1952">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1953"></child>
+        </children>
+    </item>
+    <item nodeId="node-1953">
+        <command xml:space="preserve">drop oyster</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1954"></child>
+        </children>
+    </item>
+    <item nodeId="node-1954">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1955"></child>
+        </children>
+    </item>
+    <item nodeId="node-1955">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You already have one!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1974"></child>
+        </children>
+    </item>
+    <item nodeId="node-1974">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1975"></child>
+        </children>
+    </item>
+    <item nodeId="node-1975">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">[eating the oyster]
+You need to open the oyster first.
+[eating the oyster - failed the check before eating rule]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1976"></child>
+        </children>
+    </item>
+    <item nodeId="node-1976">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">[opening the oyster]
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+[opening the oyster - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1977"></child>
+        </children>
+    </item>
+    <item nodeId="node-1977">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">[eating the oyster]
+You slurp down the contents of the oyster, and toss the shell away.
+
+You eat the oyster. Not bad.
+[eating the oyster - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1978"></child>
+        </children>
+    </item>
+    <item nodeId="node-1978">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1979"></child>
+        </children>
+    </item>
+    <item nodeId="node-1979">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[taking several oysters]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "taking oysters from mud rule" applies.]
+You dig in the mud and come up with an oyster.
+
+[(1) taking the oyster]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "take oyster rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report taking rule" applies.]
+Taken.
+[Rule "last specific action-processing rule" applies.]
+[(1) taking the oyster - succeeded]
+
+[taking several oysters - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1980"></child>
+        </children>
+    </item>
+    <item nodeId="node-1980">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[opening the oyster]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "generic open oyster rule" applies.]
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+The oyster shell is full of mud! You toss it away in disgust. 
+
+It's probably worth another try.
+[opening the oyster - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1981"></child>
+        </children>
+    </item>
+    <item nodeId="node-1981">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[taking several oysters]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "taking oysters from mud rule" applies.]
+You dig in the mud and come up with an oyster.
+
+[(1) taking the oyster]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "take oyster rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report taking rule" applies.]
+Taken.
+[Rule "last specific action-processing rule" applies.]
+[(1) taking the oyster - succeeded]
+
+[taking several oysters - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1982"></child>
+        </children>
+    </item>
+    <item nodeId="node-1982">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[opening the oyster]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "generic open oyster rule" applies.]
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+[(1) taking the pearl]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "after taking a pearl" applies.]
+I'm rich!
+[(1) taking the pearl - succeeded]
+
+
+To your surprise, there is a pearl glistening on top of the oyster meat. You carefully pick it out. [opening the oyster - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+[Your score has just gone up by two points.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1983"></child>
+        </children>
+    </item>
+    <item nodeId="node-1983">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[eating the oyster]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "check before eating rule" applies.]
+[Rule "can't eat unless edible rule" applies.]
+[Rule "can't eat clothing without removing it first rule" applies.]
+[Rule "can't eat other people's food rule" applies.]
+[Rule "can't eat portable food without carrying it rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "eat oyster rule" applies.]
+You slurp down the contents of the oyster, and toss the shell away.
+
+[Rule "standard eating rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report eating rule" applies.]
+You eat the oyster. Not bad.
+[Rule "last specific action-processing rule" applies.]
+[eating the oyster - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1746">
+        <command xml:space="preserve">showall</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1747"></child>
+        </children>
+    </item>
+    <item nodeId="node-1747">
+        <command xml:space="preserve">showme oyster</command>
+        <result xml:space="preserve">oyster - closed container
+location: out of play
+singular-named, improper-named; unlit, inedible, portable; opaque, closed, openable, unlocked
+list grouping key: none
+printed name: "oyster"
+printed plural name: "containers"
+indefinite article: none
+description: "It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud."
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1748"></child>
+        </children>
+    </item>
+    <item nodeId="node-1748">
+        <command xml:space="preserve">showme funny tool</command>
+        <result xml:space="preserve">funny tool - thing
+location: in the Beach
+singular-named, improper-named; unlit, inedible, portable
+list grouping key: none
+printed name: "funny tool"
+printed plural name: none
+indefinite article: none
+description: "It has a rubber handle and a wide, flat, rounded blade."
+initial appearance: none
+identified: false
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1984">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1985"></child>
+        </children>
+    </item>
+    <item nodeId="node-1985">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "taking oysters from mud rule" applies.]
+You dig in the mud and come up with an oyster.
+
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "take oyster rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "after taking an oyster for the first time" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1986"></child>
+        </children>
+    </item>
+    <item nodeId="node-1986">
+        <command xml:space="preserve">open oyster with tool</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+(first taking the funny tool)
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "open oyster with knife rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+The tool has a rubber handle and a wide, flat, rounded blade.
+
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "learn the name of the tool rule" applies.]
+Aha! It's an oyster knife.
+
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "generic open oyster rule" applies.]
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1987"></child>
+        </children>
+    </item>
+    <item nodeId="node-1987">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "check before eating rule" applies.]
+[Rule "can't eat unless edible rule" applies.]
+[Rule "can't eat clothing without removing it first rule" applies.]
+[Rule "can't eat other people's food rule" applies.]
+[Rule "can't eat portable food without carrying it rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "eat oyster rule" applies.]
+You slurp down the contents of the oyster, and toss the shell away.
+
+[Rule "standard eating rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "after eating an oyster for the first time" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1749">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a Halloween bag
+    four pieces of candy
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1750"></child>
+        </children>
+    </item>
+    <item nodeId="node-1750">
+        <command xml:space="preserve">eat candy</command>
+        <result xml:space="preserve">(first taking the piece of candy)
+You eat the piece of candy. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1751"></child>
+        </children>
+    </item>
+    <item nodeId="node-1751">
+        <command xml:space="preserve">eat candy</command>
+        <result xml:space="preserve">(first taking the piece of candy)
+You eat the piece of candy. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1752"></child>
+        </children>
+    </item>
+    <item nodeId="node-1752">
+        <command xml:space="preserve">eat candy</command>
+        <result xml:space="preserve">(first taking the piece of candy)
+Oh, that didn't taste right at all. Oh well!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1753"></child>
+        </children>
+    </item>
+    <item nodeId="node-1753">
+        <command xml:space="preserve">eat candy</command>
+        <result xml:space="preserve">(first taking the piece of candy)
+You eat the piece of candy. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1754">
+        <command xml:space="preserve">get tool</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1755"></child>
+        </children>
+    </item>
+    <item nodeId="node-1755">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">The tool has a rubber handle and a wide, flat, rounded blade.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1756"></child>
+        </children>
+    </item>
+    <item nodeId="node-1756">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1769"></child>
+            <child nodeId="node-1757"></child>
+        </children>
+    </item>
+    <item nodeId="node-1757">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1758"></child>
+        </children>
+    </item>
+    <item nodeId="node-1758">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">The tool has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1759"></child>
+        </children>
+    </item>
+    <item nodeId="node-1759">
+        <command xml:space="preserve">open oyster with knife</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1760"></child>
+        </children>
+    </item>
+    <item nodeId="node-1760">
+        <command xml:space="preserve">open oyster with oyster knife</command>
+        <result xml:space="preserve">It's an oyster knife.
+
+Aha! It's an oyster knife.
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+To your surprise, there is a pearl glistening on top of the oyster body. You carefully pick it out. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1761"></child>
+        </children>
+    </item>
+    <item nodeId="node-1761">
+        <command xml:space="preserve">x pearl</command>
+        <result xml:space="preserve">It's a small pearl, not quite spherical, but it will make a nice memento. Maybe Mom will like it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1762"></child>
+        </children>
+    </item>
+    <item nodeId="node-1762">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pearl
+  an oyster (open)
+    meat
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1763"></child>
+        </children>
+    </item>
+    <item nodeId="node-1763">
+        <command xml:space="preserve">eat meat</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1764"></child>
+        </children>
+    </item>
+    <item nodeId="node-1764">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pearl
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1765"></child>
+        </children>
+    </item>
+    <item nodeId="node-1765">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1766"></child>
+        </children>
+    </item>
+    <item nodeId="node-1766">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+To your surprise, there is a pearl glistening on top of the oyster body. You carefully pick it out. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1767"></child>
+        </children>
+    </item>
+    <item nodeId="node-1767">
+        <command xml:space="preserve">drop oyster</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1768"></child>
+        </children>
+    </item>
+    <item nodeId="node-1768">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see an oyster (in which is meat) and several oysters here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1769">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">See if you can find something to open it with.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1770"></child>
+        </children>
+    </item>
+    <item nodeId="node-1770">
+        <command xml:space="preserve">x tool</command>
+        <result xml:space="preserve">It has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1771"></child>
+        </children>
+    </item>
+    <item nodeId="node-1771">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1772"></child>
+        </children>
+    </item>
+    <item nodeId="node-1772">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1773"></child>
+        </children>
+    </item>
+    <item nodeId="node-1773">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1774"></child>
+        </children>
+    </item>
+    <item nodeId="node-1774">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1775"></child>
+        </children>
+    </item>
+    <item nodeId="node-1775">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+  an oyster knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1776"></child>
+        </children>
+    </item>
+    <item nodeId="node-1776">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You need to open the oyster first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1777"></child>
+        </children>
+    </item>
+    <item nodeId="node-1777">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the blade carefully into the corner of the oyster and twist until it pops open.
+To your surprise, there is a pearl glistening on top of the oyster body. You carefully pick it out. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1778"></child>
+        </children>
+    </item>
+    <item nodeId="node-1778">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1779"></child>
+        </children>
+    </item>
+    <item nodeId="node-1779">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">
+
+
+Oysters
+An Interactive Fiction
+Release 1 / Serial number 210304 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see several oysters and a funny tool here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1780"></child>
+        </children>
+    </item>
+    <item nodeId="node-1780">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1781"></child>
+        </children>
+    </item>
+    <item nodeId="node-1781">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1782"></child>
+        </children>
+    </item>
+    <item nodeId="node-1782">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">See if you can find something to open it with.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1783"></child>
+        </children>
+    </item>
+    <item nodeId="node-1783">
+        <command xml:space="preserve">get tool</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1784"></child>
+        </children>
+    </item>
+    <item nodeId="node-1784">
+        <command xml:space="preserve">open oyster with tool</command>
+        <result xml:space="preserve">That doesn't seem to be something you can unlock.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1785">
+        <command xml:space="preserve">get oysters</command>
+        <result xml:space="preserve">You dig up an oyster from the mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1790"></child>
+            <child nodeId="node-1786"></child>
+        </children>
+    </item>
+    <item nodeId="node-1786">
+        <command xml:space="preserve">get oysters</command>
+        <result xml:space="preserve">You are already holding an oyster. You should probably do something with it first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1787"></child>
+        </children>
+    </item>
+    <item nodeId="node-1787">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1788"></child>
+        </children>
+    </item>
+    <item nodeId="node-1788">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">You see nothing special about the oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1789"></child>
+        </children>
+    </item>
+    <item nodeId="node-1789">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You eat the oyster. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1790">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You eat the oyster. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1791"></child>
+        </children>
+    </item>
+    <item nodeId="node-1791">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Beach
+You can see an assortment of oysters here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1792"></child>
+        </children>
+    </item>
+    <item nodeId="node-1792">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig up an oyster from the mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1793"></child>
+        </children>
+    </item>
+    <item nodeId="node-1793">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1794"></child>
+        </children>
+    </item>
+    <item nodeId="node-1794">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1795"></child>
+        </children>
+    </item>
+    <item nodeId="node-1795">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You eat the oyster. Not bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1796"></child>
+        </children>
+    </item>
+    <item nodeId="node-1796">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1797"></child>
+        </children>
+    </item>
+    <item nodeId="node-1797">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Beach
+You can see an assortment of oysters here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1798"></child>
+        </children>
+    </item>
+    <item nodeId="node-1798">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1799"></child>
+        </children>
+    </item>
+    <item nodeId="node-1799">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You dig up an oyster from the mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1800"></child>
+        </children>
+    </item>
+    <item nodeId="node-1800">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1801"></child>
+        </children>
+    </item>
+    <item nodeId="node-1801">
+        <command xml:space="preserve">take assortment</command>
+        <result xml:space="preserve">You are already holding an oyster. You should probably do something with it first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1802">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You dig in the mud and come up with an oyster.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1822"></child>
+            <child nodeId="node-1808"></child>
+            <child nodeId="node-1989"></child>
+            <child nodeId="node-1803"></child>
+        </children>
+    </item>
+    <item nodeId="node-1803">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1804"></child>
+        </children>
+    </item>
+    <item nodeId="node-1804">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">It's closed tightly. You need to find something you can use to to open it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1805"></child>
+        </children>
+    </item>
+    <item nodeId="node-1805">
+        <command xml:space="preserve">get knife</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1806"></child>
+        </children>
+    </item>
+    <item nodeId="node-1806">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1807"></child>
+        </children>
+    </item>
+    <item nodeId="node-1807">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+In the oyster is a meat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1989">
+        <command xml:space="preserve">take tool</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1990"></child>
+        </children>
+    </item>
+    <item nodeId="node-1990">
+        <command xml:space="preserve">open oyster with tool</command>
+        <result xml:space="preserve">The tool has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+
+
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1991"></child>
+        </children>
+    </item>
+    <item nodeId="node-1991">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You slurp down the contents of the oyster, and toss the shell away.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1808">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">It's closed tightly. You need to find something you can use to to open it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1809"></child>
+        </children>
+    </item>
+    <item nodeId="node-1809">
+        <command xml:space="preserve">get knife</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1810"></child>
+        </children>
+    </item>
+    <item nodeId="node-1810">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1811"></child>
+        </children>
+    </item>
+    <item nodeId="node-1811">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+In the oyster are a pearl and a meat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1812"></child>
+        </children>
+    </item>
+    <item nodeId="node-1812">
+        <command xml:space="preserve">x oyster body</command>
+        <result xml:space="preserve">I only understood you as far as wanting to examine the oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1813"></child>
+        </children>
+    </item>
+    <item nodeId="node-1813">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a knife
+  an oyster (open)
+    a pearl
+    a meat
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1814"></child>
+        </children>
+    </item>
+    <item nodeId="node-1814">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1815"></child>
+        </children>
+    </item>
+    <item nodeId="node-1815">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+In the oyster are a pearl and a meat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1816"></child>
+        </children>
+    </item>
+    <item nodeId="node-1816">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1817"></child>
+        </children>
+    </item>
+    <item nodeId="node-1817">
+        <command xml:space="preserve">get oyster</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1818"></child>
+        </children>
+    </item>
+    <item nodeId="node-1818">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1819"></child>
+        </children>
+    </item>
+    <item nodeId="node-1819">
+        <command xml:space="preserve">x oyster</command>
+        <result xml:space="preserve">It's a rough, oblong, oyster shell, with a couple of barnacles attached and some specks of mud.
+
+In the oyster are a pearl and a meat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1820"></child>
+        </children>
+    </item>
+    <item nodeId="node-1820">
+        <command xml:space="preserve">x oyster body</command>
+        <result xml:space="preserve">I only understood you as far as wanting to examine the oyster.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1821"></child>
+        </children>
+    </item>
+    <item nodeId="node-1821">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a knife
+  an oyster (open)
+    a pearl
+    a meat
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1822">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You need to open the oyster first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1823"></child>
+        </children>
+    </item>
+    <item nodeId="node-1823">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">It's closed tightly. You need to find something you can use to to open it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1824"></child>
+        </children>
+    </item>
+    <item nodeId="node-1824">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">You need to open the oyster first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1825"></child>
+        </children>
+    </item>
+    <item nodeId="node-1825">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1826"></child>
+        </children>
+    </item>
+    <item nodeId="node-1826">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Beach
+You're on a muddy beach at low tide. There are probably oysters under the mud.
+
+You can see several oysters and a knife here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1827"></child>
+        </children>
+    </item>
+    <item nodeId="node-1827">
+        <command xml:space="preserve">get oysters</command>
+        <result xml:space="preserve">You are already holding an oyster. You should probably do something with it first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1828"></child>
+        </children>
+    </item>
+    <item nodeId="node-1828">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  an oyster (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1829"></child>
+        </children>
+    </item>
+    <item nodeId="node-1829">
+        <command xml:space="preserve">get knife</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1830"></child>
+        </children>
+    </item>
+    <item nodeId="node-1830">
+        <command xml:space="preserve">open oyster</command>
+        <result xml:space="preserve">You work the knife blade carefully into the corner of the oyster and twist until it pops open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1831"></child>
+        </children>
+    </item>
+    <item nodeId="node-1831">
+        <command xml:space="preserve">eat oyster</command>
+        <result xml:space="preserve">(the oyster)
+You slurp down the oyster, and toss the shell away. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1832"></child>
+        </children>
+    </item>
+    <item nodeId="node-1832">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a knife
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1833">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1834"></child>
+        </children>
+    </item>
+    <item nodeId="node-1834">
+        <command xml:space="preserve">take tool</command>
+        <result xml:space="preserve">[taking the funny tool]
+Taken.
+[taking the funny tool - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1835"></child>
+        </children>
+    </item>
+    <item nodeId="node-1835">
+        <command xml:space="preserve">take oyster</command>
+        <result xml:space="preserve">[taking several oysters]
+You dig in the mud and come up with an oyster.
+[taking several oysters - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1836"></child>
+        </children>
+    </item>
+    <item nodeId="node-1836">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">[taking inventory]
+You are carrying:
+  an oyster (closed)
+  a funny tool
+
+[taking inventory - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1837"></child>
+        </children>
+    </item>
+    <item nodeId="node-1837">
+        <command xml:space="preserve">open oyster with tool</command>
+        <result xml:space="preserve">[unlocking the oyster with the funny tool]
+[(1) examining the funny tool]
+The tool has a rubber handle and a wide, flat, rounded blade.
+
+Aha! It's an oyster knife.
+[(1) examining the oyster knife - succeeded]
+
+[(1) opening the oyster]
+You work the blade of the oyster knife carefully into the corner of the oyster and twist until it pops open.
+[(1) opening the oyster - succeeded]
+
+[unlocking the oyster with the oyster knife - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1838"></child>
+        </children>
+    </item>
+    <item nodeId="node-1838">
+        <command xml:space="preserve">open oyster with tool</command>
+        <result xml:space="preserve">[unlocking the oyster with the oyster knife]
+[(1) examining the oyster knife]
+It's an oyster knife.
+
+Aha! It's an oyster knife.
+[(1) examining the oyster knife - succeeded]
+
+[(1) opening the oyster]
+It's already open!
+[(1) opening the oyster - failed]
+
+[unlocking the oyster with the oyster knife - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

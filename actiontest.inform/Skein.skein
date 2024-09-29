@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1441">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1441">
+        <command xml:space="preserve">actiontest</command>
+        <result xml:space="preserve">
+
+
+actiontest
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 220509 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+computer room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1446"></child>
+            <child nodeId="node-1442"></child>
+        </children>
+    </item>
+    <item nodeId="node-1442">
+        <command xml:space="preserve">type hello</command>
+        <result xml:space="preserve">i'm typing hello on the PC...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1443"></child>
+        </children>
+    </item>
+    <item nodeId="node-1443">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1444"></child>
+        </children>
+    </item>
+    <item nodeId="node-1444">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+office
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1445"></child>
+        </children>
+    </item>
+    <item nodeId="node-1445">
+        <command xml:space="preserve">type hello</command>
+        <result xml:space="preserve">i'm typing hello on the HP...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1446">
+        <command xml:space="preserve">type foo</command>
+        <result xml:space="preserve">i'm typing foo on the PC...
+I'm typing foo on the keyboard
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1447"></child>
+        </children>
+    </item>
+    <item nodeId="node-1447">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+office
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1448"></child>
+        </children>
+    </item>
+    <item nodeId="node-1448">
+        <command xml:space="preserve">type foo</command>
+        <result xml:space="preserve">i'm typing foo on the HP...
+I'm typing foo on the calculator
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

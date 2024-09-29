@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-5229">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-5229">
+        <command xml:space="preserve">keyboard</command>
+        <result xml:space="preserve">
+
+
+keyboard
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 220508 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+office
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5257"></child>
+            <child nodeId="node-5255"></child>
+            <child nodeId="node-5240"></child>
+            <child nodeId="node-5236"></child>
+            <child nodeId="node-5231"></child>
+            <child nodeId="node-5230"></child>
+        </children>
+    </item>
+    <item nodeId="node-5230">
+        <command xml:space="preserve">type foo</command>
+        <result xml:space="preserve">try texttype foo on zorter
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5231">
+        <command xml:space="preserve">texttype hello</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5232"></child>
+        </children>
+    </item>
+    <item nodeId="node-5232">
+        <command xml:space="preserve">texttype hello on zorter</command>
+        <result xml:space="preserve">That's not one of the 12 words.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5233"></child>
+        </children>
+    </item>
+    <item nodeId="node-5233">
+        <command xml:space="preserve">texttype cube on zorter</command>
+        <result xml:space="preserve">The solution is nigh.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5234"></child>
+        </children>
+    </item>
+    <item nodeId="node-5234">
+        <command xml:space="preserve">texttype cube on zorter</command>
+        <result xml:space="preserve">You've already entered "cube"; you don't need to enter it again.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5235"></child>
+        </children>
+    </item>
+    <item nodeId="node-5235">
+        <command xml:space="preserve">examine zorter</command>
+        <result xml:space="preserve">You see nothing special about the zorter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5236">
+        <command xml:space="preserve">texttype crab</command>
+        <result xml:space="preserve">The zorter beeps annoyingly. "crab" doesn't seem to be one of the 12 words.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5237"></child>
+        </children>
+    </item>
+    <item nodeId="node-5237">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">office
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5238"></child>
+        </children>
+    </item>
+    <item nodeId="node-5238">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the zorter)
+It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces, all of which are empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5239"></child>
+        </children>
+    </item>
+    <item nodeId="node-5239">
+        <command xml:space="preserve">texttype tank</command>
+        <result xml:space="preserve">The zorter chirps, and "tank" is added to the list in position 2. That lands with a splash.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5240">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] x zorter
+It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces, all of which are empty.
+
+&gt;[2] texttype cube on zorter
+The zorter chirps, and "cube" is added to the list in position 11.
+
+The solution is nigh.
+
+&gt;[3] texttype cube on zorter
+You've already entered "cube"; you don't need to enter it again.
+
+&gt;[4] texttype fish on zorter
+The zorter chirps, and "fish" is added to the list in position 1.
+
+That smells correct.
+
+&gt;[5] texttype foo on zorter
+The zorter beeps annoyingly. "foo" doesn't seem to be one of the 12 words.
+
+&gt;[6] x zorter
+It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces, containing "fish" and "cube", with 10 of them still empty.
+.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] x zorter
+[2] texttype cube on zorter
+[3] texttype cube on zorter
+[4] texttype fish on zorter
+[5] texttype foo on zorter
+[6] x zorter
+</commentary>
+        <children><child nodeId="node-5241"></child>
+        </children>
+    </item>
+    <item nodeId="node-5241">
+        <command xml:space="preserve">texttype tank on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "tank" is added to the list in position 2. That lands with a splash.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5242"></child>
+        </children>
+    </item>
+    <item nodeId="node-5242">
+        <command xml:space="preserve">texttype kitchen on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "kitchen" is added to the list in position 3. Now we're cookin".
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5243"></child>
+        </children>
+    </item>
+    <item nodeId="node-5243">
+        <command xml:space="preserve">texttype knife on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "knife" is added to the list in position 4. That's on point.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5244"></child>
+        </children>
+    </item>
+    <item nodeId="node-5244">
+        <command xml:space="preserve">texttype sand on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "sand" is added to the list in position 5. True grit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5245"></child>
+        </children>
+    </item>
+    <item nodeId="node-5245">
+        <command xml:space="preserve">texttype fire on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "fire" is added to the list in position 7. Blazingly accurate.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5246"></child>
+        </children>
+    </item>
+    <item nodeId="node-5246">
+        <command xml:space="preserve">x zorter</command>
+        <result xml:space="preserve">It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces, containing fish, tank, kitchen, knife, sand, fire and cube, with 5 of them still empty.
+.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5247"></child>
+        </children>
+    </item>
+    <item nodeId="node-5247">
+        <command xml:space="preserve">texttype wood on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "wood" is added to the list in position 6. That wood seem to be correct.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5248"></child>
+        </children>
+    </item>
+    <item nodeId="node-5248">
+        <command xml:space="preserve">texttype bird on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "bird" is added to the list in position 9. Bird is the word.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5249"></child>
+        </children>
+    </item>
+    <item nodeId="node-5249">
+        <command xml:space="preserve">texttype flag on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "flag" is added to the list in position 8. You're being waved on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5250"></child>
+        </children>
+    </item>
+    <item nodeId="node-5250">
+        <command xml:space="preserve">x zorter</command>
+        <result xml:space="preserve">It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces, containing fish, tank, kitchen, knife, sand, wood, fire, flag, bird and cube, with 2 of them still empty.
+.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5251"></child>
+        </children>
+    </item>
+    <item nodeId="node-5251">
+        <command xml:space="preserve">texttype bicycle on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "bicycle" is added to the list in position 10. As easy as...
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5252"></child>
+        </children>
+    </item>
+    <item nodeId="node-5252">
+        <command xml:space="preserve">texttype cube on zorter</command>
+        <result xml:space="preserve">You've already entered "cube"; you don't need to enter it again.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5253"></child>
+        </children>
+    </item>
+    <item nodeId="node-5253">
+        <command xml:space="preserve">texttype ghost on zorter</command>
+        <result xml:space="preserve">The zorter chirps, and "ghost" is added to the list in position 12. The spirit is willing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5254"></child>
+        </children>
+    </item>
+    <item nodeId="node-5254">
+        <command xml:space="preserve">x zorter</command>
+        <result xml:space="preserve">It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces, which are all filled. The words are fish, tank, kitchen, knife, sand, wood, fire, flag, bird, bicycle, cube and ghost.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5255">
+        <command xml:space="preserve">test</command>
+        <result xml:space="preserve">&gt;--&gt; The following tests are available:
+'test me'
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5256"></child>
+        </children>
+    </item>
+    <item nodeId="node-5256">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] x zorter
+It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces containing ____, ____, ____, ____, ____, ____, ____, ____, ____, ____, ____ and ____.
+
+&gt;[2] texttype cube on zorter
+The solution is nigh.
+&gt;[3] texttype cube on zorter
+You've already entered "cube"; you don't need to enter it again.
+
+&gt;[4] textttype fish on zorter
+That's not a verb I recognise.
+
+&gt;[5] x zorter
+It's a cryptocurrency wallet device, with the brand name "Zorter". It's got a tiny alphabetic keyboard on it, and its small screen shows 12 spaces containing ____, ____, ____, ____, ____, ____, ____, ____, ____, ____, cube and ____.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] x zorter
+[2] texttype cube on zorter
+[3] texttype cube on zorter
+[4] textttype fish on zorter
+[5] x zorter
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-5257">
+        <command xml:space="preserve">examine zorter</command>
+        <result xml:space="preserve">It's a cryptocurrency wallet with the brand name "Zorter". It's got a keyboard on it, and its small screen shows 12 slots, containing ??
+??
+??
+??
+??
+??
+??
+??
+??
+??
+??
+??
+.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

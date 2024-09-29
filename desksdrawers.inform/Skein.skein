@@ -1,0 +1,1235 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1882">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1882">
+        <command xml:space="preserve">desksdrawers</command>
+        <result xml:space="preserve">
+
+
+desksdrawers
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210316 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Study
+You can see a desk and a file cabinet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1903"></child>
+            <child nodeId="node-1888"></child>
+            <child nodeId="node-2143"></child>
+            <child nodeId="node-1883"></child>
+            <child nodeId="node-1974"></child>
+        </children>
+    </item>
+    <item nodeId="node-1974">
+        <command xml:space="preserve">x left</command>
+        <result xml:space="preserve">You see nothing special about the desk's left drawer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1975"></child>
+            <child nodeId="node-2121"></child>
+        </children>
+    </item>
+    <item nodeId="node-2121">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">You open the desk's left drawer, revealing a pencil, a pen and a stapler.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2122"></child>
+        </children>
+    </item>
+    <item nodeId="node-2122">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see a left cabinet and a right cabinet (on which is a mixer) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2123"></child>
+        </children>
+    </item>
+    <item nodeId="node-2123">
+        <command xml:space="preserve">x left</command>
+        <result xml:space="preserve">(the left cabinet)
+You see nothing special about the left cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2124"></child>
+        </children>
+    </item>
+    <item nodeId="node-2124">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+You open the left cabinet's interior, revealing a bucket.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2125"></child>
+        </children>
+    </item>
+    <item nodeId="node-2125">
+        <command xml:space="preserve">open right</command>
+        <result xml:space="preserve">(the right cabinet)
+You open the right cabinet's interior, revealing a severed head.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2126"></child>
+        </children>
+    </item>
+    <item nodeId="node-2126">
+        <command xml:space="preserve">x right</command>
+        <result xml:space="preserve">(the right cabinet)
+On the right cabinet is a mixer.
+
+The right cabinet is open, and contains a severed head.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2141"></child>
+        </children>
+    </item>
+    <item nodeId="node-2141">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2142"></child>
+        </children>
+    </item>
+    <item nodeId="node-2142">
+        <command xml:space="preserve">close left</command>
+        <result xml:space="preserve">(the left cabinet)
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't close unless openable rule" applies.]
+It isn't something you can close.
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1975">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see a left cabinet and a right cabinet (on which is a mixer) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1976"></child>
+        </children>
+    </item>
+    <item nodeId="node-1976">
+        <command xml:space="preserve">x left</command>
+        <result xml:space="preserve">(the left cabinet)
+You see nothing special about the left cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1977"></child>
+        </children>
+    </item>
+    <item nodeId="node-1977">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+You open the left cabinet's bazz, revealing a bucket.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1978"></child>
+            <child nodeId="node-2018"></child>
+        </children>
+    </item>
+    <item nodeId="node-2018">
+        <command xml:space="preserve">x left</command>
+        <result xml:space="preserve">(the left cabinet)
+You see nothing special about the left cabinet.
+
+The left cabinet's bazz is open, and contains a bucket.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2034"></child>
+        </children>
+    </item>
+    <item nodeId="node-2034">
+        <command xml:space="preserve">x riht</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2035"></child>
+        </children>
+    </item>
+    <item nodeId="node-2035">
+        <command xml:space="preserve">x right</command>
+        <result xml:space="preserve">(the right cabinet)
+On the right cabinet is a mixer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2036"></child>
+        </children>
+    </item>
+    <item nodeId="node-2036">
+        <command xml:space="preserve">open right</command>
+        <result xml:space="preserve">(the right cabinet)
+You open the right cabinet's bazz.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2037"></child>
+        </children>
+    </item>
+    <item nodeId="node-2037">
+        <command xml:space="preserve">x right</command>
+        <result xml:space="preserve">(the right cabinet)
+On the right cabinet is a mixer.
+
+The right cabinet's bazz is open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2038"></child>
+        </children>
+    </item>
+    <item nodeId="node-2038">
+        <command xml:space="preserve">look in right</command>
+        <result xml:space="preserve">(the right cabinet)
+On the right cabinet is a mixer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2039"></child>
+        </children>
+    </item>
+    <item nodeId="node-2039">
+        <command xml:space="preserve">take bucket</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2040"></child>
+        </children>
+    </item>
+    <item nodeId="node-2040">
+        <command xml:space="preserve">take head</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2053"></child>
+        </children>
+    </item>
+    <item nodeId="node-2053">
+        <command xml:space="preserve">showme left cabinet</command>
+        <result xml:space="preserve">left cabinet - kitchen-cabinet
+    left cabinet's bazz (part of left cabinet) - ibazz
+location: in the Kitchen
+singular-named, improper-named; unlit, inedible, fixed in place; list grouping key: none
+printed name: "left cabinet"
+printed plural name: "kitchen-cabinets"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2054"></child>
+        </children>
+    </item>
+    <item nodeId="node-2054">
+        <command xml:space="preserve">showme left cabinet door</command>
+        <result xml:space="preserve">I only understood you as far as wanting to showme the left cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2069"></child>
+        </children>
+    </item>
+    <item nodeId="node-2069">
+        <command xml:space="preserve">showme left cabinet's door</command>
+        <result xml:space="preserve">I only understood you as far as wanting to showme the left cabinet's bazz.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2085"></child>
+        </children>
+    </item>
+    <item nodeId="node-2085">
+        <command xml:space="preserve">showme left cabinet's bazz</command>
+        <result xml:space="preserve">left cabinet's bazz - ibazz
+location: part of the left cabinet in the Kitchen
+singular-named, improper-named; unlit, inedible, portable; opaque, open, openable, unlocked
+list grouping key: none
+printed name: "left cabinet's bazz"
+printed plural name: "ibazzs"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2102"></child>
+        </children>
+    </item>
+    <item nodeId="node-2102">
+        <command xml:space="preserve">x left cabinet's bazz</command>
+        <result xml:space="preserve">The left cabinet's bazz is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1978">
+        <command xml:space="preserve">open left frozbot</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1984"></child>
+        </children>
+    </item>
+    <item nodeId="node-1984">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1985"></child>
+        </children>
+    </item>
+    <item nodeId="node-1985">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1986"></child>
+        </children>
+    </item>
+    <item nodeId="node-1986">
+        <command xml:space="preserve">open right</command>
+        <result xml:space="preserve">(the right cabinet)
+[Rule "declare everything initially unmentioned rule" applies.]
+[opening the right cabinet]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "check opening a kitchen-cabinet ( called kc )" applies.]
+[opening the right cabinet - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1995"></child>
+        </children>
+    </item>
+    <item nodeId="node-1995">
+        <command xml:space="preserve">foobar right cabinet to the right cabinet's frozbot</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1883">
+        <command xml:space="preserve">x desk</command>
+        <result xml:space="preserve">You see nothing special about the desk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1884"></child>
+        </children>
+    </item>
+    <item nodeId="node-1884">
+        <command xml:space="preserve">open left drawer</command>
+        <result xml:space="preserve">Which do you mean, the desk's left drawer or the chinese lacquer box's left drawer?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1885"></child>
+        </children>
+    </item>
+    <item nodeId="node-1885">
+        <command xml:space="preserve">open desk left drawer</command>
+        <result xml:space="preserve">I only understood you as far as wanting to open the desk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1886"></child>
+        </children>
+    </item>
+    <item nodeId="node-1886">
+        <command xml:space="preserve">open desk's left drawer</command>
+        <result xml:space="preserve">You open the desk's left drawer, revealing a pencil.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1887"></child>
+        </children>
+    </item>
+    <item nodeId="node-1887">
+        <command xml:space="preserve">open box's left drawer</command>
+        <result xml:space="preserve">You open the chinese lacquer box's left drawer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2143">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2144"></child>
+        </children>
+    </item>
+    <item nodeId="node-2144">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't open unless openable rule" applies.]
+[Rule "can't open what's locked rule" applies.]
+[Rule "can't open what's already open rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard opening rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "reveal any newly visible interior rule" applies.]
+You open the desk's left drawer, revealing a pencil, a pen and a stapler.
+[Rule "last specific action-processing rule" applies.]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2145"></child>
+        </children>
+    </item>
+    <item nodeId="node-2145">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "standard set going variables rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't travel in what's not a vehicle rule" applies.]
+[Rule "can't go through undescribed doors rule" applies.]
+[Rule "can't go through closed doors rule" applies.]
+[Rule "determine map connection rule" applies.]
+[Rule "can't go that way rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "move player and vehicle rule" applies.]
+[Rule "move floating objects rule" applies.]
+[Rule "check light in new location rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "describe room gone into rule" applies.]
+
+[Rule "determine visibility ceiling rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "declare everything unmentioned rule" applies.]
+[Rule "room description heading rule" applies.]
+Kitchen
+[Rule "room description body text rule" applies.]
+[Rule "room description paragraphs about objects rule" applies.]
+[Rule "initialise locale description rule" applies.]
+[Rule "find notable locale objects rule" applies.]
+[Rule "standard notable locale objects rule" applies.]
+[Rule "interesting locale paragraphs rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "initial appearance on supporters rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "initial appearance on supporters rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "you-can-also-see rule" applies.]
+You can see a left cabinet and a right cabinet (on which is a mixer) here.
+
+[Rule "check new arrival rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "other people looking rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2146"></child>
+        </children>
+    </item>
+    <item nodeId="node-2146">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "check opening a kitchen-cabinet ( called kc )" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't open unless openable rule" applies.]
+[Rule "can't open what's locked rule" applies.]
+[Rule "can't open what's already open rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard opening rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "reveal any newly visible interior rule" applies.]
+You open the left cabinet's interior, revealing a bucket.
+[Rule "last specific action-processing rule" applies.]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2147"></child>
+        </children>
+    </item>
+    <item nodeId="node-2147">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "check opening a kitchen-cabinet ( called kc )" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't open unless openable rule" applies.]
+[Rule "can't open what's locked rule" applies.]
+[Rule "can't open what's already open rule" applies.]
+That's already open.
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1888">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">You open the desk's left drawer, revealing a pencil, a pen and a stapler.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1889"></child>
+        </children>
+    </item>
+    <item nodeId="node-1889">
+        <command xml:space="preserve">open top</command>
+        <result xml:space="preserve">You open the file cabinet's top drawer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1890"></child>
+        </children>
+    </item>
+    <item nodeId="node-1890">
+        <command xml:space="preserve">open all drawers</command>
+        <result xml:space="preserve">You can't use multiple objects with that verb.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1891"></child>
+        </children>
+    </item>
+    <item nodeId="node-1891">
+        <command xml:space="preserve">loook</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1892"></child>
+        </children>
+    </item>
+    <item nodeId="node-1892">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Study
+You can see a desk and a file cabinet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1893"></child>
+        </children>
+    </item>
+    <item nodeId="node-1893">
+        <command xml:space="preserve">x desk</command>
+        <result xml:space="preserve">It's a basic wooden desk with two drawers.
+
+The desk's left drawer is open, and contains a pencil, a pen and a stapler.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1894"></child>
+        </children>
+    </item>
+    <item nodeId="node-1894">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1895"></child>
+        </children>
+    </item>
+    <item nodeId="node-1895">
+        <command xml:space="preserve">cabinet</command>
+        <result xml:space="preserve">You see nothing special about the file cabinet.
+
+The file cabinet's top drawer is open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1896"></child>
+        </children>
+    </item>
+    <item nodeId="node-1896">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1897"></child>
+        </children>
+    </item>
+    <item nodeId="node-1897">
+        <command xml:space="preserve">x cabinet</command>
+        <result xml:space="preserve">[examining the file cabinet]
+You see nothing special about the file cabinet.
+
+The file cabinet's top drawer is open.
+[examining the file cabinet - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1898"></child>
+        </children>
+    </item>
+    <item nodeId="node-1898">
+        <command xml:space="preserve">showme desk</command>
+        <result xml:space="preserve">desk - two-drawered-desk
+    desk's left drawer (part of desk) - drawer
+    desk's right drawer (part of desk) - drawer
+        paper
+        pencil
+        pen
+        stapler
+location: in the Study
+singular-named, improper-named; unlit, inedible, fixed in place; list grouping key: none
+printed name: "desk"
+printed plural name: "two-drawered-desks"
+indefinite article: none
+description: "It's a basic wooden desk with two drawers."
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1899"></child>
+        </children>
+    </item>
+    <item nodeId="node-1899">
+        <command xml:space="preserve">showme desk's left drawer</command>
+        <result xml:space="preserve">desk's left drawer - drawer
+    pencil
+    pen
+    stapler
+location: part of the desk in the Study
+singular-named, improper-named; unlit, inedible, portable; opaque, open, openable, unlocked
+list grouping key: none
+printed name: "desk's left drawer"
+printed plural name: "drawers"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1900"></child>
+        </children>
+    </item>
+    <item nodeId="node-1900">
+        <command xml:space="preserve">x cabinet</command>
+        <result xml:space="preserve">[examining the file cabinet]
+You see nothing special about the file cabinet.
+
+The file cabinet's top drawer is open.
+[examining the file cabinet - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1903">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see a left cabinet and a right cabinet (on which is a mixer) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2149"></child>
+            <child nodeId="node-1904"></child>
+        </children>
+    </item>
+    <item nodeId="node-1904">
+        <command xml:space="preserve">x left</command>
+        <result xml:space="preserve">(the left cabinet)
+You see nothing special about the left cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1958"></child>
+            <child nodeId="node-1905"></child>
+        </children>
+    </item>
+    <item nodeId="node-1905">
+        <command xml:space="preserve">showme kitchen</command>
+        <result xml:space="preserve">Kitchen - room
+    yourself - person
+    left cabinet - kitchen-cabinet
+        left cabinet's doorx (part of left cabinet) - cabinet-interior
+    right cabinet - kitchen-cabinet
+        right cabinet's doorx (part of right cabinet) - cabinet-interior
+        mixer
+singular-named, improper-named; lighted, visited
+list grouping key: none
+printed name: "Kitchen"
+printed plural name: none
+indefinite article: none
+description: none
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1909"></child>
+        </children>
+    </item>
+    <item nodeId="node-1909">
+        <command xml:space="preserve">x right</command>
+        <result xml:space="preserve">(the right cabinet)
+On the right cabinet is a mixer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1914"></child>
+        </children>
+    </item>
+    <item nodeId="node-1914">
+        <command xml:space="preserve">showme left</command>
+        <result xml:space="preserve">(the left cabinet)
+left cabinet - kitchen-cabinet
+    left cabinet's doorx (part of left cabinet) - cabinet-interior
+location: in the Kitchen
+singular-named, improper-named; unlit, inedible, fixed in place; list grouping key: none
+printed name: "left cabinet"
+printed plural name: "kitchen-cabinets"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1915"></child>
+        </children>
+    </item>
+    <item nodeId="node-1915">
+        <command xml:space="preserve">showme left interior</command>
+        <result xml:space="preserve">interior of the left cabinet - open container
+    bucket
+location: out of play
+singular-named, improper-named; unlit, inedible, portable; opaque, open, unopenable, unlocked
+list grouping key: none
+printed name: "interior of the left cabinet"
+printed plural name: "containers"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1922"></child>
+        </children>
+    </item>
+    <item nodeId="node-1922">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1923"></child>
+        </children>
+    </item>
+    <item nodeId="node-1923">
+        <command xml:space="preserve">open left interio</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1924"></child>
+        </children>
+    </item>
+    <item nodeId="node-1924">
+        <command xml:space="preserve">open left interior</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1925"></child>
+        </children>
+    </item>
+    <item nodeId="node-1925">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1926"></child>
+        </children>
+    </item>
+    <item nodeId="node-1926">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+[opening the left cabinet]
+It isn't something you can open.
+[opening the left cabinet - failed the can't open unless openable rule]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1938"></child>
+        </children>
+    </item>
+    <item nodeId="node-1938">
+        <command xml:space="preserve">close the interior of the left cabinet</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1939"></child>
+        </children>
+    </item>
+    <item nodeId="node-1939">
+        <command xml:space="preserve">showme the left cabinet's interior</command>
+        <result xml:space="preserve">I only understood you as far as wanting to showme the left cabinet's doorx.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1940"></child>
+        </children>
+    </item>
+    <item nodeId="node-1940">
+        <command xml:space="preserve">showme the interior of the left cabinet</command>
+        <result xml:space="preserve">interior of the left cabinet - open container
+    bucket
+location: out of play
+singular-named, improper-named; unlit, inedible, portable; opaque, open, unopenable, unlocked
+list grouping key: none
+printed name: "interior of the left cabinet"
+printed plural name: "containers"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1955"></child>
+        </children>
+    </item>
+    <item nodeId="node-1955">
+        <command xml:space="preserve">open left doorx</command>
+        <result xml:space="preserve">[opening the left cabinet's doorx]
+You open the left cabinet's doorx.
+[opening the left cabinet's doorx - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1958">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1959"></child>
+        </children>
+    </item>
+    <item nodeId="node-1959">
+        <command xml:space="preserve">open left door</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1964"></child>
+        </children>
+    </item>
+    <item nodeId="node-1964">
+        <command xml:space="preserve">showme left</command>
+        <result xml:space="preserve">(the left cabinet)
+left cabinet - kitchen-cabinet
+    left cabinet's left drawer (part of left cabinet) - drawer
+location: in the Kitchen
+singular-named, improper-named; unlit, inedible, fixed in place; list grouping key: none
+printed name: "left cabinet"
+printed plural name: "kitchen-cabinets"
+indefinite article: none
+description: none
+initial appearance: none
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1970"></child>
+        </children>
+    </item>
+    <item nodeId="node-1970">
+        <command xml:space="preserve">open left drawer</command>
+        <result xml:space="preserve">Which do you mean, the left cabinet's left drawer or the right cabinet's left drawer?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1971"></child>
+        </children>
+    </item>
+    <item nodeId="node-1971">
+        <command xml:space="preserve">open left drawer of the left cabinet</command>
+        <result xml:space="preserve">Which do you mean, the left cabinet's left drawer or the right cabinet's left drawer?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1972"></child>
+        </children>
+    </item>
+    <item nodeId="node-1972">
+        <command xml:space="preserve">open left drawer of the right cabinet</command>
+        <result xml:space="preserve">Which do you mean, the left cabinet's left drawer or the right cabinet's left drawer?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1973"></child>
+        </children>
+    </item>
+    <item nodeId="node-1973">
+        <command xml:space="preserve">open the left cabinet's left drawer</command>
+        <result xml:space="preserve">Which do you mean, the left cabinet's left drawer or the right cabinet's left drawer?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2149">
+        <command xml:space="preserve">open left</command>
+        <result xml:space="preserve">(the left cabinet)
+You open the left cabinet, revealing the bucket.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2166"></child>
+        </children>
+    </item>
+    <item nodeId="node-2166">
+        <command xml:space="preserve">open right</command>
+        <result xml:space="preserve">(the right cabinet)
+You open the right cabinet, revealing a severed head.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2170"></child>
+        </children>
+    </item>
+    <item nodeId="node-2170">
+        <command xml:space="preserve">take bucket</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2171"></child>
+        </children>
+    </item>
+    <item nodeId="node-2171">
+        <command xml:space="preserve">put head in bucket</command>
+        <result xml:space="preserve">(first taking the severed head)
+You put the severed head into the bucket.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2172"></child>
+        </children>
+    </item>
+    <item nodeId="node-2172">
+        <command xml:space="preserve">x bucket</command>
+        <result xml:space="preserve">In the bucket is a severed head.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2173"></child>
+        </children>
+    </item>
+    <item nodeId="node-2173">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  the bucket
+    a severed head
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2188"></child>
+        </children>
+    </item>
+    <item nodeId="node-2188">
+        <command xml:space="preserve">close right</command>
+        <result xml:space="preserve">(the right cabinet)
+You close the right cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2213"></child>
+        </children>
+    </item>
+    <item nodeId="node-2213">
+        <command xml:space="preserve">put bucket in left</command>
+        <result xml:space="preserve">(the left cabinet)
+You place the bucket into the left cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2214"></child>
+        </children>
+    </item>
+    <item nodeId="node-2214">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2215"></child>
+        </children>
+    </item>
+    <item nodeId="node-2215">
+        <command xml:space="preserve">put bucket in left</command>
+        <result xml:space="preserve">(the left cabinet)
+[inserting the bucket into the left cabinet]
+[(1) inserting the bucket into the left cabinet's interior - silently]
+(first taking the bucket)
+[(2) taking the bucket - silently]
+[(2) taking the bucket - silently - succeeded]
+
+[(1) inserting the bucket into the left cabinet's interior - silently - succeeded]
+
+You place the bucket into the left cabinet.
+[inserting the bucket into the left cabinet - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2260"></child>
+        </children>
+    </item>
+    <item nodeId="node-2260">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2261"></child>
+        </children>
+    </item>
+    <item nodeId="node-2261">
+        <command xml:space="preserve">put bucket in left</command>
+        <result xml:space="preserve">(the left cabinet)
+[Rule "declare everything initially unmentioned rule" applies.]
+[inserting the bucket into the left cabinet]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "instead of inserting something ( called the object ) into a kitchen-cabinet ( called kc ) when a cabinet-interior ( called the item ) is part of the second noun" applies.]
+[(1) inserting the bucket into the left cabinet's interior - silently]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "convert insert to drop where possible rule" applies.]
+[Rule "can't insert what's not held rule" applies.]
+(first taking the bucket)
+[(2) taking the bucket - silently]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[(2) taking the bucket - silently - succeeded]
+
+[Rule "can't insert something into itself rule" applies.]
+[Rule "can't insert into closed containers rule" applies.]
+[Rule "can't insert into what's not a container rule" applies.]
+[Rule "can't insert clothes being worn rule" applies.]
+[Rule "can't insert if this exceeds carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard inserting rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[(1) inserting the bucket into the left cabinet's interior - silently - succeeded]
+
+You place the bucket into the left cabinet.
+[inserting the bucket into the left cabinet - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2262"></child>
+        </children>
+    </item>
+    <item nodeId="node-2262">
+        <command xml:space="preserve">rulebooks</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2263"></child>
+        </children>
+    </item>
+    <item nodeId="node-2263">
+        <command xml:space="preserve">help rules</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2978"></child>
+        </children>
+    </item>
+    <item nodeId="node-2978">
+        <command xml:space="preserve">open cabinet door</command>
+        <result xml:space="preserve">Which do you mean, the left cabinet or the right cabinet?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2979"></child>
+        </children>
+    </item>
+    <item nodeId="node-2979">
+        <command xml:space="preserve">open left door</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

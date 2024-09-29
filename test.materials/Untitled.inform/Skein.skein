@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-2953">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-2953">
+        <command xml:space="preserve">Untitled</command>
+        <result xml:space="preserve">
+
+
+Cubie
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210311 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Cubicle
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2956"></child>
+        </children>
+    </item>
+    <item nodeId="node-2956">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] what is a bug
+Hmm... "bug" is that thing you do. bug
+&gt;[2] what is a hammer
+Hmm... "hammer" is for pounding in nails. hammer
+&gt;[3] what is a bughammer
+Hmm... "bughammer" is for squashing bugs. bug\ *hammer
+&gt;[4] what is a software engineer?
+Hmm... "software engineer" is a machine for turning coffee into bugs. (software )?engineer
+&gt;</result>
+        <commentary xml:space="preserve">[1] what is a bug
+[2] what is a hammer
+[3] what is a bughammer
+[4] what is a software engineer?
+</commentary>
+        <children></children>
+    </item>
+</Skein>

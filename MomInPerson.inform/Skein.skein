@@ -1,0 +1,1045 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1667">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1667">
+        <command xml:space="preserve">MomInPerson</command>
+        <result xml:space="preserve">
+
+
+MomInPerson
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210311 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Funeral Home Lobby
+You're in the lobby of a funeral home, full of uncomfortable furniture, tissues, and small bottles of water. The exit is north. It's just after Uncle Rob's wake. The last few mourners are waiting in a receiving line to pay their respects to your mother, his closest relative. You've managed to escape from your duties in the line, claiming your feet hurt. You avoid eye contact with the mourners, sipping obsessively from a tiny bottle of water, trying to avoid looking like someone people should talk to.
+
+Mom is, as usual, holding it together even after a couple of hours. She looks around for you and gestures for you to join her. You take a deep breath and walk over.
+
+"I need you to go to Rob's house."
+
+She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention.
+
+You should ask mom about the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1759"></child>
+            <child nodeId="node-1764"></child>
+            <child nodeId="node-1671"></child>
+            <child nodeId="node-3088"></child>
+            <child nodeId="node-1782"></child>
+            <child nodeId="node-1917"></child>
+            <child nodeId="node-1668"></child>
+            <child nodeId="node-1796"></child>
+            <child nodeId="node-3113"></child>
+            <child nodeId="node-1874"></child>
+        </children>
+    </item>
+    <item nodeId="node-1874">
+        <command xml:space="preserve">showme lobby</command>
+        <result xml:space="preserve">lobby - room
+    yourself - person
+    Furniture
+    Tissues
+    Small bottles of water
+    mourners
+    Mom - person
+singular-named, improper-named; lighted, visited
+list grouping key: none
+printed name: "lobby"
+printed plural name: none
+indefinite article: none
+description: "It's the lobby of a funeral home, full of uncomfortable furniture, tissues, and small bottles of water. "
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1876"></child>
+        </children>
+    </item>
+    <item nodeId="node-1876">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">lobby
+It's the lobby of a funeral home, full of uncomfortable furniture, tissues, and small bottles of water. 
+
+She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention.
+
+You should ask mom about the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1877"></child>
+        </children>
+    </item>
+    <item nodeId="node-1877">
+        <command xml:space="preserve">take tissue</command>
+        <result xml:space="preserve">You take one, blow your nose, and surreptitiously stuff the tissue into the cracks of a nearby couch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1878"></child>
+        </children>
+    </item>
+    <item nodeId="node-1878">
+        <command xml:space="preserve">take tissues</command>
+        <result xml:space="preserve">You take one, blow your nose, and surreptitiously stuff the tissue into the cracks of a nearby couch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1883"></child>
+        </children>
+    </item>
+    <item nodeId="node-1883">
+        <command xml:space="preserve">take water</command>
+        <result xml:space="preserve">You're really not thirsty right now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1884"></child>
+        </children>
+    </item>
+    <item nodeId="node-1884">
+        <command xml:space="preserve">drink water</command>
+        <result xml:space="preserve">You don't know where it came from.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1885"></child>
+        </children>
+    </item>
+    <item nodeId="node-1885">
+        <command xml:space="preserve">sit on furniture</command>
+        <result xml:space="preserve">It looks way too uncomfortable.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1886"></child>
+        </children>
+    </item>
+    <item nodeId="node-1886">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1887"></child>
+        </children>
+    </item>
+    <item nodeId="node-1887">
+        <command xml:space="preserve">sit on furniture</command>
+        <result xml:space="preserve">[entering Furniture]
+It looks way too uncomfortable.
+[entering Furniture - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1906"></child>
+        </children>
+    </item>
+    <item nodeId="node-1906">
+        <command xml:space="preserve">actions off</command>
+        <result xml:space="preserve">Actions listing off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1907"></child>
+        </children>
+    </item>
+    <item nodeId="node-1907">
+        <command xml:space="preserve">take furniture</command>
+        <result xml:space="preserve">That's hardly portable.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1908"></child>
+        </children>
+    </item>
+    <item nodeId="node-1908">
+        <command xml:space="preserve">x furniture</command>
+        <result xml:space="preserve">It's overstuffed and undercomfortable.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1909"></child>
+        </children>
+    </item>
+    <item nodeId="node-1909">
+        <command xml:space="preserve">x water</command>
+        <result xml:space="preserve">Bulk-purchased at the local big box store.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1910"></child>
+        </children>
+    </item>
+    <item nodeId="node-1910">
+        <command xml:space="preserve">x tissues</command>
+        <result xml:space="preserve">Guaranteed to dry your tears and scratch your skin.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1911"></child>
+        </children>
+    </item>
+    <item nodeId="node-1911">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You wonder how you are going to get in. Maybe you should ask mom about the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1912"></child>
+        </children>
+    </item>
+    <item nodeId="node-1912">
+        <command xml:space="preserve">ask mom about the funeral</command>
+        <result xml:space="preserve">Mom turns back to the receiving line and greets whoever is next.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1913"></child>
+        </children>
+    </item>
+    <item nodeId="node-1913">
+        <command xml:space="preserve">ask mom about the burial</command>
+        <result xml:space="preserve">Mom looks around impatiently.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1914"></child>
+        </children>
+    </item>
+    <item nodeId="node-1914">
+        <command xml:space="preserve">ask mom about her brother</command>
+        <result xml:space="preserve">"Listen," she hisses. "Your brother has already left with his kids and you're not flying back until tomorrow. Just go to the house and clean out his stuff."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1915"></child>
+        </children>
+    </item>
+    <item nodeId="node-1915">
+        <command xml:space="preserve">ask mom bout me</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1916"></child>
+        </children>
+    </item>
+    <item nodeId="node-1916">
+        <command xml:space="preserve">ask mom about me</command>
+        <result xml:space="preserve">"Stop complaining. Your brother is so busy and you've certainly got nothing better to do, as far as I can tell."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3113">
+        <command xml:space="preserve">showme Table of Mom Conversation</command>
+        <result xml:space="preserve">There seems to be no such object anywhere in the model world.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1796">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You wonder how you are going to get in. Maybe you should ask mom about the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1797"></child>
+        </children>
+    </item>
+    <item nodeId="node-1797">
+        <command xml:space="preserve">ask mom  about the house.</command>
+        <result xml:space="preserve">Mom shrugs vaguely.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1798"></child>
+        </children>
+    </item>
+    <item nodeId="node-1798">
+        <command xml:space="preserve">ask mom  about the house</command>
+        <result xml:space="preserve">"You'll need keys. Here. Just put stuff in the van."
+
+She hands you a keychain.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1799"></child>
+        </children>
+    </item>
+    <item nodeId="node-1799">
+        <command xml:space="preserve">x keychain</command>
+        <result xml:space="preserve">You see nothing special about the keychain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1804"></child>
+        </children>
+    </item>
+    <item nodeId="node-1804">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1805"></child>
+        </children>
+    </item>
+    <item nodeId="node-1805">
+        <command xml:space="preserve">ask mom about blah</command>
+        <result xml:space="preserve">[asking Mom about "blah"]
+Mom looks around impatiently.
+[asking Mom about "blah" - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1812"></child>
+        </children>
+    </item>
+    <item nodeId="node-1812">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">[going north]
+You should check to see if the van key is on that keychain.
+[going north - failed the Check going north when the player is in the lobby]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1813"></child>
+        </children>
+    </item>
+    <item nodeId="node-1813">
+        <command xml:space="preserve">x keychain</command>
+        <result xml:space="preserve">[examining the keychain]
+You see nothing special about the keychain.
+
+[examining the keychain - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1814"></child>
+        </children>
+    </item>
+    <item nodeId="node-1814">
+        <command xml:space="preserve">ask mom about van key</command>
+        <result xml:space="preserve">[asking Mom about "van key"]
+"Oh, right. Just put things in the van. It's the white van out in the parking lot." She digs in her purse. "Here's the key."
+
+She gives you a van key.
+[asking Mom about "van key" - failed]
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1824"></child>
+        </children>
+    </item>
+    <item nodeId="node-1824">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">[going north]
+You feel like you should ask mom about that stuff.
+[going north - failed the Check going north when the player is in the lobby]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1825"></child>
+        </children>
+    </item>
+    <item nodeId="node-1825">
+        <command xml:space="preserve">ask mom about that stuff</command>
+        <result xml:space="preserve">[asking Mom about "that stuff"]
+"What kind of ... 'stuff' ... do you mean?", you ask.
+
+She shoots you a whithering look. "Don't be obtuse. The kinds of things we don't want showing up in an estate sale, of course. I'm sure you'll figure it out. You can call me if you have questions. Now get out of here! I'll deal with the funeral home."
+
+She hands you a totebag.
+[asking Mom about "that stuff" - failed]
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1837"></child>
+        </children>
+    </item>
+    <item nodeId="node-1837">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">[restarting the game]
+Are you sure you want to restart? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1838"></child>
+        </children>
+    </item>
+    <item nodeId="node-1838">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">
+
+
+MomInPerson
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210310 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+lobby
+It's a funeral home lobby, full of uncomfortable furniture, tissues, and small bottles of water.
+
+She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention.
+
+You should ask mom about the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1839"></child>
+        </children>
+    </item>
+    <item nodeId="node-1839">
+        <command xml:space="preserve">ask mom about the house</command>
+        <result xml:space="preserve">"You'll need keys. Here. Just put stuff in the van."
+
+She hands you a keychain.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1840"></child>
+        </children>
+    </item>
+    <item nodeId="node-1840">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a keychain
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1841"></child>
+        </children>
+    </item>
+    <item nodeId="node-1841">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You should check to see if the van key is on that keychain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1842"></child>
+        </children>
+    </item>
+    <item nodeId="node-1842">
+        <command xml:space="preserve">ask mom about the house</command>
+        <result xml:space="preserve">Mom turns back to the receiving line and greets whoever is next.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1843"></child>
+        </children>
+    </item>
+    <item nodeId="node-1843">
+        <command xml:space="preserve">ask mom about the van</command>
+        <result xml:space="preserve">"Oh, right. Just put things in the van. It's the white van out in the parking lot." She digs in her purse. "Here's the key."
+
+She gives you a van key.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1844"></child>
+        </children>
+    </item>
+    <item nodeId="node-1844">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You feel like you should ask mom about that stuff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1845"></child>
+        </children>
+    </item>
+    <item nodeId="node-1845">
+        <command xml:space="preserve">ask mom about the stuff</command>
+        <result xml:space="preserve">"What kind of ... 'stuff' ... do you mean?", you ask.
+
+She shoots you a whithering look. "Don't be obtuse. The kinds of things we don't want showing up in an estate sale, of course. I'm sure you'll figure it out. You can call me if you have questions. Now get out of here! I'll deal with the funeral home."
+
+She hands you a totebag.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1846"></child>
+        </children>
+    </item>
+    <item nodeId="node-1846">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+parking lot
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1847"></child>
+        </children>
+    </item>
+    <item nodeId="node-1847">
+        <command xml:space="preserve">x mourners</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1848"></child>
+        </children>
+    </item>
+    <item nodeId="node-1848">
+        <command xml:space="preserve">talk to mourners</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1849"></child>
+        </children>
+    </item>
+    <item nodeId="node-1849">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">parking lot
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1668">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">lobby
+Mom is, as usual, holding it together even after a couple of hours. She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1669"></child>
+        </children>
+    </item>
+    <item nodeId="node-1669">
+        <command xml:space="preserve">ask mom about rob</command>
+        <result xml:space="preserve">She sighs audibly. "I don't have all day, so can you be more specific?"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1670"></child>
+        </children>
+    </item>
+    <item nodeId="node-1670">
+        <command xml:space="preserve">ask mom about funeral</command>
+        <result xml:space="preserve">"Oh, it was just lovely to see all of those people ... who have ignored Rob for years." Sometimes Mom can be pretty sarcastic.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1917">
+        <command xml:space="preserve">hit mom</command>
+        <result xml:space="preserve">Violence isn't the answer to this one.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1918"></child>
+        </children>
+    </item>
+    <item nodeId="node-1918">
+        <command xml:space="preserve">eat mom</command>
+        <result xml:space="preserve">She's plainly inedible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1782">
+        <command xml:space="preserve">ask mom about the house</command>
+        <result xml:space="preserve">the house - 3
+"You'll need keys. Here. Just put stuff in the van."
+
+She hands you a keychain.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3132"></child>
+            <child nodeId="node-1783"></child>
+            <child nodeId="node-1786"></child>
+        </children>
+    </item>
+    <item nodeId="node-1786">
+        <command xml:space="preserve">x keychain</command>
+        <result xml:space="preserve">You see nothing special about the keychain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1789"></child>
+        </children>
+    </item>
+    <item nodeId="node-1789">
+        <command xml:space="preserve">ask mom about the van</command>
+        <result xml:space="preserve">"Oh, right." She digs in her purse. "It's the white van in the parking lot. Here's the key."
+
+She hands you a van key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1793"></child>
+        </children>
+    </item>
+    <item nodeId="node-1793">
+        <command xml:space="preserve">ask mom</command>
+        <result xml:space="preserve">What do you want to ask Mom for?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1794"></child>
+        </children>
+    </item>
+    <item nodeId="node-1794">
+        <command xml:space="preserve">stuff</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1795"></child>
+        </children>
+    </item>
+    <item nodeId="node-1795">
+        <command xml:space="preserve">ask mom about stuff</command>
+        <result xml:space="preserve">"What kind of ... 'stuff' ... do you mean?", you ask.
+
+She shoots you a whithering look. "Don't be obtuse. The kinds of things we don't want showing up in an estate sale. I'm sure you'll figure it out. You can call me if you have questions. You can put things in the van. Now get out of here! I'll deal with the funeral home."
+
+She gives you a totebag.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1783">
+        <command xml:space="preserve">kiss mom</command>
+        <result xml:space="preserve">You kiss Mom chastely on the cheek. She smiles a bit and says "Thank you. I raised you well."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3132">
+        <command xml:space="preserve">ask mom about the house</command>
+        <result xml:space="preserve">defaultme
+defaultfuneral|burial|service|wake
+defaultRob|brother|uncle
+defaultstuff|things
+defaultclean
+defaultvan|key|keys|car|travel
+defaultmourners
+defaultdefault
+the house - 10
+Mom shrugs vaguely.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3088">
+        <command xml:space="preserve">ask mom about house</command>
+        <result xml:space="preserve">Row 1 default default 0 
+Row 1 default default 0 
+1house - 1Mom shrugs vaguely.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1671">
+        <command xml:space="preserve">ask mom about funeral</command>
+        <result xml:space="preserve">"It will be over soon. But you can go to Rob's house right now".
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1672"></child>
+        </children>
+    </item>
+    <item nodeId="node-1672">
+        <command xml:space="preserve">ask mom about scissors</command>
+        <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1673"></child>
+        </children>
+    </item>
+    <item nodeId="node-1673">
+        <command xml:space="preserve">say hi mom</command>
+        <result xml:space="preserve">(to Mom)
+There is no reply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1674"></child>
+        </children>
+    </item>
+    <item nodeId="node-1674">
+        <command xml:space="preserve">ask mom about house</command>
+        <result xml:space="preserve">"You'll need keys. Here."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1675"></child>
+        </children>
+    </item>
+    <item nodeId="node-1675">
+        <command xml:space="preserve">take keys from mom</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1676"></child>
+        </children>
+    </item>
+    <item nodeId="node-1676">
+        <command xml:space="preserve">look at mom</command>
+        <result xml:space="preserve">She's your mom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1764">
+        <command xml:space="preserve">ask about house</command>
+        <result xml:space="preserve">"You'll need keys. Here. Just put stuff in the van."
+
+She hands you a keychain.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1765"></child>
+            <child nodeId="node-1920"></child>
+        </children>
+    </item>
+    <item nodeId="node-1920">
+        <command xml:space="preserve">ask mom about the house</command>
+        <result xml:space="preserve">Mom shrugs vaguely.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1921"></child>
+        </children>
+    </item>
+    <item nodeId="node-1921">
+        <command xml:space="preserve">ask mom what stuff</command>
+        <result xml:space="preserve">"What kind of ... 'stuff' ... do you mean?", you ask.
+
+She shoots you a whithering look. "Don't be obtuse. The kinds of things we don't want showing up in an estate sale, of course. I'm sure you'll figure it out. You can call me if you have questions. Now get out of here! I'll deal with the funeral home."
+
+She gives you a totebag.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1922"></child>
+        </children>
+    </item>
+    <item nodeId="node-1922">
+        <command xml:space="preserve">ask mom about stuff</command>
+        <result xml:space="preserve">Mom raises one eyebrow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1923"></child>
+        </children>
+    </item>
+    <item nodeId="node-1923">
+        <command xml:space="preserve">x keychain</command>
+        <result xml:space="preserve">You see nothing special about the keychain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1924"></child>
+        </children>
+    </item>
+    <item nodeId="node-1924">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Funeral Home Lobby
+You're in the lobby of a funeral home, full of uncomfortable furniture, tissues, and small bottles of water. The exit is north. 
+
+She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention.
+
+You should ask mom about the house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1925"></child>
+        </children>
+    </item>
+    <item nodeId="node-1925">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You should check to see if the van key is on that keychain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1926"></child>
+        </children>
+    </item>
+    <item nodeId="node-1926">
+        <command xml:space="preserve">ask mom for van key</command>
+        <result xml:space="preserve">"Oh, right. Just put things in the van. It's the white van out in the parking lot." She digs in her purse. "Here's the key."
+
+She hands you a van key.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1927"></child>
+        </children>
+    </item>
+    <item nodeId="node-1927">
+        <command xml:space="preserve">ask mom about van key</command>
+        <result xml:space="preserve">Mom turns back to the receiving line and greets whoever is next.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1928"></child>
+        </children>
+    </item>
+    <item nodeId="node-1928">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+parking lot
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1929"></child>
+        </children>
+    </item>
+    <item nodeId="node-1929">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1930"></child>
+        </children>
+    </item>
+    <item nodeId="node-1930">
+        <command xml:space="preserve">ask about house</command>
+        <result xml:space="preserve">[asking-anyone "house"]
+[asking-anyone "house" - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1931"></child>
+        </children>
+    </item>
+    <item nodeId="node-1931">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">[going south]
+
+Funeral Home Lobby
+You're in the lobby of a funeral home, full of uncomfortable furniture, tissues, and small bottles of water. The exit is north. 
+
+She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention.
+
+You should ask mom about the house.
+
+[going south - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1932"></child>
+        </children>
+    </item>
+    <item nodeId="node-1932">
+        <command xml:space="preserve">ask about house</command>
+        <result xml:space="preserve">[asking-anyone "house"]
+[(1) asking Mom about "house"]
+Mom looks around impatiently.
+
+[(1) asking Mom about "house" - failed]
+
+[asking-anyone "house" - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1933"></child>
+        </children>
+    </item>
+    <item nodeId="node-1933">
+        <command xml:space="preserve">ask mom about house</command>
+        <result xml:space="preserve">[asking Mom about "house"]
+Mom points north at the exit.
+
+[asking Mom about "house" - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1964"></child>
+        </children>
+    </item>
+    <item nodeId="node-1964">
+        <command xml:space="preserve">ask about water</command>
+        <result xml:space="preserve">[asking-anyone "water"]
+[(1) asking Mom about "water"]
+Mom points north at the exit.
+
+[(1) asking Mom about "water" - failed]
+
+[asking-anyone "water" - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1765">
+        <command xml:space="preserve">ask mom about house</command>
+        <result xml:space="preserve">"You'll need keys. Here."
+
+She hands you a keychain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1766"></child>
+        </children>
+    </item>
+    <item nodeId="node-1766">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a keychain
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1767"></child>
+        </children>
+    </item>
+    <item nodeId="node-1767">
+        <command xml:space="preserve">ask mom about van</command>
+        <result xml:space="preserve">"Oh, right." She digs in her purse. "It's the white van in the parking lot. Here's the key."
+
+She hands you a van key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1768"></child>
+        </children>
+    </item>
+    <item nodeId="node-1768">
+        <command xml:space="preserve">ask mom about rob</command>
+        <result xml:space="preserve">"Listen," she hisses. "Your brother has already left with his kids and you're not flying back until tomorrow. Just go to the house and clean out his stuff."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1769"></child>
+        </children>
+    </item>
+    <item nodeId="node-1769">
+        <command xml:space="preserve">ask mom about stuff</command>
+        <result xml:space="preserve">"What kind of ... 'stuff' ... do you mean?", you ask.
+
+She shoots you a whithering look. "Don't be obtuse. The kinds of things we don't want showing up in an estate sale. I'm sure you'll figure it out. You can call me if you have questions. You can put things in there or the van. Now get out of here! I'll deal with the funeral home."
+
+She hands you a totebag.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1759">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1760"></child>
+            <child nodeId="node-3099"></child>
+        </children>
+    </item>
+    <item nodeId="node-3099">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3100"></child>
+        </children>
+    </item>
+    <item nodeId="node-3100">
+        <command xml:space="preserve">ask about house</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[asking-anyone "house"]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "Carry out asking-anyone" applies.]
+[(1) asking Mom about "house"]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "Instead of asking Mom about" applies.]
+0house - 0
+*** Run-time problem P22: Attempt to look up a non-existent row in the table 'Table of Mom Conversation'.
+
+Mom shrugs vaguely.
+
+Glulxe fatal error: Memory access out of range (7BA0004)
+</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1760">
+        <command xml:space="preserve">ask mom about van</command>
+        <result xml:space="preserve">[asking Mom about "van"]
+She digs in her purse. "The van is in the parking lot. Here's the key."
+
+[asking Mom about "van" - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1761"></child>
+        </children>
+    </item>
+    <item nodeId="node-1761">
+        <command xml:space="preserve">showme mom</command>
+        <result xml:space="preserve">Mom - person
+    van key
+location: in the lobby
+singular-named, proper-named; unlit, inedible, portable; male
+list grouping key: none
+printed name: "Mom"
+printed plural name: "people"
+indefinite article: none
+description: "She's your mom."
+initial appearance: "Mom is, as usual, holding it together even after a couple of hours. She's looking appropriately severe at the head of the receiving line, all in black, giving each mourner in turn her full attention."
+carrying capacity: 100
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1762"></child>
+        </children>
+    </item>
+    <item nodeId="node-1762">
+        <command xml:space="preserve">mom, give key to me</command>
+        <result xml:space="preserve">[asking Mom to try giving the van key to yourself]
+Mom has better things to do.
+[asking Mom to try giving the van key to yourself - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1763"></child>
+        </children>
+    </item>
+    <item nodeId="node-1763">
+        <command xml:space="preserve">give key to me</command>
+        <result xml:space="preserve">[giving the van key to yourself]
+(first taking the van key)
+[(1) taking the van key - silently]
+That seems to belong to Mom.
+[(1) taking the van key - silently - failed the can't take people's possessions rule]
+
+[giving the van key to yourself - failed the carrying requirements rule]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

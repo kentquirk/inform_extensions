@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-5837">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-5837">
+        <command xml:space="preserve">sink</command>
+        <result xml:space="preserve">
+
+
+sink
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210314 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+kitchen
+You can see an empty white sink and a bucket of water here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5840"></child>
+            <child nodeId="node-5879"></child>
+            <child nodeId="node-5857"></child>
+            <child nodeId="node-5873"></child>
+            <child nodeId="node-5856"></child>
+        </children>
+    </item>
+    <item nodeId="node-5856">
+        <command xml:space="preserve">pour water into sink</command>
+        <result xml:space="preserve">(the bucket of water into the white sink)
+You dump out the bucket into the white sinkand it goes down the drain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5873">
+        <command xml:space="preserve">pour bucket into sink</command>
+        <result xml:space="preserve">You dump out the bucket into the white sink and it goes down the drain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5874"></child>
+        </children>
+    </item>
+    <item nodeId="node-5874">
+        <command xml:space="preserve">fill bucket</command>
+        <result xml:space="preserve">(first taking the bucket)
+You fill the bucket up with water from the white sink.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5875"></child>
+        </children>
+    </item>
+    <item nodeId="node-5875">
+        <command xml:space="preserve">plug sink</command>
+        <result xml:space="preserve">the white sink is now plugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5876"></child>
+        </children>
+    </item>
+    <item nodeId="node-5876">
+        <command xml:space="preserve">pour bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5877"></child>
+        </children>
+    </item>
+    <item nodeId="node-5877">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">kitchen
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5878"></child>
+        </children>
+    </item>
+    <item nodeId="node-5878">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">The white sink is plugged and has some water in it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5857">
+        <command xml:space="preserve">plug sink</command>
+        <result xml:space="preserve">the empty white sink is plugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5858"></child>
+        </children>
+    </item>
+    <item nodeId="node-5858">
+        <command xml:space="preserve">pour bucket into sink</command>
+        <result xml:space="preserve">(first taking the bucket)
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5859"></child>
+            <child nodeId="node-5897"></child>
+        </children>
+    </item>
+    <item nodeId="node-5897">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">The empty white sink contains only a trace of water at the bottom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5898"></child>
+        </children>
+    </item>
+    <item nodeId="node-5898">
+        <command xml:space="preserve">x bucket</command>
+        <result xml:space="preserve">The bucket is full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5899"></child>
+        </children>
+    </item>
+    <item nodeId="node-5899">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty. It is less than half full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5900"></child>
+        </children>
+    </item>
+    <item nodeId="node-5900">
+        <command xml:space="preserve">fill bucket</command>
+        <result xml:space="preserve">You fill the bucket with water from the white sink, leaving the white sink empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5901"></child>
+        </children>
+    </item>
+    <item nodeId="node-5901">
+        <command xml:space="preserve">unplug sink</command>
+        <result xml:space="preserve">You unplug the empty white sink.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5902"></child>
+        </children>
+    </item>
+    <item nodeId="node-5902">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You dump out the bucket into the white sink and water goes down the drain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5911"></child>
+        </children>
+    </item>
+    <item nodeId="node-5911">
+        <command xml:space="preserve">fill bucket</command>
+        <result xml:space="preserve">You fill the bucket up with water from the faucet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5921"></child>
+        </children>
+    </item>
+    <item nodeId="node-5921">
+        <command xml:space="preserve">plug sink</command>
+        <result xml:space="preserve">the empty white sink is plugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5922"></child>
+        </children>
+    </item>
+    <item nodeId="node-5922">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty. It is less than half full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5923"></child>
+        </children>
+    </item>
+    <item nodeId="node-5923">
+        <command xml:space="preserve">fill bucket from faucet</command>
+        <result xml:space="preserve">You fill the bucket up with water from the faucet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5924"></child>
+        </children>
+    </item>
+    <item nodeId="node-5924">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty. It is about half full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5925"></child>
+        </children>
+    </item>
+    <item nodeId="node-5925">
+        <command xml:space="preserve">fill bucket from faucet</command>
+        <result xml:space="preserve">You fill the bucket up with water from the faucet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5926"></child>
+        </children>
+    </item>
+    <item nodeId="node-5926">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty. It is more than half full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5927"></child>
+        </children>
+    </item>
+    <item nodeId="node-5927">
+        <command xml:space="preserve">fill bucket from faucet</command>
+        <result xml:space="preserve">You fill the bucket up with water from the faucet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5928"></child>
+        </children>
+    </item>
+    <item nodeId="node-5928">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty. It is nearly full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5929"></child>
+        </children>
+    </item>
+    <item nodeId="node-5929">
+        <command xml:space="preserve">fill bucket from faucet</command>
+        <result xml:space="preserve">You fill the bucket up with water from the faucet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5930"></child>
+        </children>
+    </item>
+    <item nodeId="node-5930">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">You pour water into the white sink, leaving the bucket empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5931"></child>
+        </children>
+    </item>
+    <item nodeId="node-5931">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">The white sink is full of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5932"></child>
+        </children>
+    </item>
+    <item nodeId="node-5932">
+        <command xml:space="preserve">fill bucket from faucet</command>
+        <result xml:space="preserve">You fill the bucket up with water from the faucet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5933"></child>
+        </children>
+    </item>
+    <item nodeId="node-5933">
+        <command xml:space="preserve">empty bucket into sink</command>
+        <result xml:space="preserve">The white sink cannot contain any more than it already holds.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5934"></child>
+        </children>
+    </item>
+    <item nodeId="node-5934">
+        <command xml:space="preserve">unplug sink</command>
+        <result xml:space="preserve">You unplug it and it empties swiftly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5859">
+        <command xml:space="preserve">x sing</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5860"></child>
+        </children>
+    </item>
+    <item nodeId="node-5860">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">The white sink The sink is plugged. It has some water in it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5879">
+        <command xml:space="preserve">plug drain</command>
+        <result xml:space="preserve">the white sink is plugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5882"></child>
+            <child nodeId="node-5880"></child>
+        </children>
+    </item>
+    <item nodeId="node-5880">
+        <command xml:space="preserve">plug the drain</command>
+        <result xml:space="preserve">the white sink is now plugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5882">
+        <command xml:space="preserve">fill bucket</command>
+        <result xml:space="preserve">(first taking the bucket)
+The bucket cannot contain any more than it already holds.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5883"></child>
+        </children>
+    </item>
+    <item nodeId="node-5883">
+        <command xml:space="preserve">pour bucket into sink</command>
+        <result xml:space="preserve">The white sink cannot contain any more than it already holds.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5884"></child>
+        </children>
+    </item>
+    <item nodeId="node-5884">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">The white sink is plugged and has some water in it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5885"></child>
+        </children>
+    </item>
+    <item nodeId="node-5885">
+        <command xml:space="preserve">unplug sink</command>
+        <result xml:space="preserve">the empty white sink is unplugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5891"></child>
+        </children>
+    </item>
+    <item nodeId="node-5891">
+        <command xml:space="preserve">pour bucket into sink</command>
+        <result xml:space="preserve">You dump out the bucket into the white sink and it goes down the drain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5892"></child>
+        </children>
+    </item>
+    <item nodeId="node-5892">
+        <command xml:space="preserve">plug drain</command>
+        <result xml:space="preserve">the empty white sink is plugged.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5893"></child>
+        </children>
+    </item>
+    <item nodeId="node-5893">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">The empty white sink contains only a trace of water at the bottom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5894"></child>
+        </children>
+    </item>
+    <item nodeId="node-5894">
+        <command xml:space="preserve">fill bucket</command>
+        <result xml:space="preserve">No more water remains in the white sink.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5840">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">kitchen
+You can see a bucket of water here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5841"></child>
+        </children>
+    </item>
+    <item nodeId="node-5841">
+        <command xml:space="preserve">x sink</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5842"></child>
+        </children>
+    </item>
+    <item nodeId="node-5842">
+        <command xml:space="preserve">x whitesink</command>
+        <result xml:space="preserve">The whitesink offers a ready supply of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5843"></child>
+        </children>
+    </item>
+    <item nodeId="node-5843">
+        <command xml:space="preserve">pour bucket into sink</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5844"></child>
+        </children>
+    </item>
+    <item nodeId="node-5844">
+        <command xml:space="preserve">pour bucket into whitesink</command>
+        <result xml:space="preserve">You dump out the bucket into the whitesinkand it goes down the drain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5845"></child>
+        </children>
+    </item>
+    <item nodeId="node-5845">
+        <command xml:space="preserve">x whitesink</command>
+        <result xml:space="preserve">The whitesink offers a ready supply of water.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5846"></child>
+        </children>
+    </item>
+    <item nodeId="node-5846">
+        <command xml:space="preserve">x bucket</command>
+        <result xml:space="preserve">The empty bucket contains only a trace of water at the bottom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5854"></child>
+        </children>
+    </item>
+    <item nodeId="node-5854">
+        <command xml:space="preserve">fill bucket from whitesink</command>
+        <result xml:space="preserve">(first taking the bucket)
+You fill the bucket up with water from the whitesink.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5855"></child>
+        </children>
+    </item>
+    <item nodeId="node-5855">
+        <command xml:space="preserve">pour water into sink</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

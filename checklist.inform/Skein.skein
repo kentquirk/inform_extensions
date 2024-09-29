@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1939">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1939">
+        <command xml:space="preserve">checklist</command>
+        <result xml:space="preserve">
+
+
+checklist
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 221010 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+garage
+You can see a pen here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1942"></child>
+            <child nodeId="node-1988"></child>
+        </children>
+    </item>
+    <item nodeId="node-1988">
+        <command xml:space="preserve">take pen</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1989"></child>
+        </children>
+    </item>
+    <item nodeId="node-1989">
+        <command xml:space="preserve">drop pen</command>
+        <result xml:space="preserve">Dropped.
+
+
+*** Run-time problem P39: Attempt to say a snippet value which is currently invalid: words 0 to -1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1990"></child>
+        </children>
+    </item>
+    <item nodeId="node-1990">
+        <command xml:space="preserve">add foo to the paper</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1991"></child>
+        </children>
+    </item>
+    <item nodeId="node-1991">
+        <command xml:space="preserve">showme paper</command>
+        <result xml:space="preserve">paper - checklist
+location: carried by yourself in the garage
+singular-named, improper-named; unlit, inedible, portable, handled
+list grouping key: none
+printed name: "paper"
+printed plural name: "checklists"
+indefinite article: "the"
+description: none
+initial appearance: none
+caption: 57841
+items:  and foo
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1942">
+        <command xml:space="preserve">showme pen</command>
+        <result xml:space="preserve">pen - thing
+location: in the garage
+singular-named, improper-named; unlit, inedible, portable
+list grouping key: none
+printed name: "pen"
+printed plural name: none
+indefinite article: none
+description: none
+initial appearance: none
+caption: 579827
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1944"></child>
+        </children>
+    </item>
+    <item nodeId="node-1944">
+        <command xml:space="preserve">take pen</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1945"></child>
+        </children>
+    </item>
+    <item nodeId="node-1945">
+        <command xml:space="preserve">drop pen</command>
+        <result xml:space="preserve">Dropped.
+
+
+*** Run-time problem P39: Attempt to say a snippet value which is currently invalid: words 0 to -1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1955"></child>
+        </children>
+    </item>
+    <item nodeId="node-1955">
+        <command xml:space="preserve">add foo to the list</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1956"></child>
+        </children>
+    </item>
+    <item nodeId="node-1956">
+        <command xml:space="preserve">add foo to the paper</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1957"></child>
+        </children>
+    </item>
+    <item nodeId="node-1957">
+        <command xml:space="preserve">showme list</command>
+        <result xml:space="preserve">There seems to be no such object anywhere in the model world.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1958"></child>
+        </children>
+    </item>
+    <item nodeId="node-1958">
+        <command xml:space="preserve">showme paper</command>
+        <result xml:space="preserve">paper - checklist
+location: carried by yourself in the garage
+singular-named, improper-named; unlit, inedible, portable, handled
+list grouping key: none
+printed name: "paper"
+printed plural name: "checklists"
+indefinite article: "the"
+description: none
+initial appearance: none
+caption: 57841
+items:  and foo
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1959"></child>
+        </children>
+    </item>
+    <item nodeId="node-1959">
+        <command xml:space="preserve">add bar to the paper</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1960"></child>
+        </children>
+    </item>
+    <item nodeId="node-1960">
+        <command xml:space="preserve">showme paper</command>
+        <result xml:space="preserve">paper - checklist
+location: carried by yourself in the garage
+singular-named, improper-named; unlit, inedible, portable, handled
+list grouping key: none
+printed name: "paper"
+printed plural name: "checklists"
+indefinite article: "the"
+description: none
+initial appearance: none
+caption: 57841
+items: , foo and bar
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

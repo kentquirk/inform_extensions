@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-2819">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-2819">
+        <command xml:space="preserve">memories</command>
+        <result xml:space="preserve">
+
+
+memories
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210308 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Bedroom
+Bedroom description. The hallway is west.
+
+You can see a cap here.
+
+I had a poster of Kitt
+
+I think you had to be a certain age
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2874"></child>
+            <child nodeId="node-2822"></child>
+            <child nodeId="node-2897"></child>
+        </children>
+    </item>
+    <item nodeId="node-2897">
+        <command xml:space="preserve">wear cap</command>
+        <result xml:space="preserve">(first taking the cap)
+You put on the cap.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2898"></child>
+        </children>
+    </item>
+    <item nodeId="node-2898">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2899"></child>
+        </children>
+    </item>
+    <item nodeId="node-2899">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2900"></child>
+        </children>
+    </item>
+    <item nodeId="node-2900">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+Kitchen description. South takes you back to the hallway.
+
+You can see a knife here.
+
+I used to sit here after school and do homework over a bowl of Captain Crunch.
+
+(That cereal always cut my mouth up.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2901"></child>
+        </children>
+    </item>
+    <item nodeId="node-2901">
+        <command xml:space="preserve">x knife</command>
+        <result xml:space="preserve">It's a kitchen knife. It looks very well used, and it is probably wickedly sharp. You notice a gleam from its edge.
+
+Uncle Rob gave me a really nice knife once.
+
+(You lost it at scout camp.)
+
+I ... lost it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2942"></child>
+        </children>
+    </item>
+    <item nodeId="node-2942">
+        <command xml:space="preserve">doff hat</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2943"></child>
+        </children>
+    </item>
+    <item nodeId="node-2943">
+        <command xml:space="preserve">doff cap</command>
+        <result xml:space="preserve">You take off the cap.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2944"></child>
+        </children>
+    </item>
+    <item nodeId="node-2944">
+        <command xml:space="preserve">x knife</command>
+        <result xml:space="preserve">It's a kitchen knife. It looks very well used, and it is probably wickedly sharp. You notice a gleam from its edge.
+
+Uncle Rob gave me a really nice knife once.
+
+I ... lost it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2945"></child>
+        </children>
+    </item>
+    <item nodeId="node-2945">
+        <command xml:space="preserve">burn knife</command>
+        <result xml:space="preserve">This dangerous act would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2982"></child>
+        </children>
+    </item>
+    <item nodeId="node-2982">
+        <command xml:space="preserve">x knife</command>
+        <result xml:space="preserve">It's a kitchen knife. It looks very well used, and it is probably wickedly sharp. You notice a gleam from its edge.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2983"></child>
+        </children>
+    </item>
+    <item nodeId="node-2983">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2984"></child>
+        </children>
+    </item>
+    <item nodeId="node-2984">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2985"></child>
+        </children>
+    </item>
+    <item nodeId="node-2985">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bedroom
+Bedroom description. The hallway is west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2822">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2863"></child>
+            <child nodeId="node-2823"></child>
+            <child nodeId="node-2828"></child>
+        </children>
+    </item>
+    <item nodeId="node-2828">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+Kitchen description. South takes you back to the hallway.
+
+You can see a knife here.
+
+I used to sit here after school and do homework over a bowl of Captain Crunch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2829"></child>
+        </children>
+    </item>
+    <item nodeId="node-2829">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2886"></child>
+            <child nodeId="node-2830"></child>
+        </children>
+    </item>
+    <item nodeId="node-2830">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2831"></child>
+        </children>
+    </item>
+    <item nodeId="node-2831">
+        <command xml:space="preserve">objects</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2832"></child>
+        </children>
+    </item>
+    <item nodeId="node-2832">
+        <command xml:space="preserve">take all</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2833"></child>
+        </children>
+    </item>
+    <item nodeId="node-2833">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2834"></child>
+        </children>
+    </item>
+    <item nodeId="node-2834">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+kitchen
+Kitchen description. South takes you back to the hallway.
+
+You can see a knife here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2835"></child>
+        </children>
+    </item>
+    <item nodeId="node-2835">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2836"></child>
+        </children>
+    </item>
+    <item nodeId="node-2836">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">kitchen
+Kitchen description. South takes you back to the hallway.
+
+You can see a knife here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2837"></child>
+        </children>
+    </item>
+    <item nodeId="node-2837">
+        <command xml:space="preserve">examine kitchen</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2838"></child>
+        </children>
+    </item>
+    <item nodeId="node-2838">
+        <command xml:space="preserve">take knife</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2839"></child>
+        </children>
+    </item>
+    <item nodeId="node-2839">
+        <command xml:space="preserve">s;e</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2840"></child>
+        </children>
+    </item>
+    <item nodeId="node-2840">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2841"></child>
+        </children>
+    </item>
+    <item nodeId="node-2841">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+bedroom
+Bedroom description. The hallway is west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2842"></child>
+        </children>
+    </item>
+    <item nodeId="node-2842">
+        <command xml:space="preserve">take knife</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2843"></child>
+        </children>
+    </item>
+    <item nodeId="node-2843">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">bedroom
+Bedroom description. The hallway is west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2886">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bedroom
+Bedroom description. The hallway is west.
+
+You can see a cap here.
+
+I had a poster of Kitt
+
+I think you had to be a certain age
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2887"></child>
+        </children>
+    </item>
+    <item nodeId="node-2887">
+        <command xml:space="preserve">wear cap</command>
+        <result xml:space="preserve">(first taking the cap)
+You put on the cap.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2893"></child>
+        </children>
+    </item>
+    <item nodeId="node-2893">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Bedroom
+Bedroom description. The hallway is west.
+
+I had a poster of Kitt
+
+(I never liked that show.)
+
+I think you had to be a certain age
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2894"></child>
+        </children>
+    </item>
+    <item nodeId="node-2894">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2895"></child>
+        </children>
+    </item>
+    <item nodeId="node-2895">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2896"></child>
+        </children>
+    </item>
+    <item nodeId="node-2896">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+Kitchen description. South takes you back to the hallway.
+
+You can see a knife here.
+
+I used to sit here after school and do homework over a bowl of Captain Crunch.
+
+(That cereal always cut my mouth up.)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2823">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+bedroom
+Bedroom description. nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2824"></child>
+        </children>
+    </item>
+    <item nodeId="node-2824">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+hallway
+A boring hallway. nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2825"></child>
+        </children>
+    </item>
+    <item nodeId="node-2825">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2826"></child>
+        </children>
+    </item>
+    <item nodeId="node-2826">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+kitchen
+Kitchen description. nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2863">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2864"></child>
+        </children>
+    </item>
+    <item nodeId="node-2864">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">[going north]
+
+kitchen
+Kitchen description. South takes you back to the hallway.
+
+You can see a knife here.
+
+[going north - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2865"></child>
+        </children>
+    </item>
+    <item nodeId="node-2865">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">[going south]
+
+hallway
+A boring hallway. The kitchen is north; the bedroom is to the east.
+
+[going south - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2866"></child>
+        </children>
+    </item>
+    <item nodeId="node-2866">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2867"></child>
+        </children>
+    </item>
+    <item nodeId="node-2867">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "standard set going variables rule" applies.]
+[going north]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't travel in what's not a vehicle rule" applies.]
+[Rule "can't go through undescribed doors rule" applies.]
+[Rule "can't go through closed doors rule" applies.]
+[Rule "determine map connection rule" applies.]
+[Rule "can't go that way rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "move player and vehicle rule" applies.]
+[Rule "move floating objects rule" applies.]
+[Rule "check light in new location rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "describe room gone into rule" applies.]
+
+[Rule "determine visibility ceiling rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "declare everything unmentioned rule" applies.]
+[Rule "room description heading rule" applies.]
+kitchen
+[Rule "room description body text rule" applies.]
+Kitchen description. South takes you back to the hallway.
+
+[Rule "room description paragraphs about objects rule" applies.]
+[Rule "initialise locale description rule" applies.]
+[Rule "find notable locale objects rule" applies.]
+[Rule "standard notable locale objects rule" applies.]
+[Rule "interesting locale paragraphs rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "don't mention player's supporter in room descriptions rule" applies.]
+[Rule "don't mention scenery in room descriptions rule" applies.]
+[Rule "don't mention undescribed items in room descriptions rule" applies.]
+[Rule "set pronouns from items in room descriptions rule" applies.]
+[Rule "offer items to writing a paragraph about rule" applies.]
+[Rule "use initial appearance in room descriptions rule" applies.]
+[Rule "describe what's on scenery supporters in room descriptions rule" applies.]
+[Rule "describe what's on mentioned supporters in room descriptions rule" applies.]
+[Rule "you-can-also-see rule" applies.]
+You can see a knife here.
+
+[Rule "check new arrival rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "other people looking rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[going north - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2874">
+        <command xml:space="preserve">showme bedroom</command>
+        <result xml:space="preserve">Bedroom - room
+    yourself - person
+singular-named, improper-named; lighted, visited
+list grouping key: none
+printed name: "Bedroom"
+printed plural name: none
+indefinite article: none
+description: "Bedroom description. The hallway is west."
+memoryKey: "bedroom"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

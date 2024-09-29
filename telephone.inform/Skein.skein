@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-3845">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-3845">
+        <command xml:space="preserve">telephone</command>
+        <result xml:space="preserve">
+
+
+Telephone
+An Interactive Fiction
+Release 1 / Serial number 210306 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Guard House
+Here you spend all your nights. Bullet-proof windows offer a panoramic view of serene cliffs, palm trees, and a moonlit ocean. Occasionally someone is foolish enough to try a cliff ascent or even an attack by helicopter, but lately things have been pretty quiet.
+
+The mansion is up the hill behind you, security lights ablaze.
+
+Before you is a grey telephone. In black marker someone has written on it: MAIN OFFICE 2802.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3891"></child>
+            <child nodeId="node-3857"></child>
+            <child nodeId="node-3846"></child>
+        </children>
+    </item>
+    <item nodeId="node-3846">
+        <command xml:space="preserve">dial mom</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+"You can't be done yet," your mother answers with annoyance. You'd think she'd be a little less businesslike, given that her brother just died.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3847"></child>
+        </children>
+    </item>
+    <item nodeId="node-3847">
+        <command xml:space="preserve">ask mom about Rob</command>
+        <result xml:space="preserve">"Well, what do you want to know about him?"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3848"></child>
+        </children>
+    </item>
+    <item nodeId="node-3848">
+        <command xml:space="preserve">ask mom about hat</command>
+        <result xml:space="preserve">"His HAT? Why?!?...nevermind. Yeah, he always wore a stupid baseball hat. He thought it was hilarious. If you find it, burn it."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3849"></child>
+        </children>
+    </item>
+    <item nodeId="node-3849">
+        <command xml:space="preserve">ask mom about her brother</command>
+        <result xml:space="preserve">"Well, what do you want to know about him?"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3850"></child>
+        </children>
+    </item>
+    <item nodeId="node-3850">
+        <command xml:space="preserve">ask mom about bike</command>
+        <result xml:space="preserve">"He had a nice bike, but I haven't seen him ride it lately."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3851"></child>
+        </children>
+    </item>
+    <item nodeId="node-3851">
+        <command xml:space="preserve">ask mom about alarm</command>
+        <result xml:space="preserve">"Oh, I forgot to mention, the alarm code is the house number."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3852"></child>
+        </children>
+    </item>
+    <item nodeId="node-3852">
+        <command xml:space="preserve">ask mom about cop</command>
+        <result xml:space="preserve">"Oh COME ON! You've been there for like 5 minutes and the police have already arrived?"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3853"></child>
+        </children>
+    </item>
+    <item nodeId="node-3853">
+        <command xml:space="preserve">ask mom about military</command>
+        <result xml:space="preserve">She is quiet for a moment. "I think he was proud of his service in Afghanistan, but he never ever wanted to talk about it with me. I think you'd have to find someone he knew with a military background."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3854"></child>
+        </children>
+    </item>
+    <item nodeId="node-3854">
+        <command xml:space="preserve">listen to mom</command>
+        <result xml:space="preserve">Though you're on the line with Mom, you can't physically reach to the Family Home.
+Mom is waiting for you to carry on the conversation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3855"></child>
+        </children>
+    </item>
+    <item nodeId="node-3855">
+        <command xml:space="preserve">listen to phone</command>
+        <result xml:space="preserve">You can hear Mom breathing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3856"></child>
+        </children>
+    </item>
+    <item nodeId="node-3856">
+        <command xml:space="preserve">goodbye</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3857">
+        <command xml:space="preserve">dial 2802</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+"You can't be done yet," your mother answers with annoyance. You'd think she'd be a little less businesslike, given that her brother just died.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3858"></child>
+        </children>
+    </item>
+    <item nodeId="node-3858">
+        <command xml:space="preserve">say pizza</command>
+        <result xml:space="preserve">(to Mom)
+Best to confine your conversation to questions and answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3859"></child>
+        </children>
+    </item>
+    <item nodeId="node-3859">
+        <command xml:space="preserve">say pizza?</command>
+        <result xml:space="preserve">(to Mom)
+Best to confine your conversation to questions and answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3860"></child>
+        </children>
+    </item>
+    <item nodeId="node-3860">
+        <command xml:space="preserve">how about a night of passion?</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3861"></child>
+        </children>
+    </item>
+    <item nodeId="node-3861">
+        <command xml:space="preserve">ask boss about a night of passion</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3862"></child>
+        </children>
+    </item>
+    <item nodeId="node-3862">
+        <command xml:space="preserve">ask boss about love</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3863"></child>
+        </children>
+    </item>
+    <item nodeId="node-3863">
+        <command xml:space="preserve">ask boss about pizza</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3864"></child>
+        </children>
+    </item>
+    <item nodeId="node-3864">
+        <command xml:space="preserve">hang up</command>
+        <result xml:space="preserve">(the grey telephone)
+You put down the grey telephone, cutting the connection.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3865"></child>
+        </children>
+    </item>
+    <item nodeId="node-3865">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Guard House
+Here you spend all your nights. Bullet-proof windows offer a panoramic view of serene cliffs, palm trees, and a moonlit ocean. Occasionally someone is foolish enough to try a cliff ascent or even an attack by helicopter, but lately things have been pretty quiet.
+
+The mansion is up the hill behind you, security lights ablaze.
+
+Before you is a grey telephone. In black marker someone has written on it: MAIN OFFICE 2802.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3866"></child>
+        </children>
+    </item>
+    <item nodeId="node-3866">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3867"></child>
+        </children>
+    </item>
+    <item nodeId="node-3867">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3868"></child>
+        </children>
+    </item>
+    <item nodeId="node-3868">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Guard House
+Here you spend all your nights. Bullet-proof windows offer a panoramic view of serene cliffs, palm trees, and a moonlit ocean. Occasionally someone is foolish enough to try a cliff ascent or even an attack by helicopter, but lately things have been pretty quiet.
+
+The mansion is up the hill behind you, security lights ablaze.
+
+Before you is a grey telephone. In black marker someone has written on it: MAIN OFFICE 2802.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3869"></child>
+        </children>
+    </item>
+    <item nodeId="node-3869">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">And leave your post? The boss would have you flayed. No kidding.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3870"></child>
+        </children>
+    </item>
+    <item nodeId="node-3870">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">And leave your post? The boss would have you flayed. No kidding.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3871"></child>
+        </children>
+    </item>
+    <item nodeId="node-3871">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">And leave your post? The boss would have you flayed. No kidding.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3872"></child>
+        </children>
+    </item>
+    <item nodeId="node-3872">
+        <command xml:space="preserve">call delivery boy</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+"Hello?" says the pizza delivery boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3873"></child>
+        </children>
+    </item>
+    <item nodeId="node-3873">
+        <command xml:space="preserve">ask boy about cheese</command>
+        <result xml:space="preserve">"We use four kinds," says the boy, then lowers his voice confidentially. "Actually, two of them are the same. Nobody ever counts. The stringy one, the one that comes in dollops and the orangey one. You know."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3874"></child>
+        </children>
+    </item>
+    <item nodeId="node-3874">
+        <command xml:space="preserve">ask boy about pepperoni</command>
+        <result xml:space="preserve">"Pepperoni is included free on ALL our pizzas," he says proudly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3875"></child>
+        </children>
+    </item>
+    <item nodeId="node-3875">
+        <command xml:space="preserve">ask boy about no pepperoni</command>
+        <result xml:space="preserve">"Well, I don't see why you'd want that," replies the boy sniffily. "It's free!"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3876"></child>
+        </children>
+    </item>
+    <item nodeId="node-3876">
+        <command xml:space="preserve">ask boy about delivery</command>
+        <result xml:space="preserve">"Well, I don't know," says the boy in a worried voice. "Last time I came there were attack dogs. And ninjas."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3877"></child>
+        </children>
+    </item>
+    <item nodeId="node-3877">
+        <command xml:space="preserve">tell boy about massive gratuity</command>
+        <result xml:space="preserve">"There's no use in a big tip you don't live to spend," says the delivery boy quite firmly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3878"></child>
+        </children>
+    </item>
+    <item nodeId="node-3878">
+        <command xml:space="preserve">ask boy about bacon</command>
+        <result xml:space="preserve">The pizza delivery boy does not reply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3879"></child>
+        </children>
+    </item>
+    <item nodeId="node-3879">
+        <command xml:space="preserve">ask boy about ninja</command>
+        <result xml:space="preserve">The pizza delivery boy does not reply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3880"></child>
+        </children>
+    </item>
+    <item nodeId="node-3880">
+        <command xml:space="preserve">attack boy</command>
+        <result xml:space="preserve">Though you're on the line with the pizza delivery boy, you can't physically reach to Potter's Pizza.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3881"></child>
+        </children>
+    </item>
+    <item nodeId="node-3881">
+        <command xml:space="preserve">call ninja</command>
+        <result xml:space="preserve">(first ending your conversation with the pizza delivery boy)
+The phone rings and rings but no one answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3882"></child>
+        </children>
+    </item>
+    <item nodeId="node-3882">
+        <command xml:space="preserve">call ninjas</command>
+        <result xml:space="preserve">The phone rings and rings but no one answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3883"></child>
+        </children>
+    </item>
+    <item nodeId="node-3883">
+        <command xml:space="preserve">call 4431</command>
+        <result xml:space="preserve">The phone rings and rings but no one answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3884"></child>
+        </children>
+    </item>
+    <item nodeId="node-3884">
+        <command xml:space="preserve">ask ninja about attack</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3885"></child>
+        </children>
+    </item>
+    <item nodeId="node-3885">
+        <command xml:space="preserve">ask ninja about imminentattack</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3886"></child>
+        </children>
+    </item>
+    <item nodeId="node-3886">
+        <command xml:space="preserve">ask ninja about imminent attack</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3887"></child>
+        </children>
+    </item>
+    <item nodeId="node-3887">
+        <command xml:space="preserve">ask ninja about pizza delivery boy</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3888"></child>
+        </children>
+    </item>
+    <item nodeId="node-3888">
+        <command xml:space="preserve">look at ninja</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3889"></child>
+        </children>
+    </item>
+    <item nodeId="node-3889">
+        <command xml:space="preserve">hang up</command>
+        <result xml:space="preserve">(the grey telephone)
+You're not on the line with anyone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3890"></child>
+        </children>
+    </item>
+    <item nodeId="node-3890">
+        <command xml:space="preserve">x phone</command>
+        <result xml:space="preserve">You see nothing special about the grey telephone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3891">
+        <command xml:space="preserve">call mom</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+"You can't be done yet," your mother answers with annoyance. You'd think she'd be a little less businesslike, given that her brother just died.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3897"></child>
+            <child nodeId="node-3892"></child>
+        </children>
+    </item>
+    <item nodeId="node-3892">
+        <command xml:space="preserve">hang up</command>
+        <result xml:space="preserve">(the grey telephone)
+You put down the grey telephone, cutting the connection.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3893"></child>
+        </children>
+    </item>
+    <item nodeId="node-3893">
+        <command xml:space="preserve">call mom</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+"Hello?" says Mom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3894"></child>
+        </children>
+    </item>
+    <item nodeId="node-3894">
+        <command xml:space="preserve">goodbye</command>
+        <result xml:space="preserve">(the grey telephone)
+You put down the grey telephone, cutting the connection.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3895"></child>
+        </children>
+    </item>
+    <item nodeId="node-3895">
+        <command xml:space="preserve">call the family phone</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+"Hello?" says Mom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3896"></child>
+        </children>
+    </item>
+    <item nodeId="node-3896">
+        <command xml:space="preserve">call the station phone</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+(first ending your conversation with Mom)
+"Hello?" says the Police Officer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3897">
+        <command xml:space="preserve">ask mom about me</command>
+        <result xml:space="preserve">"Stop complaining. Your brother is so busy and you've certainly got nothing better to do, as far as I can tell."
+(Hah. He's probably drinking and watching the game.)
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3915"></child>
+            <child nodeId="node-3913"></child>
+            <child nodeId="node-3898"></child>
+        </children>
+    </item>
+    <item nodeId="node-3898">
+        <command xml:space="preserve">ask mom about rob</command>
+        <result xml:space="preserve">"Well, what do you want to know about him?"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3912"></child>
+            <child nodeId="node-3899"></child>
+        </children>
+    </item>
+    <item nodeId="node-3899">
+        <command xml:space="preserve">call pizza</command>
+        <result xml:space="preserve">(on the grey telephone)
+
+(first ending your conversation with Mom)
+"Hello?" says the pizza delivery boy.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3900"></child>
+        </children>
+    </item>
+    <item nodeId="node-3900">
+        <command xml:space="preserve">ask about pizza</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3901"></child>
+        </children>
+    </item>
+    <item nodeId="node-3901">
+        <command xml:space="preserve">ask about delivery</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3902"></child>
+        </children>
+    </item>
+    <item nodeId="node-3902">
+        <command xml:space="preserve">ask boy about delivery</command>
+        <result xml:space="preserve">"Well, I don't know," says the boy in a worried voice. "Last time I came there were attack dogs. And ninjas."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3903"></child>
+        </children>
+    </item>
+    <item nodeId="node-3903">
+        <command xml:space="preserve">ask boy about pizza</command>
+        <result xml:space="preserve">"Pepperoni special tonight!" he says proudly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3904"></child>
+        </children>
+    </item>
+    <item nodeId="node-3904">
+        <command xml:space="preserve">ask boy about pepperoni</command>
+        <result xml:space="preserve">"Pepperoni is included free on ALL our pizzas," he says proudly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3905"></child>
+        </children>
+    </item>
+    <item nodeId="node-3905">
+        <command xml:space="preserve">hang up</command>
+        <result xml:space="preserve">(the grey telephone)
+You put down the grey telephone, cutting the connection.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3906"></child>
+        </children>
+    </item>
+    <item nodeId="node-3906">
+        <command xml:space="preserve">say hellp</command>
+        <result xml:space="preserve">(to yourself)
+Best to confine your conversation to questions and answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3907"></child>
+        </children>
+    </item>
+    <item nodeId="node-3907">
+        <command xml:space="preserve">actionos</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3908"></child>
+        </children>
+    </item>
+    <item nodeId="node-3908">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3909"></child>
+        </children>
+    </item>
+    <item nodeId="node-3909">
+        <command xml:space="preserve">say hello</command>
+        <result xml:space="preserve">(to yourself)
+[answering yourself that "hello"]
+Best to confine your conversation to questions and answers.
+[answering yourself that "hello" - ended without result]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3910"></child>
+        </children>
+    </item>
+    <item nodeId="node-3910">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3911"></child>
+        </children>
+    </item>
+    <item nodeId="node-3911">
+        <command xml:space="preserve">actions off</command>
+        <result xml:space="preserve">Actions listing off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3912">
+        <command xml:space="preserve">ask mom about hat</command>
+        <result xml:space="preserve">"His HAT? Why?!?...nevermind. Yeah, he always wore a stupid baseball hat. He thought it was hilarious. If you find it, burn it."
+
+Please don't do that yet.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3913">
+        <command xml:space="preserve">ask mom about me</command>
+        <result xml:space="preserve">"Stop complaining. Your brother is so busy and you've certainly got nothing better to do, as far as I can tell."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3914"></child>
+        </children>
+    </item>
+    <item nodeId="node-3914">
+        <command xml:space="preserve">ask mom about rob</command>
+        <result xml:space="preserve">"Well, what do you want to know about him?"
+()
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3915">
+        <command xml:space="preserve">ask mom about bike</command>
+        <result xml:space="preserve">"He had a nice bike, but I haven't seen him ride it lately."
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3916"></child>
+        </children>
+    </item>
+    <item nodeId="node-3916">
+        <command xml:space="preserve">ask mom about bike</command>
+        <result xml:space="preserve">"He had a nice bike, but I haven't seen him ride it lately."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

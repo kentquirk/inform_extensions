@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-2637">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-2637">
+        <command xml:space="preserve">firetest</command>
+        <result xml:space="preserve">
+
+
+The Chilly Beach
+An Interactive Fiction
+Release 1 / Serial number 210318 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Chilly Beach
+There is a driftwood log sitting high on the beach. It looks like it's been here a while.
+
+There is a weathered wooden plank here.
+
+You see a bunch of seaweed, dried out by the sun.
+
+There is a ring of rocks that makes an excellent firepit.
+
+You can also see a matchbox (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2638"></child>
+        </children>
+    </item>
+    <item nodeId="node-2638">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] get matchbox
+Taken.
+
+&gt;[2] open matchbox
+You open the matchbox, revealing three matches.
+
+&gt;[3] strike match
+(first taking the match)
+Safety first! Don't strike on an open matchbox!
+
+&gt;[4] get match
+You already have one.
+
+&gt;[5] close matchbox
+You close the matchbox.
+
+&gt;[6] strike match
+You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;[7] light log
+You should find a safe place to build a fire first.
+
+&gt;[8] get log
+Taken.
+
+The match has stopped burning.
+
+&gt;[9] put log in ring
+You put the driftwood log into the ring of rocks.
+
+&gt;[10] open matchbox
+You open the matchbox, revealing two matches.
+
+&gt;[11] get match
+Taken.
+
+&gt;[12] close matchbox
+You close the matchbox.
+
+&gt;[13] strike match
+You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;[14] light log
+One match isn't enough to light the driftwood log. You'll need kindling.
+
+&gt;[15] put kelp in ring
+(first taking the dried kelp)
+You put the dried kelp into the ring of rocks.
+
+The match has stopped burning.
+
+&gt;[16] open matchbox
+You open the matchbox, revealing a match.
+
+&gt;[17] get match
+Taken.
+
+&gt;[18] close matchbox
+You close the matchbox.
+
+&gt;[19] strike match
+You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;[20] light kelp
+The dried kelp ignites.
+
+&gt;[21] blow on log
+A long slow breath causes the driftwood log to glow a little brighter.
+
+The match has stopped burning.
+
+&gt;[22] g
+A long slow breath causes the driftwood log to glow a little brighter.
+
+The driftwood log ignites.
+
+&gt;[23] g
+You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] get matchbox
+[2] open matchbox
+[3] strike match
+[4] get match
+[5] close matchbox
+[6] strike match
+[7] light log
+[8] get log
+[9] put log in ring
+[10] open matchbox
+[11] get match
+[12] close matchbox
+[13] strike match
+[14] light log
+[15] put kelp in ring
+[16] open matchbox
+[17] get match
+[18] close matchbox
+[19] strike match
+[20] light kelp
+[21] blow on log
+[22] g
+[23] g
+</commentary>
+        <children><child nodeId="node-2668"></child>
+            <child nodeId="node-2654"></child>
+            <child nodeId="node-2653"></child>
+            <child nodeId="node-2639"></child>
+        </children>
+    </item>
+    <item nodeId="node-2639">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match (burnt out)
+  a matchbox (closed)
+
+The dried kelp has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2640"></child>
+        </children>
+    </item>
+    <item nodeId="node-2640">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Chilly Beach
+There is a weathered wooden plank here.
+
+There is a ring of rocks that would make an excellent firepit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2641"></child>
+        </children>
+    </item>
+    <item nodeId="node-2641">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Chilly Beach
+There is a weathered wooden plank here.
+
+There is a ring of rocks that would make an excellent firepit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2642"></child>
+        </children>
+    </item>
+    <item nodeId="node-2642">
+        <command xml:space="preserve">x pit</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2643"></child>
+        </children>
+    </item>
+    <item nodeId="node-2643">
+        <command xml:space="preserve">x firepit</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp (burnt out) and a driftwood log (burning).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2644"></child>
+        </children>
+    </item>
+    <item nodeId="node-2644">
+        <command xml:space="preserve">put plank in firepit</command>
+        <result xml:space="preserve">(first taking the weathered plank)
+You put the weathered plank into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2645"></child>
+        </children>
+    </item>
+    <item nodeId="node-2645">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a weathered plank (heating up), some dried kelp (burnt out) and a driftwood log (burning).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2646"></child>
+        </children>
+    </item>
+    <item nodeId="node-2646">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a weathered plank (heating up), some dried kelp (burnt out) and a driftwood log (burning).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2647"></child>
+        </children>
+    </item>
+    <item nodeId="node-2647">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a weathered plank (heating up), some dried kelp (burnt out) and a driftwood log (burning).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2648"></child>
+        </children>
+    </item>
+    <item nodeId="node-2648">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a weathered plank (heating up), some dried kelp (burnt out) and a driftwood log (burning).
+
+The weathered plank ignites.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2649"></child>
+        </children>
+    </item>
+    <item nodeId="node-2649">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a weathered plank (burning), some dried kelp (burnt out) and a driftwood log (burning).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2650"></child>
+        </children>
+    </item>
+    <item nodeId="node-2650">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve">You see nothing special about the dried kelp.
+
+What had been the dried kelp is mostly charcoal and ashes now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2651"></child>
+        </children>
+    </item>
+    <item nodeId="node-2651">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a weathered plank (burning) and a driftwood log (burning).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2652"></child>
+        </children>
+    </item>
+    <item nodeId="node-2652">
+        <command xml:space="preserve">take ashes</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2653">
+        <command xml:space="preserve">get logs</command>
+        <result xml:space="preserve">Taken.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2654">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+The dried kelp has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2655"></child>
+        </children>
+    </item>
+    <item nodeId="node-2655">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2656"></child>
+        </children>
+    </item>
+    <item nodeId="node-2656">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2657"></child>
+        </children>
+    </item>
+    <item nodeId="node-2657">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2658"></child>
+        </children>
+    </item>
+    <item nodeId="node-2658">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2659"></child>
+        </children>
+    </item>
+    <item nodeId="node-2659">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2660"></child>
+        </children>
+    </item>
+    <item nodeId="node-2660">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2661"></child>
+        </children>
+    </item>
+    <item nodeId="node-2661">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2662"></child>
+        </children>
+    </item>
+    <item nodeId="node-2662">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+The driftwood log has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2663"></child>
+        </children>
+    </item>
+    <item nodeId="node-2663">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2664"></child>
+        </children>
+    </item>
+    <item nodeId="node-2664">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2665"></child>
+        </children>
+    </item>
+    <item nodeId="node-2665">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2666"></child>
+        </children>
+    </item>
+    <item nodeId="node-2666">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2667"></child>
+        </children>
+    </item>
+    <item nodeId="node-2667">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2668">
+        <command xml:space="preserve"> g</command>
+        <result xml:space="preserve">You blow gently, and the driftwood log burns a little hotter.
+
+The dried kelp has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

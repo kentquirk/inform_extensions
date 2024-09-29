@@ -1,0 +1,2769 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1292">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1292">
+        <command xml:space="preserve">fire</command>
+        <result xml:space="preserve">
+
+
+Light my fire
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210318 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Chilly Beach
+There is a driftwood log sitting high on the beach. It looks like it's been here a while.
+
+You see a bunch of seaweed, dried out by the sun.
+
+There is a ring of rocks that would make an excellent firepit.
+
+You can also see a matchbox (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1348"></child>
+            <child nodeId="node-1694"></child>
+            <child nodeId="node-1308"></child>
+            <child nodeId="node-3342"></child>
+            <child nodeId="node-3509"></child>
+            <child nodeId="node-1302"></child>
+            <child nodeId="node-1297"></child>
+            <child nodeId="node-3383"></child>
+            <child nodeId="node-1293"></child>
+            <child nodeId="node-2962"></child>
+        </children>
+    </item>
+    <item nodeId="node-2962">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">The ring of rocks is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2963"></child>
+        </children>
+    </item>
+    <item nodeId="node-2963">
+        <command xml:space="preserve">put driftwood in ring</command>
+        <result xml:space="preserve">(first taking the driftwood log)
+You put the driftwood log into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2964"></child>
+        </children>
+    </item>
+    <item nodeId="node-2964">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks is a driftwood log
+.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2965"></child>
+        </children>
+    </item>
+    <item nodeId="node-2965">
+        <command xml:space="preserve">put seaweed in ring</command>
+        <result xml:space="preserve">(first taking the dried kelp)
+You put the dried kelp into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2970"></child>
+        </children>
+    </item>
+    <item nodeId="node-2970">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp
+ and a driftwood log
+.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2971"></child>
+        </children>
+    </item>
+    <item nodeId="node-2971">
+        <command xml:space="preserve">get matchbox</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2972"></child>
+        </children>
+    </item>
+    <item nodeId="node-2972">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2973"></child>
+        </children>
+    </item>
+    <item nodeId="node-2973">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2974"></child>
+        </children>
+    </item>
+    <item nodeId="node-2974">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2975"></child>
+        </children>
+    </item>
+    <item nodeId="node-2975">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2976"></child>
+        </children>
+    </item>
+    <item nodeId="node-2976">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2977"></child>
+        </children>
+    </item>
+    <item nodeId="node-2977">
+        <command xml:space="preserve">light kelp</command>
+        <result xml:space="preserve">(first taking the dried kelp)
+The dried kelp is not something you can ignite that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2978"></child>
+        </children>
+    </item>
+    <item nodeId="node-2978">
+        <command xml:space="preserve">drop kelp in ring</command>
+        <result xml:space="preserve">You put the dried kelp into the ring of rocks.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2979"></child>
+        </children>
+    </item>
+    <item nodeId="node-2979">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">You open the matchbox, revealing two matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2980"></child>
+        </children>
+    </item>
+    <item nodeId="node-2980">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2981"></child>
+        </children>
+    </item>
+    <item nodeId="node-2981">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match (almost lit)
+
+  a matchbox (open)
+    a match (almost lit)
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2982"></child>
+        </children>
+    </item>
+    <item nodeId="node-2982">
+        <command xml:space="preserve">drop match</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2983"></child>
+        </children>
+    </item>
+    <item nodeId="node-2983">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2984"></child>
+        </children>
+    </item>
+    <item nodeId="node-2984">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">You already have one.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2985"></child>
+        </children>
+    </item>
+    <item nodeId="node-2985">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2986"></child>
+        </children>
+    </item>
+    <item nodeId="node-2986">
+        <command xml:space="preserve">light matchbox</command>
+        <result xml:space="preserve">The matchbox is not something you can ignite that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2987"></child>
+        </children>
+    </item>
+    <item nodeId="node-2987">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2988"></child>
+        </children>
+    </item>
+    <item nodeId="node-2988">
+        <command xml:space="preserve">light kelp with match</command>
+        <result xml:space="preserve">The dried kelp ignites.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2989"></child>
+        </children>
+    </item>
+    <item nodeId="node-2989">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp (burning)
+ and a driftwood log
+.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2990"></child>
+        </children>
+    </item>
+    <item nodeId="node-2990">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve">You see nothing special about the dried kelp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2991"></child>
+        </children>
+    </item>
+    <item nodeId="node-2991">
+        <command xml:space="preserve">x log</command>
+        <result xml:space="preserve">You see nothing special about the driftwood log.
+
+The driftwood log ignites.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2992"></child>
+        </children>
+    </item>
+    <item nodeId="node-2992">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp (nearly out)
+ and a driftwood log (burning)
+.
+
+The dried kelp has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3263"></child>
+        </children>
+    </item>
+    <item nodeId="node-3263">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp (burnt out)
+ and a driftwood log (burning)
+.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3264"></child>
+        </children>
+    </item>
+    <item nodeId="node-3264">
+        <command xml:space="preserve">get log</command>
+        <result xml:space="preserve">It's a bad idea to do that while it's burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3265"></child>
+        </children>
+    </item>
+    <item nodeId="node-3265">
+        <command xml:space="preserve">get kelp</command>
+        <result xml:space="preserve">It crumbles to ashes as you touch it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1293">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] get matchbox
+Taken.
+
+&gt;[2] open matchbox
+You open the matchbox, revealing three matches.
+
+&gt;[3] strike match
+(on the matchbox)
+(first taking the match)
+Safety first! Don't strike on an open matchbox!
+
+&gt;[4] get match
+You already have one.
+
+&gt;[5] close matchbox
+You close the matchbox.
+
+&gt;[6] strike match
+What do you want to strike the match on?
+
+&gt;[7] x match
+.
+
+&gt;[8] g
+.
+
+&gt;[9] g
+.
+
+&gt;[10] g
+.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] get matchbox
+[2] open matchbox
+[3] strike match
+[4] get match
+[5] close matchbox
+[6] strike match
+[7] x match
+[8] g
+[9] g
+[10] g
+</commentary>
+        <children><child nodeId="node-2313"></child>
+            <child nodeId="node-1294"></child>
+        </children>
+    </item>
+    <item nodeId="node-1294">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1295"></child>
+        </children>
+    </item>
+    <item nodeId="node-1295">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1296"></child>
+        </children>
+    </item>
+    <item nodeId="node-1296">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2313">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2314"></child>
+        </children>
+    </item>
+    <item nodeId="node-2314">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">What do you want to strike the match on?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2328"></child>
+        </children>
+    </item>
+    <item nodeId="node-2328">
+        <command xml:space="preserve">close matchbo</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2329"></child>
+        </children>
+    </item>
+    <item nodeId="node-2329">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">[closing the matchbox]
+That's already closed.
+[closing the matchbox - failed the can't close what's already closed rule]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2330"></child>
+        </children>
+    </item>
+    <item nodeId="node-2330">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">What do you want to strike the match on?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2331"></child>
+        </children>
+    </item>
+    <item nodeId="node-2331">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">[taking inventory]
+You are carrying:
+  a match
+  a matchbox (closed)
+
+[taking inventory - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2332"></child>
+        </children>
+    </item>
+    <item nodeId="node-2332">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2333"></child>
+        </children>
+    </item>
+    <item nodeId="node-2333">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">What do you want to strike the match on?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2353"></child>
+        </children>
+    </item>
+    <item nodeId="node-2353">
+        <command xml:space="preserve">strike match on match</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[striking the match on the match]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check an actor striking something on something" applies.]
+The match is not rough enough to strike on.
+[striking the match on the match - failed the Check an actor striking something on something]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2374"></child>
+        </children>
+    </item>
+    <item nodeId="node-2374">
+        <command xml:space="preserve">strike match on dritfwood</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2375"></child>
+        </children>
+    </item>
+    <item nodeId="node-2375">
+        <command xml:space="preserve">strike match on driftwood</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[striking the match on the driftwood]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check an actor striking something on something" applies.]
+The driftwood is not rough enough to strike on.
+[striking the match on the driftwood - failed the Check an actor striking something on something]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3383">
+        <command xml:space="preserve">take seaweed</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3384"></child>
+        </children>
+    </item>
+    <item nodeId="node-3384">
+        <command xml:space="preserve">take matchbox</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3385"></child>
+        </children>
+    </item>
+    <item nodeId="node-3385">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a matchbox (closed)
+  some dried kelp
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3386"></child>
+        </children>
+    </item>
+    <item nodeId="node-3386">
+        <command xml:space="preserve">take log</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3387"></child>
+        </children>
+    </item>
+    <item nodeId="node-3387">
+        <command xml:space="preserve">put log in firepit</command>
+        <result xml:space="preserve">You put the driftwood log into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3388"></child>
+        </children>
+    </item>
+    <item nodeId="node-3388">
+        <command xml:space="preserve">put seaweed in firepit</command>
+        <result xml:space="preserve">You put the dried kelp into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3389"></child>
+        </children>
+    </item>
+    <item nodeId="node-3389">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3390"></child>
+        </children>
+    </item>
+    <item nodeId="node-3390">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3391"></child>
+        </children>
+    </item>
+    <item nodeId="node-3391">
+        <command xml:space="preserve">take matches</command>
+        <result xml:space="preserve">There are none at all available!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3392"></child>
+        </children>
+    </item>
+    <item nodeId="node-3392">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3393"></child>
+        </children>
+    </item>
+    <item nodeId="node-3393">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">Safety first! Don't strike on an open matchbox!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3394"></child>
+        </children>
+    </item>
+    <item nodeId="node-3394">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3395"></child>
+        </children>
+    </item>
+    <item nodeId="node-3395">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3396"></child>
+        </children>
+    </item>
+    <item nodeId="node-3396">
+        <command xml:space="preserve">throw match in firepit</command>
+        <result xml:space="preserve">You put the match into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3397"></child>
+        </children>
+    </item>
+    <item nodeId="node-3397">
+        <command xml:space="preserve">blow on keelp</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3398"></child>
+        </children>
+    </item>
+    <item nodeId="node-3398">
+        <command xml:space="preserve">blow on kelp</command>
+        <result xml:space="preserve">It glows a little brighter.
+
+The dried kelp ignites.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3399"></child>
+        </children>
+    </item>
+    <item nodeId="node-3399">
+        <command xml:space="preserve">blow on fire</command>
+        <result xml:space="preserve">That's not likely to help.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3400"></child>
+        </children>
+    </item>
+    <item nodeId="node-3400">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Chilly Beach
+There is a ring of rocks that would make an excellent firepit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3401"></child>
+        </children>
+    </item>
+    <item nodeId="node-3401">
+        <command xml:space="preserve">x rirng</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3402"></child>
+        </children>
+    </item>
+    <item nodeId="node-3402">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a match (burnt out), some dried kelp (burning) and a driftwood log (heating up).
+
+The driftwood log ignites.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3463"></child>
+        </children>
+    </item>
+    <item nodeId="node-3463">
+        <command xml:space="preserve">blow on log</command>
+        <result xml:space="preserve">It burns a little hotter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3464"></child>
+        </children>
+    </item>
+    <item nodeId="node-3464">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a match (burnt out), some dried kelp (nearly out) and a driftwood log (burning).
+
+The dried kelp has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1297">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1298"></child>
+        </children>
+    </item>
+    <item nodeId="node-1298">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">(taking nothing first)
+Taken.
+
+You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1299"></child>
+        </children>
+    </item>
+    <item nodeId="node-1299">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1300"></child>
+        </children>
+    </item>
+    <item nodeId="node-1300">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1301"></child>
+        </children>
+    </item>
+    <item nodeId="node-1301">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  two matches
+  a matchbox (open)
+    a match
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">(taking nothing first)
+Taken.
+
+You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1303"></child>
+        </children>
+    </item>
+    <item nodeId="node-1303">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Chilly Beach
+You can see a driftwood, a dried kelp and a ring of rocks (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1304"></child>
+        </children>
+    </item>
+    <item nodeId="node-1304">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a matchbox (open)
+    three matches
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1305"></child>
+        </children>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">drop matchbox</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1306"></child>
+        </children>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">(taking nothing first)
+Taken.
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (open)
+    two matches
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3509">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">(taking the matchbox first)
+Taken.
+
+You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3510"></child>
+        </children>
+    </item>
+    <item nodeId="node-3510">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3511"></child>
+        </children>
+    </item>
+    <item nodeId="node-3511">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3512"></child>
+        </children>
+    </item>
+    <item nodeId="node-3512">
+        <command xml:space="preserve">light match on box</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3513"></child>
+        </children>
+    </item>
+    <item nodeId="node-3513">
+        <command xml:space="preserve">light log with match</command>
+        <result xml:space="preserve">You should find a safe place to build a fire first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3519"></child>
+        </children>
+    </item>
+    <item nodeId="node-3519">
+        <command xml:space="preserve">put log in ring</command>
+        <result xml:space="preserve">(first taking the driftwood log)
+You put the driftwood log into the ring of rocks.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3520"></child>
+        </children>
+    </item>
+    <item nodeId="node-3520">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">You open the matchbox, revealing two matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3521"></child>
+        </children>
+    </item>
+    <item nodeId="node-3521">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3522"></child>
+        </children>
+    </item>
+    <item nodeId="node-3522">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">Safety first! Don't strike on an open matchbox!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3523"></child>
+        </children>
+    </item>
+    <item nodeId="node-3523">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3524"></child>
+        </children>
+    </item>
+    <item nodeId="node-3524">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3525"></child>
+        </children>
+    </item>
+    <item nodeId="node-3525">
+        <command xml:space="preserve">light log with match</command>
+        <result xml:space="preserve">One match isn't enough to light the driftwood log. You'll need kindling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3526"></child>
+        </children>
+    </item>
+    <item nodeId="node-3526">
+        <command xml:space="preserve">blow on match</command>
+        <result xml:space="preserve">It burns a little hotter.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3342">
+        <command xml:space="preserve">light kelp</command>
+        <result xml:space="preserve">It's not clear what that means.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3345"></child>
+        </children>
+    </item>
+    <item nodeId="node-3345">
+        <command xml:space="preserve">light kelp with matchbook</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3346"></child>
+        </children>
+    </item>
+    <item nodeId="node-3346">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">(taking the matchbox first)
+Taken.
+
+You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3350"></child>
+        </children>
+    </item>
+    <item nodeId="node-3350">
+        <command xml:space="preserve">drop box</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3351"></child>
+        </children>
+    </item>
+    <item nodeId="node-3351">
+        <command xml:space="preserve">x box</command>
+        <result xml:space="preserve">In the matchbox are three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3352"></child>
+        </children>
+    </item>
+    <item nodeId="node-3352">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3353"></child>
+        </children>
+    </item>
+    <item nodeId="node-3353">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">(taking the matchbox first)
+Taken.
+
+You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3354"></child>
+        </children>
+    </item>
+    <item nodeId="node-3354">
+        <command xml:space="preserve">drop box</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3355"></child>
+        </children>
+    </item>
+    <item nodeId="node-3355">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3356"></child>
+        </children>
+    </item>
+    <item nodeId="node-3356">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3357"></child>
+        </children>
+    </item>
+    <item nodeId="node-3357">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3358"></child>
+        </children>
+    </item>
+    <item nodeId="node-3358">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[opening the matchbox]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "Check an actor opening a matchbox while the actor does not carry a matchbox" applies.]
+(taking the matchbox first)
+[(1) taking the matchbox]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "can't take yourself rule" applies.]
+[Rule "can't take other people rule" applies.]
+[Rule "can't take component parts rule" applies.]
+[Rule "can't take people's possessions rule" applies.]
+[Rule "can't take items out of play rule" applies.]
+[Rule "can't take what you're inside rule" applies.]
+[Rule "can't take what's already taken rule" applies.]
+[Rule "can't take scenery rule" applies.]
+[Rule "can only take things rule" applies.]
+[Rule "can't take what's fixed in place rule" applies.]
+[Rule "use player's holdall to avoid exceeding carrying capacity rule" applies.]
+[Rule "can't exceed carrying capacity rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard taking rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "standard report taking rule" applies.]
+Taken.
+[Rule "last specific action-processing rule" applies.]
+[(1) taking the matchbox - succeeded]
+
+[Rule "can't open unless openable rule" applies.]
+[Rule "can't open what's locked rule" applies.]
+[Rule "can't open what's already open rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard opening rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "reveal any newly visible interior rule" applies.]
+You open the matchbox, revealing three matches.
+[Rule "last specific action-processing rule" applies.]
+[opening the matchbox - succeeded]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">get matchbox</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1309"></child>
+        </children>
+    </item>
+    <item nodeId="node-1309">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1342"></child>
+            <child nodeId="node-1324"></child>
+            <child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+            <child nodeId="node-1311"></child>
+        </children>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">take matche</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1312"></child>
+        </children>
+    </item>
+    <item nodeId="node-1312">
+        <command xml:space="preserve">x matchbox</command>
+        <result xml:space="preserve">In the matchbox are two matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1313"></child>
+        </children>
+    </item>
+    <item nodeId="node-1313">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (open)
+    two matches
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1314"></child>
+        </children>
+    </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">You switch the match on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (open)
+    two matches
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">What do you want to strike the match on?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1318"></child>
+        </children>
+    </item>
+    <item nodeId="node-1318">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">You strike the match on the box and it's burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+        </children>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match (providing light)
+  a matchbox (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">It's already burning!
+
+The match gets too close to your fingers and you drop it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1321"></child>
+        </children>
+    </item>
+    <item nodeId="node-1321">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">It was a match, not a lighter, and it's been used already. Get a new one.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1322"></child>
+        </children>
+    </item>
+    <item nodeId="node-1322">
+        <command xml:space="preserve">drop match</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1323"></child>
+        </children>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">(first taking the match)
+Safety first! Don't strike on an open matchbox!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2379"></child>
+            <child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a matchbox (open)
+    three matches
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">Safety first! Don't strike matches on an open box.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">You strike the match on the box and it's burning.
+
+You switch the match on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+        </children>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">The match is burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">The match is burning.
+
+The match gets too close to your fingers and you blow it out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">drop match</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1339"></child>
+        </children>
+    </item>
+    <item nodeId="node-1339">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "print empty inventory rule" applies.]
+[Rule "print standard inventory rule" applies.]
+You are carrying:
+  a match
+  a matchbox (closed)
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+
+[Rule "report other people taking inventory rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1340"></child>
+        </children>
+    </item>
+    <item nodeId="node-1340">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "Instead of examining a burnable item" applies.]
+[Rule "standard examining rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1341"></child>
+        </children>
+    </item>
+    <item nodeId="node-1341">
+        <command xml:space="preserve">x matchbox</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+You see nothing special about the matchbox.
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2379">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2380"></child>
+        </children>
+    </item>
+    <item nodeId="node-2380">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2381"></child>
+        </children>
+    </item>
+    <item nodeId="node-2381">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (closed)
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2382"></child>
+        </children>
+    </item>
+    <item nodeId="node-2382">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">The match is not something you can ignite that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2411"></child>
+        </children>
+    </item>
+    <item nodeId="node-2411">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2412"></child>
+        </children>
+    </item>
+    <item nodeId="node-2412">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2413"></child>
+        </children>
+    </item>
+    <item nodeId="node-2413">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2414"></child>
+        </children>
+    </item>
+    <item nodeId="node-2414">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2415"></child>
+        </children>
+    </item>
+    <item nodeId="node-2415">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2416"></child>
+        </children>
+    </item>
+    <item nodeId="node-2416">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1342">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1433"></child>
+            <child nodeId="node-2063"></child>
+            <child nodeId="node-1343"></child>
+            <child nodeId="node-1368"></child>
+        </children>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">strike match on box</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1369"></child>
+        </children>
+    </item>
+    <item nodeId="node-1369">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">Safety first! Don't strike on an open matchbox!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1370"></child>
+        </children>
+    </item>
+    <item nodeId="node-1370">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1371"></child>
+        </children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1373"></child>
+        </children>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">The match is burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+        </children>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve">x driftwood</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1375"></child>
+        </children>
+    </item>
+    <item nodeId="node-1375">
+        <command xml:space="preserve">showme match</command>
+        <result xml:space="preserve">match - match
+location: carried by yourself in the Chilly Beach
+singular-named, improper-named; unlit, inedible, portable, handled; ignited, unburnt; unstrikeable
+list grouping key: none
+printed name: "match"
+printed plural name: "matches"
+indefinite article: none
+description: none
+initial appearance: none
+burn time: 2
+ignition time: 0
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1376"></child>
+        </children>
+    </item>
+    <item nodeId="node-1376">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">The match is burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1377"></child>
+        </children>
+    </item>
+    <item nodeId="node-1377">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1343">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">Safety first! Don't strike matches on an open box.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1344"></child>
+        </children>
+    </item>
+    <item nodeId="node-1344">
+        <command xml:space="preserve">look at match</command>
+        <result xml:space="preserve">The match is unlit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1345"></child>
+        </children>
+    </item>
+    <item nodeId="node-1345">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1346"></child>
+        </children>
+    </item>
+    <item nodeId="node-1346">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1347"></child>
+        </children>
+    </item>
+    <item nodeId="node-1347">
+        <command xml:space="preserve">look at match</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[examining the match]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "Instead of examining a match" applies.]
+The match is unlit.
+[examining the match - failed]
+
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2063">
+        <command xml:space="preserve">light kelp with match</command>
+        <result xml:space="preserve">You need a flame to start a fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2064"></child>
+        </children>
+    </item>
+    <item nodeId="node-2064">
+        <command xml:space="preserve">put kelp in ring</command>
+        <result xml:space="preserve">(first taking the dried kelp)
+You put the dried kelp into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2065"></child>
+        </children>
+    </item>
+    <item nodeId="node-2065">
+        <command xml:space="preserve">light kelp with match</command>
+        <result xml:space="preserve">You need a flame to start a fire.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2066"></child>
+        </children>
+    </item>
+    <item nodeId="node-2066">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a match
+  a matchbox (open)
+    two matches
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2067"></child>
+        </children>
+    </item>
+    <item nodeId="node-2067">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2068"></child>
+        </children>
+    </item>
+    <item nodeId="node-2068">
+        <command xml:space="preserve">light kelp with match</command>
+        <result xml:space="preserve">[lighting the dried kelp with the match]
+You need a flame to start a fire.
+[lighting the dried kelp with the match - failed the Check lighting something with something]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2069"></child>
+        </children>
+    </item>
+    <item nodeId="node-2069">
+        <command xml:space="preserve">ignite kelp with match</command>
+        <result xml:space="preserve">[lighting the dried kelp with the match]
+You need a flame to start a fire.
+[lighting the dried kelp with the match - failed the Check lighting something with something]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2070"></child>
+        </children>
+    </item>
+    <item nodeId="node-2070">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">[striking the match on the matchbox]
+Safety first! Don't strike on an open matchbox!
+[striking the match on the matchbox - failed the Check an actor striking something on something]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2071"></child>
+        </children>
+    </item>
+    <item nodeId="node-2071">
+        <command xml:space="preserve">light match on matchbox</command>
+        <result xml:space="preserve">[striking the match on the matchbox]
+Safety first! Don't strike on an open matchbox!
+[striking the match on the matchbox - failed the Check an actor striking something on something]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2072"></child>
+        </children>
+    </item>
+    <item nodeId="node-2072">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">[closing the matchbox]
+You close the matchbox.
+[closing the matchbox - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2073"></child>
+        </children>
+    </item>
+    <item nodeId="node-2073">
+        <command xml:space="preserve">light match on matchbox</command>
+        <result xml:space="preserve">[striking the match on the matchbox]
+You carefully strike the match on the matchbox and it sparks to life.
+[striking the match on the matchbox - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2074"></child>
+        </children>
+    </item>
+    <item nodeId="node-2074">
+        <command xml:space="preserve">ignite kelp with match</command>
+        <result xml:space="preserve">[lighting the dried kelp with the match]
+[(1) setting fire to the dried kelp]
+The dried kelp ignites.
+[(1) setting fire to the dried kelp - succeeded]
+
+[lighting the dried kelp with the match - succeeded]
+
+[putting out the fire of the match]
+The match has stopped burning.
+[putting out the fire of the match - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2075"></child>
+        </children>
+    </item>
+    <item nodeId="node-2075">
+        <command xml:space="preserve">ignite log with match</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2076"></child>
+            <child nodeId="node-2446"></child>
+        </children>
+    </item>
+    <item nodeId="node-2446">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">[looking]
+Chilly Beach
+You can see a driftwood and a ring of rocks (in which is a dried kelp) here.
+
+[looking - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-2076">
+        <command xml:space="preserve">ignite driftwoodwith match</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2077"></child>
+        </children>
+    </item>
+    <item nodeId="node-2077">
+        <command xml:space="preserve">ignite driftwoodw ith match</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2078"></child>
+        </children>
+    </item>
+    <item nodeId="node-2078">
+        <command xml:space="preserve">ignite driftwood with match</command>
+        <result xml:space="preserve">[lighting the driftwood with the match]
+[(1) setting fire to the driftwood]
+The driftwood ignites.
+[(1) setting fire to the driftwood - succeeded]
+
+[lighting the driftwood with the match - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2079"></child>
+        </children>
+    </item>
+    <item nodeId="node-2079">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">[looking]
+Chilly Beach
+You can see a driftwood and a ring of rocks (in which is a dried kelp) here.
+
+[looking - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2080"></child>
+        </children>
+    </item>
+    <item nodeId="node-2080">
+        <command xml:space="preserve">x driftwood</command>
+        <result xml:space="preserve">[examining the driftwood]
+ is aflame.
+[examining the driftwood - failed]
+
+[putting out the fire of the dried kelp]
+The dried kelp has stopped burning.
+[putting out the fire of the dried kelp - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2081"></child>
+        </children>
+    </item>
+    <item nodeId="node-2081">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve">[examining the dried kelp]
+It's seaweed, dried out by the sun. has burned out.
+[examining the dried kelp - failed]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1433">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1434"></child>
+        </children>
+    </item>
+    <item nodeId="node-1434">
+        <command xml:space="preserve">strike match</command>
+        <result xml:space="preserve">What do you want to strike the match on?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1435"></child>
+        </children>
+    </item>
+    <item nodeId="node-1435">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1472"></child>
+        </children>
+    </item>
+    <item nodeId="node-1472">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">The match is burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1473"></child>
+        </children>
+    </item>
+    <item nodeId="node-1473">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1474"></child>
+        </children>
+    </item>
+    <item nodeId="node-1474">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1475"></child>
+        </children>
+    </item>
+    <item nodeId="node-1475">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">The match is burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1536"></child>
+        </children>
+    </item>
+    <item nodeId="node-1536">
+        <command xml:space="preserve">put match in matchbox</command>
+        <result xml:space="preserve">The matchbox is closed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1537"></child>
+        </children>
+    </item>
+    <item nodeId="node-1537">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">You open the matchbox, revealing two matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1538"></child>
+        </children>
+    </item>
+    <item nodeId="node-1538">
+        <command xml:space="preserve">put match in matchbox</command>
+        <result xml:space="preserve">You put the match into the matchbox.
+
+The match is making it hot in the matchbox.
+
+The match ignites.
+
+The match ignites.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1604"></child>
+        </children>
+    </item>
+    <item nodeId="node-1604">
+        <command xml:space="preserve">x matchbox</command>
+        <result xml:space="preserve">In the matchbox are three matches.
+
+The match is making it hot in the matchbox.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1605"></child>
+        </children>
+    </item>
+    <item nodeId="node-1605">
+        <command xml:space="preserve">x matches</command>
+        <result xml:space="preserve">You can't use multiple objects with that verb.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1606"></child>
+        </children>
+    </item>
+    <item nodeId="node-1606">
+        <command xml:space="preserve">x matchbox</command>
+        <result xml:space="preserve">In the matchbox are three matches.
+
+The match is making it hot in the matchbox.
+
+The match has already been burned.
+
+The match has stopped burning.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1607"></child>
+        </children>
+    </item>
+    <item nodeId="node-1607">
+        <command xml:space="preserve">x matchbox</command>
+        <result xml:space="preserve">In the matchbox are three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1625"></child>
+        </children>
+    </item>
+    <item nodeId="node-1625">
+        <command xml:space="preserve">get the driftwood</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1626"></child>
+        </children>
+    </item>
+    <item nodeId="node-1626">
+        <command xml:space="preserve">put the driftwood in the ring</command>
+        <result xml:space="preserve">You put the driftwood into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1627"></child>
+        </children>
+    </item>
+    <item nodeId="node-1627">
+        <command xml:space="preserve">ignite driftwood</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1628"></child>
+        </children>
+    </item>
+    <item nodeId="node-1628">
+        <command xml:space="preserve">x driftwood</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1692"></child>
+        </children>
+    </item>
+    <item nodeId="node-1692">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1693"></child>
+        </children>
+    </item>
+    <item nodeId="node-1693">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1694">
+        <command xml:space="preserve">get kelp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1695"></child>
+        </children>
+    </item>
+    <item nodeId="node-1695">
+        <command xml:space="preserve">put kelp in ring</command>
+        <result xml:space="preserve">You put the dried kelp into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1696"></child>
+        </children>
+    </item>
+    <item nodeId="node-1696">
+        <command xml:space="preserve">put driftwood in ring</command>
+        <result xml:space="preserve">(first taking the driftwood log)
+You put the driftwood log into the ring of rocks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1697"></child>
+        </children>
+    </item>
+    <item nodeId="node-1697">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Chilly Beach
+There is a ring of rocks that would make an excellent firepit.
+
+You can see a matchbox (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1698"></child>
+        </children>
+    </item>
+    <item nodeId="node-1698">
+        <command xml:space="preserve">get matchbox</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1699"></child>
+        </children>
+    </item>
+    <item nodeId="node-1699">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">You open the matchbox, revealing three matches.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1700"></child>
+        </children>
+    </item>
+    <item nodeId="node-1700">
+        <command xml:space="preserve">get match</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1701"></child>
+        </children>
+    </item>
+    <item nodeId="node-1701">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">You already have one.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1702"></child>
+        </children>
+    </item>
+    <item nodeId="node-1702">
+        <command xml:space="preserve">close matchbox</command>
+        <result xml:space="preserve">You close the matchbox.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1703"></child>
+        </children>
+    </item>
+    <item nodeId="node-1703">
+        <command xml:space="preserve">strike match on matchbox</command>
+        <result xml:space="preserve">You carefully strike the match on the matchbox and it sparks to life.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1704"></child>
+        </children>
+    </item>
+    <item nodeId="node-1704">
+        <command xml:space="preserve">drop match in ring</command>
+        <result xml:space="preserve">You put the match into the ring of rocks.
+
+The dried kelp ignites.
+
+The match has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1705"></child>
+        </children>
+    </item>
+    <item nodeId="node-1705">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Chilly Beach
+There is a ring of rocks that would make an excellent firepit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1706"></child>
+        </children>
+    </item>
+    <item nodeId="node-1706">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve"> is aflame.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1707"></child>
+        </children>
+    </item>
+    <item nodeId="node-1707">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">(the matchbox)
+You see nothing special about the matchbox.
+
+The driftwood log ignites.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1708"></child>
+        </children>
+    </item>
+    <item nodeId="node-1708">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1709"></child>
+        </children>
+    </item>
+    <item nodeId="node-1709">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+The dried kelp has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1710"></child>
+        </children>
+    </item>
+    <item nodeId="node-1710">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1728"></child>
+        </children>
+    </item>
+    <item nodeId="node-1728">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1819"></child>
+        </children>
+    </item>
+    <item nodeId="node-1819">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a match, a driftwood log and some dried kelp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1820"></child>
+        </children>
+    </item>
+    <item nodeId="node-1820">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1821"></child>
+        </children>
+    </item>
+    <item nodeId="node-1821">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are a match, a driftwood log and some dried kelp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1822"></child>
+        </children>
+    </item>
+    <item nodeId="node-1822">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">It crumbles to ashes as you touch it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1823"></child>
+        </children>
+    </item>
+    <item nodeId="node-1823">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a matchbox (closed)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1824"></child>
+        </children>
+    </item>
+    <item nodeId="node-1824">
+        <command xml:space="preserve">i match</command>
+        <result xml:space="preserve">I only understood you as far as wanting to take inventory.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1849"></child>
+        </children>
+    </item>
+    <item nodeId="node-1849">
+        <command xml:space="preserve">x match</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1925"></child>
+        </children>
+    </item>
+    <item nodeId="node-1925">
+        <command xml:space="preserve">take driftwood</command>
+        <result xml:space="preserve">It's a bad idea to do that while it's burning.
+
+The driftwood log has stopped burning.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1926"></child>
+        </children>
+    </item>
+    <item nodeId="node-1926">
+        <command xml:space="preserve">g</command>
+        <result xml:space="preserve">It crumbles to ashes as you touch it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1927"></child>
+        </children>
+    </item>
+    <item nodeId="node-1927">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1928"></child>
+        </children>
+    </item>
+    <item nodeId="node-1928">
+        <command xml:space="preserve">take kelp</command>
+        <result xml:space="preserve">It crumbles to ashes as you touch it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1929"></child>
+        </children>
+    </item>
+    <item nodeId="node-1929">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Chilly Beach
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1930"></child>
+        </children>
+    </item>
+    <item nodeId="node-1930">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">In the ring of rocks are some dried kelp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1931"></child>
+        </children>
+    </item>
+    <item nodeId="node-1931">
+        <command xml:space="preserve">x kelp</command>
+        <result xml:space="preserve"> has burned out.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2799"></child>
+        </children>
+    </item>
+    <item nodeId="node-2799">
+        <command xml:space="preserve">take kelp</command>
+        <result xml:space="preserve">It crumbles to ashes as you touch it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2800"></child>
+        </children>
+    </item>
+    <item nodeId="node-2800">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">The ring of rocks is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2801"></child>
+        </children>
+    </item>
+    <item nodeId="node-2801">
+        <command xml:space="preserve">rules</command>
+        <result xml:space="preserve">Rules tracing now switched on. Type "rules off" to switch it off again, or "rules all" to include even rules which do not apply.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2802"></child>
+        </children>
+    </item>
+    <item nodeId="node-2802">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+The ring of rocks is empty.
+
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2803"></child>
+        </children>
+    </item>
+    <item nodeId="node-2803">
+        <command xml:space="preserve">rules all</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+Rules tracing now switched to "all". Type "rules off" to switch it off again.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2804"></child>
+        </children>
+    </item>
+    <item nodeId="node-2804">
+        <command xml:space="preserve">x ring</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+[Rule "announce items from multiple object lists rule" applies.]
+[Rule "set pronouns from items from multiple object lists rule" applies.]
+[Rule "before stage rule" applies.]
+[Rule "can't act in the dark rule" applies.]
+[Rule "instead stage rule" applies.]
+[Rule "Instead of examining a flammable item" does not apply (wrong action).]
+[Rule "Instead of examining a flammable item ( called the fuel )" does not apply (wrong action).]
+[Rule "investigate player's awareness before action rule" applies.]
+[Rule "player aware of his own actions rule" applies.]
+[Rule "check stage rule" applies.]
+[Rule "carry out stage rule" applies.]
+[Rule "standard examining rule" applies.]
+[Rule "examine directions rule" applies.]
+[Rule "examine containers rule" applies.]
+The ring of rocks is empty.
+
+[Rule "examine supporters rule" applies.]
+[Rule "examine devices rule" applies.]
+[Rule "examine undescribed things rule" applies.]
+[Rule "after stage rule" applies.]
+[Rule "investigate player's awareness after action rule" applies.]
+[Rule "report stage rule" applies.]
+[Rule "report other people examining rule" applies.]
+[Rule "last specific action-processing rule" applies.]
+[Rule "A first turn sequence rule" applies.]
+[Rule "every turn stage rule" applies.]
+[Rule "Every turn when a burning thing is visible" does not apply (wrong context).]
+[Rule "A last turn sequence rule" applies.]
+[Rule "notify score changes rule" applies.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-2805"></child>
+        </children>
+    </item>
+    <item nodeId="node-2805">
+        <command xml:space="preserve">rules off</command>
+        <result xml:space="preserve">[Rule "declare everything initially unmentioned rule" applies.]
+Rules tracing now switched off. Type "rules" to switch it on again.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1348">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3327"></child>
+            <child nodeId="node-1349"></child>
+        </children>
+    </item>
+    <item nodeId="node-1349">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1350"></child>
+        </children>
+    </item>
+    <item nodeId="node-1350">
+        <command xml:space="preserve">open matchbox</command>
+        <result xml:space="preserve">[opening the matchbox]
+(taking nothing first)
+[(1) taking the matchbox]
+Taken.
+[(1) taking the matchbox - succeeded]
+
+You open the matchbox, revealing three matches.
+[opening the matchbox - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1351"></child>
+        </children>
+    </item>
+    <item nodeId="node-1351">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">[taking the match]
+Taken.
+[taking the match - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1352"></child>
+        </children>
+    </item>
+    <item nodeId="node-1352">
+        <command xml:space="preserve">take match from matchbox</command>
+        <result xml:space="preserve">[removing the match from the matchbox]
+[(1) taking the match]
+Taken.
+[(1) taking the match - succeeded]
+
+[removing the match from the matchbox - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-3327">
+        <command xml:space="preserve">put kelp in ring</command>
+        <result xml:space="preserve">[inserting the dried kelp into the ring of rocks]
+(first taking the dried kelp)
+[(1) taking the dried kelp - silently]
+[(1) taking the dried kelp - silently - succeeded]
+
+You put the dried kelp into the ring of rocks.
+[inserting the dried kelp into the ring of rocks - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3330"></child>
+        </children>
+    </item>
+    <item nodeId="node-3330">
+        <command xml:space="preserve">open box</command>
+        <result xml:space="preserve">[opening the matchbox]
+(taking nothing first)
+[(1) taking the matchbox]
+Taken.
+[(1) taking the matchbox - succeeded]
+
+You open the matchbox, revealing three matches.
+[opening the matchbox - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3331"></child>
+        </children>
+    </item>
+    <item nodeId="node-3331">
+        <command xml:space="preserve">take match</command>
+        <result xml:space="preserve">[taking the match]
+Taken.
+[taking the match - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3332"></child>
+        </children>
+    </item>
+    <item nodeId="node-3332">
+        <command xml:space="preserve">close box</command>
+        <result xml:space="preserve">[closing the matchbox]
+You close the matchbox.
+[closing the matchbox - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3333"></child>
+        </children>
+    </item>
+    <item nodeId="node-3333">
+        <command xml:space="preserve">light match</command>
+        <result xml:space="preserve">[lighting up the match]
+[(1) striking the match on the matchbox]
+You carefully strike the match on the matchbox and it sparks to life.
+
+[(1) striking the match on the matchbox - succeeded]
+
+[lighting up the match - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3334"></child>
+        </children>
+    </item>
+    <item nodeId="node-3334">
+        <command xml:space="preserve">light kelp</command>
+        <result xml:space="preserve">[lighting up the dried kelp]
+[(1) lighting the dried kelp with the match]
+[(2) setting fire to the dried kelp]
+The dried kelp ignites.
+
+[(2) setting fire to the dried kelp - succeeded]
+
+[(1) lighting the dried kelp with the match - succeeded]
+
+[lighting up the dried kelp - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

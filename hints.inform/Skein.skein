@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-16842">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-16842">
+        <command xml:space="preserve">hints</command>
+        <result xml:space="preserve">
+
+
+You step into the Room of Bewilderment with the words of the host ringing in your ears: you can always ask for HELP.
+
+Basics
+An Interactive Fiction
+Release 1 / Serial number 210321 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Room of Bewilderment
+You're bewildered.
+Exits are north and west.
+
+
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16848"></child>
+            <child nodeId="node-16843"></child>
+            <child nodeId="node-16872"></child>
+        </children>
+    </item>
+    <item nodeId="node-16872">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16873"></child>
+        </children>
+    </item>
+    <item nodeId="node-16873">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+other room
+
+The only exit leads south to the Room of Bewilderment.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16874"></child>
+        </children>
+    </item>
+    <item nodeId="node-16874">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Room of Bewilderment
+You're still bewildered.
+Exits go north to the other room and west.
+
+
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16875"></child>
+        </children>
+    </item>
+    <item nodeId="node-16875">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+third room
+It looks the same, only different.
+The only exit goes east to the Room of Bewilderment.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16876"></child>
+        </children>
+    </item>
+    <item nodeId="node-16876">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16877"></child>
+        </children>
+    </item>
+    <item nodeId="node-16877">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Room of Bewilderment
+You're still bewildered.
+Exits lead north to the other room and west to the third room.
+
+
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-16843">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+other room
+
+The only exit goes south.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16844"></child>
+        </children>
+    </item>
+    <item nodeId="node-16844">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Room of Bewilderment
+You're still bewildered.
+Exits go north and west.
+
+
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16847"></child>
+            <child nodeId="node-16845"></child>
+        </children>
+    </item>
+    <item nodeId="node-16845">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+third room
+It looks the same, only different.
+The only exit leads east.
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16846"></child>
+        </children>
+    </item>
+    <item nodeId="node-16846">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Room of Bewilderment
+You're still bewildered.
+Exits lead north and west.
+
+
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-16847">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">
+Room of Bewilderment
+You're still bewildered.
+The only exit leads north.
+
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-16848">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">
+Room of Bewilderment
+You can see a panel of 57 brass buttons, a trap door, a lever marked DO NOT PULL, a brightly-gleaming sawblade and a sheet of instructions in Mandarin here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16849"></child>
+        </children>
+    </item>
+    <item nodeId="node-16849">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Base of Mount Kosciusko
+You stand at the base of Mount Kosciusko. (Type HELP to visit the help menus).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16850"></child>
+        </children>
+    </item>
+    <item nodeId="node-16850">
+        <command xml:space="preserve">look at me</command>
+        <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16851"></child>
+        </children>
+    </item>
+    <item nodeId="node-16851">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16852"></child>
+        </children>
+    </item>
+    <item nodeId="node-16852">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16853"></child>
+        </children>
+    </item>
+    <item nodeId="node-16853">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16854"></child>
+        </children>
+    </item>
+    <item nodeId="node-16854">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16855"></child>
+        </children>
+    </item>
+    <item nodeId="node-16855">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16856"></child>
+        </children>
+    </item>
+    <item nodeId="node-16856">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16857"></child>
+        </children>
+    </item>
+    <item nodeId="node-16857">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16858"></child>
+        </children>
+    </item>
+    <item nodeId="node-16858">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">Base of Mount Kosciusko
+You stand at the base of Mount Kosciusko. (Type HELP to visit the help menus).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16859"></child>
+        </children>
+    </item>
+    <item nodeId="node-16859">
+        <command xml:space="preserve">flame-o</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16860"></child>
+        </children>
+    </item>
+    <item nodeId="node-16860">
+        <command xml:space="preserve">flame</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16861"></child>
+        </children>
+    </item>
+    <item nodeId="node-16861">
+        <command xml:space="preserve">flameo</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16862"></child>
+        </children>
+    </item>
+    <item nodeId="node-16862">
+        <command xml:space="preserve">cast</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16863"></child>
+        </children>
+    </item>
+    <item nodeId="node-16863">
+        <command xml:space="preserve">hnt</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16864"></child>
+        </children>
+    </item>
+    <item nodeId="node-16864">
+        <command xml:space="preserve">hint</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16865"></child>
+        </children>
+    </item>
+    <item nodeId="node-16865">
+        <command xml:space="preserve">climb</command>
+        <result xml:space="preserve">What do you want to climb?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16866"></child>
+        </children>
+    </item>
+    <item nodeId="node-16866">
+        <command xml:space="preserve">mount</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16867"></child>
+        </children>
+    </item>
+    <item nodeId="node-16867">
+        <command xml:space="preserve">climb mount</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16868"></child>
+        </children>
+    </item>
+    <item nodeId="node-16868">
+        <command xml:space="preserve">cast flame at mount</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-16869"></child>
+        </children>
+    </item>
+    <item nodeId="node-16869">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">Base of Mount Kosciusko
+You stand at the base of Mount Kosciusko. (Type HELP to visit the help menus).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
