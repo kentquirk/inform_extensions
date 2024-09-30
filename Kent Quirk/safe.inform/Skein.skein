@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-6078">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-6078">
+        <command xml:space="preserve">safe</command>
+        <result xml:space="preserve">
+
+
+Safety
+An Interactive Fiction
+Release 1 / Serial number 210325 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Vault
+Snug yet paranoid, this represents the state of the art in cheerless security.
+
+A small wall safe, labeled "Vanguard Safe-T-Max 9000", stares back at you intimidatingly. The dial is numbered from 0 to 59.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6117"></child>
+            <child nodeId="node-6109"></child>
+            <child nodeId="node-6081"></child>
+        </children>
+    </item>
+    <item nodeId="node-6081">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] open safe
+The safe opens only when spun to the correct combination.
+
+&gt;[2] spin safe to 1131
+The dial only goes up to 59.
+
+&gt;[3] open safe
+The safe opens only when spun to the correct combination.
+
+&gt;[4] spin safe to 31
+The dial makes a quiet ratchet sound while you turn it.
+
+&gt;[5] spin safe to 41
+The dial makes a quiet ratchet sound while you turn it.
+
+&gt;[6] spin safe to 59
+You hear a clunk and the safe door swings slowly open, revealing a silver florin.
+
+&gt;[7] x safe
+In the safe is a silver florin.
+
+&gt;[8] get florin
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] open safe
+[2] spin safe to 1131
+[3] open safe
+[4] spin safe to 31
+[5] spin safe to 41
+[6] spin safe to 59
+[7] x safe
+[8] get florin
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-6109">
+        <command xml:space="preserve">spin safe to 13</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6110"></child>
+        </children>
+    </item>
+    <item nodeId="node-6110">
+        <command xml:space="preserve">spin safe to 84</command>
+        <result xml:space="preserve">Clonk! and the safe door swings slowly open, revealing a silver florin.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6111"></child>
+        </children>
+    </item>
+    <item nodeId="node-6111">
+        <command xml:space="preserve">showme safe</command>
+        <result xml:space="preserve">Safe - open container
+    silver florin
+location: in the Vault
+singular-named, improper-named; unlit, inedible, fixed in place; opaque, open, unopenable, unlocked
+list grouping key: none
+printed name: "Safe"
+printed plural name: "containers"
+indefinite article: none
+description: none
+initial appearance: "A mammoth safe, with a dial which can spin to any number, has pride of place. It must weigh about the same as a small car, so don't get any ideas."
+carrying capacity: 100
+combo: 1384
+correct combo: 1384
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6112"></child>
+        </children>
+    </item>
+    <item nodeId="node-6112">
+        <command xml:space="preserve">spin safe to 3</command>
+        <result xml:space="preserve">Click! and nothing else happens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-6117">
+        <command xml:space="preserve">spin safe to 10</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6118"></child>
+        </children>
+    </item>
+    <item nodeId="node-6118">
+        <command xml:space="preserve">spin safe to 20</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6123"></child>
+        </children>
+    </item>
+    <item nodeId="node-6123">
+        <command xml:space="preserve">spin safe to 13</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6124"></child>
+        </children>
+    </item>
+    <item nodeId="node-6124">
+        <command xml:space="preserve">spin safe to 8</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6125"></child>
+        </children>
+    </item>
+    <item nodeId="node-6125">
+        <command xml:space="preserve">spin safe to 0</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6126"></child>
+        </children>
+    </item>
+    <item nodeId="node-6126">
+        <command xml:space="preserve">spin safe to 13</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6127"></child>
+        </children>
+    </item>
+    <item nodeId="node-6127">
+        <command xml:space="preserve">spin safe to 84</command>
+        <result xml:space="preserve">The dial only goes up to 59.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6142"></child>
+        </children>
+    </item>
+    <item nodeId="node-6142">
+        <command xml:space="preserve">spin safe to 31</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6143"></child>
+        </children>
+    </item>
+    <item nodeId="node-6143">
+        <command xml:space="preserve">spin safe to 41</command>
+        <result xml:space="preserve">The dial makes a quiet ratchet sound while you turn it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6144"></child>
+        </children>
+    </item>
+    <item nodeId="node-6144">
+        <command xml:space="preserve">spin safe to 59</command>
+        <result xml:space="preserve">You hear a clunk and the safe door swings slowly open, revealing a silver florin.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6145"></child>
+        </children>
+    </item>
+    <item nodeId="node-6145">
+        <command xml:space="preserve">showme safe</command>
+        <result xml:space="preserve">safe - open container
+    silver florin
+location: in the Vault
+singular-named, improper-named; unlit, inedible, fixed in place; opaque, open, unopenable, unlocked
+list grouping key: none
+printed name: "safe"
+printed plural name: "containers"
+indefinite article: none
+description: none
+initial appearance: "A small wall safe, labeled "Vanguard Safe-T-Max 9000", stares back at you intimidatingly. The dial is numbered from 0 to 59."
+carrying capacity: 100
+combo: 314159
+correct combo: 314159
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

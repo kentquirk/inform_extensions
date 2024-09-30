@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1840">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1840">
+        <command xml:space="preserve">functions</command>
+        <result xml:space="preserve">
+
+
+functions
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210403 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Example Location
+You can see a foo and a bar here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-7039"></child>
+            <child nodeId="node-1841"></child>
+        </children>
+    </item>
+    <item nodeId="node-1841">
+        <command xml:space="preserve">take bar</command>
+        <result xml:space="preserve">frizzle-bar frazzle-bar 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1842"></child>
+        </children>
+    </item>
+    <item nodeId="node-1842">
+        <command xml:space="preserve">take foo</command>
+        <result xml:space="preserve">frizzle-foo frazzle-foo 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1843"></child>
+        </children>
+    </item>
+    <item nodeId="node-1843">
+        <command xml:space="preserve">put foo on bar</command>
+        <result xml:space="preserve">(first taking the foo)
+frizzle-foo frazzle-foo 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1844"></child>
+        </children>
+    </item>
+    <item nodeId="node-1844">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Example Location
+You can see a foo and a bar here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-7039">
+        <command xml:space="preserve">score</command>
+        <result xml:space="preserve">You have so far scored 0 out of a possible 0, in 1 turn.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-7040"></child>
+        </children>
+    </item>
+    <item nodeId="node-7040">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-7041"></child>
+        </children>
+    </item>
+    <item nodeId="node-7041">
+        <command xml:space="preserve">score</command>
+        <result xml:space="preserve">[requesting the score]
+You have so far scored 0 out of a possible 0, in 1 turn.
+[requesting the score - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

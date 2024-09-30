@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-15007">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-15007">
+        <command xml:space="preserve">Fire</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

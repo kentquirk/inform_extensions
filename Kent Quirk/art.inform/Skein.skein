@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-6190">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-6190">
+        <command xml:space="preserve">art</command>
+        <result xml:space="preserve">
+
+
+art
+An Interactive Fiction by Kent Quirk
+Release 1 / Serial number 210325 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Gallery
+You can see Mona Lisa and Guernica here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6215"></child>
+            <child nodeId="node-6193"></child>
+        </children>
+    </item>
+    <item nodeId="node-6193">
+        <command xml:space="preserve">x mona</command>
+        <result xml:space="preserve">Her mysterious smile has captivated people for hundreds of years. She appears to be slightly amused at something beyond your shoulder, while at the same time the Italian countryside is arrayed beyond her shoulder in exchange.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6196"></child>
+        </children>
+    </item>
+    <item nodeId="node-6196">
+        <command xml:space="preserve">take mona</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6197"></child>
+        </children>
+    </item>
+    <item nodeId="node-6197">
+        <command xml:space="preserve">drop mona</command>
+        <result xml:space="preserve">You hang it carefully on the wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6198"></child>
+        </children>
+    </item>
+    <item nodeId="node-6198">
+        <command xml:space="preserve">take mona</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6199"></child>
+        </children>
+    </item>
+    <item nodeId="node-6199">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6200"></child>
+        </children>
+    </item>
+    <item nodeId="node-6200">
+        <command xml:space="preserve">drop mona</command>
+        <result xml:space="preserve">[dropping Mona Lisa]
+You hang it carefully on the wall.
+[dropping Mona Lisa - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6213"></child>
+        </children>
+    </item>
+    <item nodeId="node-6213">
+        <command xml:space="preserve">take mona</command>
+        <result xml:space="preserve">[taking Mona Lisa]
+Taken.
+[taking Mona Lisa - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6214"></child>
+        </children>
+    </item>
+    <item nodeId="node-6214">
+        <command xml:space="preserve">hang mona</command>
+        <result xml:space="preserve">[dropping Mona Lisa]
+You hang it carefully on the wall.
+[dropping Mona Lisa - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-6215">
+        <command xml:space="preserve">take mona</command>
+        <result xml:space="preserve">Behind Mona Lisa you uncover the wall safe.
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6216"></child>
+        </children>
+    </item>
+    <item nodeId="node-6216">
+        <command xml:space="preserve">hang mona</command>
+        <result xml:space="preserve">You hang Mona Lisa over the wall safe, hiding it from view.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6221"></child>
+        </children>
+    </item>
+    <item nodeId="node-6221">
+        <command xml:space="preserve">take mona</command>
+        <result xml:space="preserve">Behind Mona Lisa you uncover the wall safe.
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6222"></child>
+        </children>
+    </item>
+    <item nodeId="node-6222">
+        <command xml:space="preserve">showme mona</command>
+        <result xml:space="preserve">Mona Lisa - Framed Art
+location: carried by yourself in the Gallery
+singular-named, proper-named; unlit, inedible, portable, handled
+list grouping key: none
+printed name: "Mona Lisa"
+printed plural name: "Framed Arts"
+indefinite article: none
+description: "Her mysterious smile has captivated people for hundreds of years. She appears to be slightly amused at something beyond your shoulder, while at the same time the Italian countryside is arrayed beyond her shoulder in exchange."
+initial appearance: none
+secret: wall safe
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6223"></child>
+        </children>
+    </item>
+    <item nodeId="node-6223">
+        <command xml:space="preserve">x wall safe</command>
+        <result xml:space="preserve">You see nothing special about the wall safe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6224"></child>
+        </children>
+    </item>
+    <item nodeId="node-6224">
+        <command xml:space="preserve">showme wall safe</command>
+        <result xml:space="preserve">wall safe - thing
+location: in the Gallery
+singular-named, improper-named; unlit, inedible, portable
+list grouping key: none
+printed name: "wall safe"
+printed plural name: none
+indefinite article: none
+description: none
+initial appearance: none
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6231"></child>
+        </children>
+    </item>
+    <item nodeId="node-6231">
+        <command xml:space="preserve">x mona</command>
+        <result xml:space="preserve">Her mysterious smile has captivated people for hundreds of years. She appears to be slightly amused at something beyond your shoulder, while at the same time the Italian countryside is arrayed beyond her shoulder in exchange.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6232"></child>
+        </children>
+    </item>
+    <item nodeId="node-6232">
+        <command xml:space="preserve">x guernica</command>
+        <result xml:space="preserve">This cubist masterpiece is both strange and chilling, depicting the sack of the Spanish city of Guernica from all angles at once.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6233"></child>
+        </children>
+    </item>
+    <item nodeId="node-6233">
+        <command xml:space="preserve">take guernica</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6234"></child>
+        </children>
+    </item>
+    <item nodeId="node-6234">
+        <command xml:space="preserve">x yourself</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6235"></child>
+        </children>
+    </item>
+    <item nodeId="node-6235">
+        <command xml:space="preserve">x me</command>
+        <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-6236"></child>
+        </children>
+    </item>
+    <item nodeId="node-6236">
+        <command xml:space="preserve">showme guernica</command>
+        <result xml:space="preserve">Guernica - Framed Art
+location: carried by yourself in the Gallery
+singular-named, proper-named; unlit, inedible, portable, handled
+list grouping key: none
+printed name: "Guernica"
+printed plural name: "Framed Arts"
+indefinite article: none
+description: "This cubist masterpiece is both strange and chilling, depicting the sack of the Spanish city of Guernica from all angles at once."
+initial appearance: none
+secret: null secret
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

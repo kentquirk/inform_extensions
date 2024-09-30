@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-3047">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-3047">
+        <command xml:space="preserve">test</command>
+        <result xml:space="preserve">
+
+
+The Garage
+An Interactive Fiction
+Release 1 / Serial number 210324 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Garage
+It's a typical garage, with exposed studs and assorted debris in the corners.
+
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job.
+
+On the old bike is the rear wheel (on which is the inflated black tire).
+
+You can also see a front wheel, a flat red tire, a floor pump and an oil can here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3048"></child>
+        </children>
+    </item>
+    <item nodeId="node-3048">
+        <command xml:space="preserve">put red tire on front wheel</command>
+        <result xml:space="preserve">(first taking the flat red tire)
+You have to wrestle with it, but you manage to get the flat red tire all the way onto the rim of the front wheel.
+
+You put the flat red tire on the front wheel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3049"></child>
+        </children>
+    </item>
+    <item nodeId="node-3049">
+        <command xml:space="preserve">put front wheel on bike</command>
+        <result xml:space="preserve">(first taking the front wheel)
+You put the front wheel on the old bike.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3050"></child>
+        </children>
+    </item>
+    <item nodeId="node-3050">
+        <command xml:space="preserve">pump front wheel</command>
+        <result xml:space="preserve">You apply the hose to the tire stem, pump for a bit, and the flat red tire inflates.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3051"></child>
+        </children>
+    </item>
+    <item nodeId="node-3051">
+        <command xml:space="preserve">oil chain with oil can</command>
+        <result xml:space="preserve">You carefully apply a drop of oil to each joint. The chain is now operating smoothly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3052"></child>
+        </children>
+    </item>
+    <item nodeId="node-3052">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle, but it is very dirty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3053"></child>
+        </children>
+    </item>
+    <item nodeId="node-3053">
+        <command xml:space="preserve">clean bike</command>
+        <result xml:space="preserve">You use quite a few wet wipes to get all the dust, mud, and grease off the frame, seat, and handlebars. It looks amazing now.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3054"></child>
+        </children>
+    </item>
+    <item nodeId="node-3054">
+        <command xml:space="preserve">x bike</command>
+        <result xml:space="preserve">You see an old Motobecane Super Mirage bicycle that's been fixed up and is ready to ride.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3055"></child>
+        </children>
+    </item>
+    <item nodeId="node-3055">
+        <command xml:space="preserve">ride bike</command>
+        <result xml:space="preserve">You mount the old bike.
+
+On the old bike you can see a front wheel (on which is an inflated red tire) and the rear wheel (on which is the inflated black tire).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-3056"></child>
+        </children>
+    </item>
+    <item nodeId="node-3056">
+        <command xml:space="preserve">out</command>
+        <result xml:space="preserve">You dismount the old bike.
+
+Garage
+It's a typical garage, with exposed studs and assorted debris in the corners.
+
+You can't quite believe what you're seeing. This is a Motobecane Super Mirage 10-speed bicycle, and it has to be at least 30 years old. This is the same brand and era as the first bike you ever owned. It probably just needs some tender loving care. And you're just right for the job.
+
+On the old bike are a front wheel (on which is an inflated red tire) and the rear wheel (on which is the inflated black tire).
+
+You can also see a floor pump and an oil can here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

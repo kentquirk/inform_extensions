@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1946">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1946">
+        <command xml:space="preserve">FlagsNPoles</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
